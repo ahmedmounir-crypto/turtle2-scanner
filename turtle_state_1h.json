@@ -70,5 +70,17 @@
     "entry_price": 104.43,
     "entry_time": "2026-08-16 19:00:00",
     "entry_swrsi": 77.92892712401989
+  },
+  "NES/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.2135,
+    "entry_time": "2026-08-16 20:00:00",
+    "entry_swrsi": 76.27950357432319
+  },
+  "XGEV/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1068.99,
+    "entry_time": "2026-08-16 20:00:00",
+    "entry_swrsi": 51.931611255325784
   }
 }
