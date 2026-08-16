@@ -82,5 +82,11 @@
     "entry_price": 1068.99,
     "entry_time": "2026-08-16 20:00:00",
     "entry_swrsi": 51.931611255325784
+  },
+  "XCH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.38,
+    "entry_time": "2026-08-16 21:00:00",
+    "entry_swrsi": 75.43549923068554
   }
 }
