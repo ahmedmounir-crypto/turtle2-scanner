@@ -1,0 +1,91 @@
+name: Turtle2 SWRSI Live Scanner
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min — 1h signal tracking
+    - cron: "0 * * * *"      # every hour — 1d signal tracking
+  workflow_dispatch: {}
+
+jobs:
+  turtle-scan-1h:
+    if: github.event.schedule == '*/15 * * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    concurrency:
+      group: turtle-1h-state
+      cancel-in-progress: false
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pandas numpy ccxt requests
+
+      - name: Scan 1h for signals + track reversals
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: >
+          python turtle2.py
+          --exchange okx
+          --all_coins
+          --timeframe 1h
+          --buy_level 20
+          --sell_level 80
+          --state_file turtle_state_1h.json
+          --telegram
+
+      - name: Commit updated state
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Turtle 1h state update"
+          file_pattern: "turtle_state_1h.json"
+
+  turtle-scan-1d:
+    if: github.event.schedule == '0 * * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    concurrency:
+      group: turtle-1d-state
+      cancel-in-progress: false
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pandas numpy ccxt requests
+
+      - name: Scan 1d for signals + track reversals
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: >
+          python turtle2.py
+          --exchange okx
+          --all_coins
+          --timeframe 1d
+          --buy_level 20
+          --sell_level 80
+          --state_file turtle_state_1d.json
+          --telegram
+
+      - name: Commit updated state
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Turtle 1d state update"
+          file_pattern: "turtle_state_1d.json"
+          
