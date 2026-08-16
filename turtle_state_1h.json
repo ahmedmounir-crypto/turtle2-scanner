@@ -1,0 +1,14 @@
+{
+  "KAT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.004472,
+    "entry_time": "2026-08-16 15:00:00",
+    "entry_swrsi": 78.20767654557815
+  },
+  "WLFI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.06004,
+    "entry_time": "2026-08-16 15:00:00",
+    "entry_swrsi": 61.21468959046344
+  }
+}
