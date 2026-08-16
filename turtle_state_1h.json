@@ -16,5 +16,47 @@
     "entry_price": 0.3324,
     "entry_time": "2026-08-16 16:00:00",
     "entry_swrsi": 79.58676005942503
+  },
+  "ATH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.003929,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 72.21960094613858
+  },
+  "DOS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.2491,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 32.79477095320171
+  },
+  "ETHFI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.5078,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 76.97348161327137
+  },
+  "LDO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.3082,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 77.43002467860796
+  },
+  "MORPHO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2.002,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 74.80500604546526
+  },
+  "XCRCL/USDT|1h": {
+    "dir": "short",
+    "entry_price": 72.16,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 67.20485778989323
+  },
+  "XRKLB/USDT|1h": {
+    "dir": "short",
+    "entry_price": 81.63,
+    "entry_time": "2026-08-16 17:00:00",
+    "entry_swrsi": 77.86220999244408
   }
 }
