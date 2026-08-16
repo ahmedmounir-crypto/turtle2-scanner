@@ -64,5 +64,11 @@
     "entry_price": 222.95,
     "entry_time": "2026-08-16 18:00:00",
     "entry_swrsi": 75.80497049160616
+  },
+  "XINTC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 104.43,
+    "entry_time": "2026-08-16 19:00:00",
+    "entry_swrsi": 77.92892712401989
   }
 }
