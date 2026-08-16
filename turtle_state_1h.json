@@ -58,5 +58,11 @@
     "entry_price": 81.63,
     "entry_time": "2026-08-16 17:00:00",
     "entry_swrsi": 77.86220999244408
+  },
+  "XCBRS/USDT|1h": {
+    "dir": "short",
+    "entry_price": 222.95,
+    "entry_time": "2026-08-16 18:00:00",
+    "entry_swrsi": 75.80497049160616
   }
 }
