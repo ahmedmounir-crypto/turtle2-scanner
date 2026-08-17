@@ -454,5 +454,17 @@
     "entry_price": 984.02,
     "entry_time": "2026-08-17 18:00:00",
     "entry_swrsi": 76.97659980789585
+  },
+  "XUSAR/USDT|1h": {
+    "dir": "long",
+    "entry_price": 19.23,
+    "entry_time": "2026-08-17 19:00:00",
+    "entry_swrsi": 26.160942096272873
+  },
+  "YB/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.08083,
+    "entry_time": "2026-08-17 19:00:00",
+    "entry_swrsi": 49.92147169920786
   }
 }
