@@ -388,5 +388,11 @@
     "entry_price": 0.007887,
     "entry_time": "2026-08-17 14:00:00",
     "entry_swrsi": 71.56196931821188
+  },
+  "LRC/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.008318,
+    "entry_time": "2026-08-17 14:00:00",
+    "entry_swrsi": 32.83356568075944
   }
 }
