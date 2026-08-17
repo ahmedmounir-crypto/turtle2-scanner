@@ -238,5 +238,23 @@
     "entry_price": 28.3,
     "entry_time": "2026-08-17 04:00:00",
     "entry_swrsi": 26.672159444017353
+  },
+  "BTC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 63527.4,
+    "entry_time": "2026-08-17 07:00:00",
+    "entry_swrsi": 73.29138456310405
+  },
+  "XNVDA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 226.26,
+    "entry_time": "2026-08-17 07:00:00",
+    "entry_swrsi": 71.96350723769949
+  },
+  "XTSLA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 344.77,
+    "entry_time": "2026-08-17 07:00:00",
+    "entry_swrsi": 75.80067666156523
   }
 }
