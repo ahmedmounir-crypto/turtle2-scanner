@@ -178,5 +178,41 @@
     "entry_price": 44.97,
     "entry_time": "2026-08-16 23:00:00",
     "entry_swrsi": 57.46775608925584
+  },
+  "DUCK/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1.549e-05,
+    "entry_time": "2026-08-17 02:00:00",
+    "entry_swrsi": 25.538648947936263
+  },
+  "IRYS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.01558,
+    "entry_time": "2026-08-17 02:00:00",
+    "entry_swrsi": 26.40169478260333
+  },
+  "OFC/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.007904,
+    "entry_time": "2026-08-17 02:00:00",
+    "entry_swrsi": 26.960451618989584
+  },
+  "RE/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.41928,
+    "entry_time": "2026-08-17 02:00:00",
+    "entry_swrsi": 27.21392587266405
+  },
+  "SLX/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.0709,
+    "entry_time": "2026-08-17 02:00:00",
+    "entry_swrsi": 37.66933686564022
+  },
+  "XPLTR/USDT|1h": {
+    "dir": "long",
+    "entry_price": 174.36,
+    "entry_time": "2026-08-17 02:00:00",
+    "entry_swrsi": 23.657127669094514
   }
 }
