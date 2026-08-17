@@ -22,5 +22,29 @@
     "entry_price": 0.00281,
     "entry_time": "2026-08-15 00:00:00",
     "entry_swrsi": 25.03089642683285
+  },
+  "MEGA/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.03159,
+    "entry_time": "2026-08-16 00:00:00",
+    "entry_swrsi": 20.16953464765964
+  },
+  "OKB/USDT|1d": {
+    "dir": "short",
+    "entry_price": 104.09,
+    "entry_time": "2026-08-16 00:00:00",
+    "entry_swrsi": 78.24503830045394
+  },
+  "ONE/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.000711,
+    "entry_time": "2026-08-16 00:00:00",
+    "entry_swrsi": 21.02864056936755
+  },
+  "ZORA/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.004823,
+    "entry_time": "2026-08-16 00:00:00",
+    "entry_swrsi": 20.49690682977379
   }
 }
