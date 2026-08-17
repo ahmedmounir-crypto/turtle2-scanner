@@ -490,5 +490,23 @@
     "entry_price": 76.04,
     "entry_time": "2026-08-17 20:00:00",
     "entry_swrsi": 20.864317079727616
+  },
+  "ALLO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.29084,
+    "entry_time": "2026-08-17 21:00:00",
+    "entry_swrsi": 66.98294724514528
+  },
+  "CC/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.09069,
+    "entry_time": "2026-08-17 21:00:00",
+    "entry_swrsi": 20.730959017580194
+  },
+  "FOGO/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.00831,
+    "entry_time": "2026-08-17 21:00:00",
+    "entry_swrsi": 21.462021492000975
   }
 }
