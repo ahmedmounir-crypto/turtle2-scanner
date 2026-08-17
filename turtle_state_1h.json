@@ -214,5 +214,29 @@
     "entry_price": 174.36,
     "entry_time": "2026-08-17 02:00:00",
     "entry_swrsi": 23.657127669094514
+  },
+  "SPURS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.07234,
+    "entry_time": "2026-08-17 04:00:00",
+    "entry_swrsi": 38.116804206808
+  },
+  "XAMD/USDT|1h": {
+    "dir": "short",
+    "entry_price": 520.69,
+    "entry_time": "2026-08-17 04:00:00",
+    "entry_swrsi": 79.77649659773375
+  },
+  "XGME/USDT|1h": {
+    "dir": "long",
+    "entry_price": 18.74,
+    "entry_time": "2026-08-17 04:00:00",
+    "entry_swrsi": 31.291142357636215
+  },
+  "XHIMS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 28.3,
+    "entry_time": "2026-08-17 04:00:00",
+    "entry_swrsi": 26.672159444017353
   }
 }
