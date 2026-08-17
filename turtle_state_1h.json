@@ -142,5 +142,41 @@
     "entry_price": 0.002247,
     "entry_time": "2026-08-16 22:00:00",
     "entry_swrsi": 24.056760700009555
+  },
+  "JITOSOL/USDT|1h": {
+    "dir": "long",
+    "entry_price": 96.37,
+    "entry_time": "2026-08-16 23:00:00",
+    "entry_swrsi": 22.877450212742758
+  },
+  "MEW/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.000317,
+    "entry_time": "2026-08-16 23:00:00",
+    "entry_swrsi": 27.775823931002094
+  },
+  "RVN/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.002935,
+    "entry_time": "2026-08-16 23:00:00",
+    "entry_swrsi": 77.11538320963066
+  },
+  "SOPH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.003891,
+    "entry_time": "2026-08-16 23:00:00",
+    "entry_swrsi": 66.24784856389155
+  },
+  "XGOOGL/USDT|1h": {
+    "dir": "short",
+    "entry_price": 348.66,
+    "entry_time": "2026-08-16 23:00:00",
+    "entry_swrsi": 60.42577957788781
+  },
+  "XIREN/USDT|1h": {
+    "dir": "short",
+    "entry_price": 44.97,
+    "entry_time": "2026-08-16 23:00:00",
+    "entry_swrsi": 57.46775608925584
   }
 }
