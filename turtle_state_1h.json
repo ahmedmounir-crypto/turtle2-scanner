@@ -466,5 +466,29 @@
     "entry_price": 0.08083,
     "entry_time": "2026-08-17 19:00:00",
     "entry_swrsi": 49.92147169920786
+  },
+  "ATOM/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1.424,
+    "entry_time": "2026-08-17 20:00:00",
+    "entry_swrsi": 32.663004492101855
+  },
+  "BICO/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.02009,
+    "entry_time": "2026-08-17 20:00:00",
+    "entry_swrsi": 25.473860310141617
+  },
+  "XMETA/USDT|1h": {
+    "dir": "long",
+    "entry_price": 569.51,
+    "entry_time": "2026-08-17 20:00:00",
+    "entry_swrsi": 20.387604831406982
+  },
+  "XNFLX/USDT|1h": {
+    "dir": "long",
+    "entry_price": 76.04,
+    "entry_time": "2026-08-17 20:00:00",
+    "entry_swrsi": 20.864317079727616
   }
 }
