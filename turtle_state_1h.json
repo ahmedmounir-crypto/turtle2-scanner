@@ -364,5 +364,23 @@
     "entry_price": 151.05,
     "entry_time": "2026-08-17 11:00:00",
     "entry_swrsi": 74.58465024824967
+  },
+  "ASP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.00959,
+    "entry_time": "2026-08-17 12:00:00",
+    "entry_swrsi": 58.56332249092727
+  },
+  "CSPR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.003105,
+    "entry_time": "2026-08-17 12:00:00",
+    "entry_swrsi": 72.5625527742462
+  },
+  "XADBE/USDT|1h": {
+    "dir": "long",
+    "entry_price": 262.67,
+    "entry_time": "2026-08-17 12:00:00",
+    "entry_swrsi": 38.53707865741359
   }
 }
