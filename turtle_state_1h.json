@@ -624,10 +624,10 @@
     "entry_swrsi": 26.119060719895476
   },
   "WCT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.03263,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 26.45512255205984
+    "dir": "short",
+    "entry_price": 0.03421,
+    "entry_time": "2026-08-18 16:00:00",
+    "entry_swrsi": 78.48337734450823
   },
   "XQQQ/USDT|1h": {
     "dir": "long",
@@ -754,5 +754,29 @@
     "entry_price": 1.001,
     "entry_time": "2026-08-18 14:00:00",
     "entry_swrsi": 58.13285447295831
+  },
+  "VELO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.003305,
+    "entry_time": "2026-08-18 16:00:00",
+    "entry_swrsi": 72.83541095103598
+  },
+  "XALAB/USDT|1h": {
+    "dir": "long",
+    "entry_price": 299.22,
+    "entry_time": "2026-08-18 16:00:00",
+    "entry_swrsi": 24.584514956152237
+  },
+  "XASML/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1794.89,
+    "entry_time": "2026-08-18 16:00:00",
+    "entry_swrsi": 21.276374796357832
+  },
+  "XTQQQ/USDT|1h": {
+    "dir": "long",
+    "entry_price": 73.14,
+    "entry_time": "2026-08-18 16:00:00",
+    "entry_swrsi": 24.166887406024312
   }
 }
