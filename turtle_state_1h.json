@@ -132,10 +132,10 @@
     "entry_swrsi": 27.601967836875982
   },
   "XTSM/USDT|1h": {
-    "dir": "short",
-    "entry_price": 427.47,
-    "entry_time": "2026-08-16 22:00:00",
-    "entry_swrsi": 75.30877705636635
+    "dir": "long",
+    "entry_price": 421.54,
+    "entry_time": "2026-08-18 11:00:00",
+    "entry_swrsi": 23.16709074856845
   },
   "ZIL/USDT|1h": {
     "dir": "long",
