@@ -646,5 +646,35 @@
     "entry_price": 0.0739,
     "entry_time": "2026-08-18 04:00:00",
     "entry_swrsi": 29.764681595017407
+  },
+  "A/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.05965,
+    "entry_time": "2026-08-18 05:00:00",
+    "entry_swrsi": 21.688377207665045
+  },
+  "DEGEN/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.00095,
+    "entry_time": "2026-08-18 05:00:00",
+    "entry_swrsi": 27.26241655045067
+  },
+  "IMX/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.1017,
+    "entry_time": "2026-08-18 05:00:00",
+    "entry_swrsi": 25.519712854051388
+  },
+  "SKL/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.003278,
+    "entry_time": "2026-08-18 05:00:00",
+    "entry_swrsi": 20.433522366956396
+  },
+  "WAXP/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.003505,
+    "entry_time": "2026-08-18 05:00:00",
+    "entry_swrsi": 23.6388689358886
   }
 }
