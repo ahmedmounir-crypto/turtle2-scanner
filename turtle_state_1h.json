@@ -676,5 +676,23 @@
     "entry_price": 0.003505,
     "entry_time": "2026-08-18 05:00:00",
     "entry_swrsi": 23.6388689358886
+  },
+  "CRO/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.04623,
+    "entry_time": "2026-08-18 07:00:00",
+    "entry_swrsi": 21.69305274823023
+  },
+  "GALA/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.001423,
+    "entry_time": "2026-08-18 07:00:00",
+    "entry_swrsi": 21.49105329108019
+  },
+  "SPK/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.01354,
+    "entry_time": "2026-08-18 07:00:00",
+    "entry_swrsi": 20.22621902415393
   }
 }
