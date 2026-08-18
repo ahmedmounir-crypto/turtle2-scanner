@@ -46,5 +46,23 @@
     "entry_price": 0.004823,
     "entry_time": "2026-08-16 00:00:00",
     "entry_swrsi": 20.49690682977379
+  },
+  "CETUS/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.02147,
+    "entry_time": "2026-08-17 00:00:00",
+    "entry_swrsi": 77.94294221334849
+  },
+  "ETC/USDT|1d": {
+    "dir": "long",
+    "entry_price": 6.197,
+    "entry_time": "2026-08-17 00:00:00",
+    "entry_swrsi": 26.991471422676884
+  },
+  "SNT/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.00535,
+    "entry_time": "2026-08-17 00:00:00",
+    "entry_swrsi": 36.63745767149726
   }
 }
