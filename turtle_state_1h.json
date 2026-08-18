@@ -826,5 +826,11 @@
     "entry_price": 0.08741,
     "entry_time": "2026-08-18 20:00:00",
     "entry_swrsi": 20.267868983341174
+  },
+  "PAXG/USDT|1h": {
+    "dir": "long",
+    "entry_price": 4343.1,
+    "entry_time": "2026-08-18 21:00:00",
+    "entry_swrsi": 21.49897079005679
   }
 }
