@@ -880,5 +880,11 @@
     "entry_price": 0.01872,
     "entry_time": "2026-08-19 10:00:00",
     "entry_swrsi": 69.67265242390006
+  },
+  "ZRO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.8301,
+    "entry_time": "2026-08-19 11:00:00",
+    "entry_swrsi": 71.23039417168741
   }
 }
