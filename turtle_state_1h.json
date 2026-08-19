@@ -126,10 +126,10 @@
     "entry_swrsi": 24.042657392768803
   },
   "XPL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0751,
-    "entry_time": "2026-08-16 22:00:00",
-    "entry_swrsi": 27.601967836875982
+    "dir": "short",
+    "entry_price": 0.07867,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 79.31136023492682
   },
   "XTSM/USDT|1h": {
     "dir": "long",
@@ -210,10 +210,10 @@
     "entry_swrsi": 37.66933686564022
   },
   "XPLTR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 174.36,
-    "entry_time": "2026-08-17 02:00:00",
-    "entry_swrsi": 23.657127669094514
+    "dir": "short",
+    "entry_price": 174.5,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 71.0636226926965
   },
   "SPURS/USDT|1h": {
     "dir": "long",
@@ -420,10 +420,10 @@
     "entry_swrsi": 20.17415090044926
   },
   "LQTY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1893,
-    "entry_time": "2026-08-17 18:00:00",
-    "entry_swrsi": 23.109157010829303
+    "dir": "short",
+    "entry_price": 0.1926,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 78.9670471248695
   },
   "XAMAT/USDT|1h": {
     "dir": "short",
@@ -534,10 +534,10 @@
     "entry_swrsi": 23.449794358912378
   },
   "CHZ/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01186,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 25.65748763992187
+    "dir": "short",
+    "entry_price": 0.01244,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 79.97696039868208
   },
   "CVC/USDT|1h": {
     "dir": "long",
@@ -702,10 +702,10 @@
     "entry_swrsi": 25.061666117821794
   },
   "BREV/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.06307,
-    "entry_time": "2026-08-18 08:00:00",
-    "entry_swrsi": 24.388968445662318
+    "dir": "short",
+    "entry_price": 0.06648,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 76.2227318080775
   },
   "CITY/USDT|1h": {
     "dir": "long",
@@ -904,5 +904,23 @@
     "entry_price": 0.13254,
     "entry_time": "2026-08-19 14:00:00",
     "entry_swrsi": 23.918669818772834
+  },
+  "BNT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.2818,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 75.88027531991541
+  },
+  "CVX/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.601,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 73.53872278696532
+  },
+  "GLM/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.08897,
+    "entry_time": "2026-08-19 16:00:00",
+    "entry_swrsi": 72.8697850927915
   }
 }
