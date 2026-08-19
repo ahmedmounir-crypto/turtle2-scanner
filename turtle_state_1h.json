@@ -1072,5 +1072,17 @@
     "entry_price": 1.0003,
     "entry_time": "2026-08-19 19:00:00",
     "entry_swrsi": 25.364276715913867
+  },
+  "1INCH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.08507,
+    "entry_time": "2026-08-19 19:00:00",
+    "entry_swrsi": 63.95224073289989
+  },
+  "USD1/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.9997,
+    "entry_time": "2026-08-19 20:00:00",
+    "entry_swrsi": 29.123853318577183
   }
 }
