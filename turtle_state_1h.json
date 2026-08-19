@@ -1084,5 +1084,17 @@
     "entry_price": 0.9997,
     "entry_time": "2026-08-19 20:00:00",
     "entry_swrsi": 29.123853318577183
+  },
+  "LIT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2.6347,
+    "entry_time": "2026-08-19 21:00:00",
+    "entry_swrsi": 76.6407699490843
+  },
+  "MMT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1807,
+    "entry_time": "2026-08-19 21:00:00",
+    "entry_swrsi": 73.24967377330915
   }
 }
