@@ -600,10 +600,10 @@
     "entry_swrsi": 23.658104091202464
   },
   "SNX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1933,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 25.31932903746934
+    "dir": "short",
+    "entry_price": 0.1984,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 78.4755582486356
   },
   "SONIC/USDT|1h": {
     "dir": "long",
@@ -922,5 +922,71 @@
     "entry_price": 0.08897,
     "entry_time": "2026-08-19 16:00:00",
     "entry_swrsi": 72.8697850927915
+  },
+  "SAFE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.08673,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 73.09666714812536
+  },
+  "SLP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.000553,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 75.87986131590426
+  },
+  "STX/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1249,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 79.17946014809571
+  },
+  "SUSHI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.165,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 75.13327830998573
+  },
+  "TNSR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.03212,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 70.98191523349615
+  },
+  "UNI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 3.519,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 76.17916972375475
+  },
+  "XBMNR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 20.27,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 77.94855684111035
+  },
+  "XBSP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 41.44,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 79.62422174492134
+  },
+  "XHOOD/USDT|1h": {
+    "dir": "short",
+    "entry_price": 96.77,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 73.85631403494413
+  },
+  "XIWM/USDT|1h": {
+    "dir": "short",
+    "entry_price": 302.28,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 68.90532914744554
+  },
+  "ZORA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.005002,
+    "entry_time": "2026-08-19 17:00:00",
+    "entry_swrsi": 78.8903205360183
   }
 }
