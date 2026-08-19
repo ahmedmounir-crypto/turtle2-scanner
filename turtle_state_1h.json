@@ -856,5 +856,17 @@
     "entry_price": 0.0164,
     "entry_time": "2026-08-19 05:00:00",
     "entry_swrsi": 23.474638226288363
+  },
+  "RSR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.00117,
+    "entry_time": "2026-08-19 07:00:00",
+    "entry_swrsi": 70.81011721282614
+  },
+  "UMA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.3224,
+    "entry_time": "2026-08-19 07:00:00",
+    "entry_swrsi": 74.02488242121989
   }
 }
