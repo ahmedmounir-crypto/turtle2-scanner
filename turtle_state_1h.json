@@ -868,5 +868,11 @@
     "entry_price": 0.3224,
     "entry_time": "2026-08-19 07:00:00",
     "entry_swrsi": 74.02488242121989
+  },
+  "CARDS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.1669,
+    "entry_time": "2026-08-19 08:00:00",
+    "entry_swrsi": 26.191514667220805
   }
 }
