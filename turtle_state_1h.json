@@ -618,10 +618,10 @@
     "entry_swrsi": 28.824643278887333
   },
   "W/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.008154,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 26.119060719895476
+    "dir": "short",
+    "entry_price": 0.008473,
+    "entry_time": "2026-08-19 19:00:00",
+    "entry_swrsi": 78.78361362880405
   },
   "WCT/USDT|1h": {
     "dir": "short",
@@ -1054,5 +1054,23 @@
     "entry_price": 0.02854,
     "entry_time": "2026-08-19 18:00:00",
     "entry_swrsi": 78.96175531004687
+  },
+  "MINA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.04202,
+    "entry_time": "2026-08-19 19:00:00",
+    "entry_swrsi": 78.66792385181657
+  },
+  "PEOPLE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.00796,
+    "entry_time": "2026-08-19 19:00:00",
+    "entry_swrsi": 75.11767935365887
+  },
+  "USDC/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1.0003,
+    "entry_time": "2026-08-19 19:00:00",
+    "entry_swrsi": 25.364276715913867
   }
 }
