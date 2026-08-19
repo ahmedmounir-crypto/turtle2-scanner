@@ -144,10 +144,10 @@
     "entry_swrsi": 24.056760700009555
   },
   "JITOSOL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 96.37,
-    "entry_time": "2026-08-16 23:00:00",
-    "entry_swrsi": 22.877450212742758
+    "dir": "short",
+    "entry_price": 101.49,
+    "entry_time": "2026-08-19 13:00:00",
+    "entry_swrsi": 72.80852802804924
   },
   "MEW/USDT|1h": {
     "dir": "long",
@@ -886,5 +886,11 @@
     "entry_price": 0.8301,
     "entry_time": "2026-08-19 11:00:00",
     "entry_swrsi": 71.23039417168741
+  },
+  "SPACE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.004972,
+    "entry_time": "2026-08-19 13:00:00",
+    "entry_swrsi": 75.35822057713935
   }
 }
