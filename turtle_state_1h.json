@@ -138,10 +138,10 @@
     "entry_swrsi": 23.16709074856845
   },
   "ZIL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.002247,
-    "entry_time": "2026-08-16 22:00:00",
-    "entry_swrsi": 24.056760700009555
+    "dir": "short",
+    "entry_price": 0.002369,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 78.33753807426024
   },
   "JITOSOL/USDT|1h": {
     "dir": "short",
@@ -414,10 +414,10 @@
     "entry_swrsi": 72.67558268622527
   },
   "XMSTR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 92.98,
-    "entry_time": "2026-08-18 20:00:00",
-    "entry_swrsi": 20.17415090044926
+    "dir": "short",
+    "entry_price": 103.51,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 78.36057135593693
   },
   "LQTY/USDT|1h": {
     "dir": "short",
@@ -528,10 +528,10 @@
     "entry_swrsi": 28.662276497671748
   },
   "CELO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.05788,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 23.449794358912378
+    "dir": "short",
+    "entry_price": 0.06041,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 78.26672697682822
   },
   "CHZ/USDT|1h": {
     "dir": "short",
@@ -558,10 +558,10 @@
     "entry_swrsi": 25.1110376203108
   },
   "GMT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.00589,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 22.569962792371147
+    "dir": "short",
+    "entry_price": 0.006177,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 79.03066292067385
   },
   "ICX/USDT|1h": {
     "dir": "long",
@@ -648,16 +648,16 @@
     "entry_swrsi": 29.764681595017407
   },
   "A/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.05965,
-    "entry_time": "2026-08-18 05:00:00",
-    "entry_swrsi": 21.688377207665045
+    "dir": "short",
+    "entry_price": 0.06288,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 75.68827295737898
   },
   "DEGEN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.00095,
-    "entry_time": "2026-08-18 05:00:00",
-    "entry_swrsi": 27.26241655045067
+    "dir": "short",
+    "entry_price": 0.0010184,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 76.99511486591337
   },
   "IMX/USDT|1h": {
     "dir": "long",
@@ -988,5 +988,71 @@
     "entry_price": 0.005002,
     "entry_time": "2026-08-19 17:00:00",
     "entry_swrsi": 78.8903205360183
+  },
+  "API3/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1991,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 79.14380223205184
+  },
+  "ARB/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.08041,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 79.75380140327452
+  },
+  "GOAT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.01326,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 78.53558370451567
+  },
+  "KNC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.10265,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 76.59317639155311
+  },
+  "MEGA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.03443,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 77.63027690672013
+  },
+  "NEAR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.694,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 79.52515325242983
+  },
+  "S/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.02302,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 79.6277709315344
+  },
+  "TRUMP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.444,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 73.25795793123815
+  },
+  "XCOIN/USDT|1h": {
+    "dir": "short",
+    "entry_price": 159.66,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 73.93826407395866
+  },
+  "ZAMA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.04566,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 77.5422145451228
+  },
+  "ZETA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.02854,
+    "entry_time": "2026-08-19 18:00:00",
+    "entry_swrsi": 78.96175531004687
   }
 }
