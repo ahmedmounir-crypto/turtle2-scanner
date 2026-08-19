@@ -64,5 +64,11 @@
     "entry_price": 0.00535,
     "entry_time": "2026-08-17 00:00:00",
     "entry_swrsi": 36.63745767149726
+  },
+  "CSPR/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.002767,
+    "entry_time": "2026-08-18 00:00:00",
+    "entry_swrsi": 70.25118290971145
   }
 }
