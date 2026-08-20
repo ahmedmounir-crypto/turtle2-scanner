@@ -564,10 +564,10 @@
     "entry_swrsi": 79.03066292067385
   },
   "ICX/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.01856,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 74.68322743735312
+    "dir": "long",
+    "entry_price": 0.01599,
+    "entry_time": "2026-08-20 11:00:00",
+    "entry_swrsi": 23.0287174080061
   },
   "ID/USDT|1h": {
     "dir": "short",
