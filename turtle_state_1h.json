@@ -1498,5 +1498,23 @@
     "entry_price": 0.03172,
     "entry_time": "2026-08-20 10:00:00",
     "entry_swrsi": 72.33018103200035
+  },
+  "BONK/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2.602e-06,
+    "entry_time": "2026-08-20 13:00:00",
+    "entry_swrsi": 72.39790048527671
+  },
+  "MON/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.02593,
+    "entry_time": "2026-08-20 13:00:00",
+    "entry_swrsi": 76.14244802439961
+  },
+  "T/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.003493,
+    "entry_time": "2026-08-20 13:00:00",
+    "entry_swrsi": 79.77255712403478
   }
 }
