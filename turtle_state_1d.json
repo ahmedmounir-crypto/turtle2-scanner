@@ -70,5 +70,59 @@
     "entry_price": 0.002767,
     "entry_time": "2026-08-18 00:00:00",
     "entry_swrsi": 70.25118290971145
+  },
+  "ARG/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.06845,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 23.171853776936313
+  },
+  "ARKM/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.09324,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 38.235491656666944
+  },
+  "AUDF/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.7119,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 41.535888076786875
+  },
+  "DORA/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.002529,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 29.423156739897216
+  },
+  "GALA/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.001425,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 20.479188657648702
+  },
+  "GMT/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.006331,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 34.10183968968441
+  },
+  "ICX/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.01854,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 25.938626937621525
+  },
+  "KAIA/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.02453,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 33.67203974912522
+  },
+  "ZKJ/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.005333,
+    "entry_time": "2026-08-19 00:00:00",
+    "entry_swrsi": 23.999222511182484
   }
 }
