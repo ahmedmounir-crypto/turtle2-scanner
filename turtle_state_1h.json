@@ -102,10 +102,10 @@
     "entry_swrsi": 75.2054312973783
   },
   "ENS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.918,
-    "entry_time": "2026-08-16 22:00:00",
-    "entry_swrsi": 22.978377866556283
+    "dir": "short",
+    "entry_price": 4.423,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 68.40313442129101
   },
   "METIS/USDT|1h": {
     "dir": "long",
@@ -612,10 +612,10 @@
     "entry_swrsi": 27.947595960237862
   },
   "TOSHI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 9.883e-05,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 28.824643278887333
+    "dir": "short",
+    "entry_price": 0.00011289,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 74.82498192381719
   },
   "W/USDT|1h": {
     "dir": "short",
@@ -1558,5 +1558,59 @@
     "entry_price": 64.06,
     "entry_time": "2026-08-20 16:00:00",
     "entry_swrsi": 20.710694648111716
+  },
+  "ADA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1954,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 68.1798052765362
+  },
+  "AVAX/USDT|1h": {
+    "dir": "short",
+    "entry_price": 7.167,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 75.62232342258149
+  },
+  "DOT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.8315,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 72.01051706576007
+  },
+  "FLR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.006808,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 75.27284727675392
+  },
+  "HMSTR/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.000181,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 62.4511557309899
+  },
+  "LINEA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.002291,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 69.10289505486949
+  },
+  "MASK/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.3886,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 70.4178209610042
+  },
+  "NEO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.893,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 78.07335557255158
+  },
+  "XLM/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.17857,
+    "entry_time": "2026-08-20 18:00:00",
+    "entry_swrsi": 62.379900989386265
   }
 }
