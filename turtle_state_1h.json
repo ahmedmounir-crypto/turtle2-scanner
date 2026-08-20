@@ -852,10 +852,10 @@
     "entry_swrsi": 70.19023835310806
   },
   "VELODROME/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0164,
-    "entry_time": "2026-08-19 05:00:00",
-    "entry_swrsi": 23.474638226288363
+    "dir": "short",
+    "entry_price": 0.01927,
+    "entry_time": "2026-08-20 10:00:00",
+    "entry_swrsi": 75.79346934171073
   },
   "RSR/USDT|1h": {
     "dir": "short",
@@ -1492,5 +1492,11 @@
     "entry_price": 0.004899,
     "entry_time": "2026-08-20 04:00:00",
     "entry_swrsi": 75.90684873808834
+  },
+  "BIO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.03172,
+    "entry_time": "2026-08-20 10:00:00",
+    "entry_swrsi": 72.33018103200035
   }
 }
