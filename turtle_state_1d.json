@@ -124,5 +124,17 @@
     "entry_price": 0.005333,
     "entry_time": "2026-08-19 00:00:00",
     "entry_swrsi": 23.999222511182484
+  },
+  "KAITO/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.3536,
+    "entry_time": "2026-08-20 00:00:00",
+    "entry_swrsi": 21.531529091312013
+  },
+  "WLFI/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.0599,
+    "entry_time": "2026-08-20 00:00:00",
+    "entry_swrsi": 72.28964441849014
   }
 }
