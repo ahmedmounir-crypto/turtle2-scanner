@@ -546,10 +546,10 @@
     "entry_swrsi": 29.089749370544634
   },
   "FLOKI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 1.989e-05,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 27.166360576657667
+    "dir": "short",
+    "entry_price": 2.582e-05,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 79.57728309734662
   },
   "GAS/USDT|1h": {
     "dir": "short",
@@ -594,10 +594,10 @@
     "entry_swrsi": 73.77696671154874
   },
   "SEI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.03889,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 23.658104091202464
+    "dir": "short",
+    "entry_price": 0.04601,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 79.16505433318778
   },
   "SNX/USDT|1h": {
     "dir": "short",
@@ -672,16 +672,16 @@
     "entry_swrsi": 20.433522366956396
   },
   "WAXP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.003505,
-    "entry_time": "2026-08-18 05:00:00",
-    "entry_swrsi": 23.6388689358886
+    "dir": "short",
+    "entry_price": 0.004149,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 77.16815943783845
   },
   "CRO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.04623,
-    "entry_time": "2026-08-18 07:00:00",
-    "entry_swrsi": 21.69305274823023
+    "dir": "short",
+    "entry_price": 0.05649,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 74.43181084109078
   },
   "GALA/USDT|1h": {
     "dir": "long",
@@ -1660,5 +1660,29 @@
     "entry_price": 0.000771,
     "entry_time": "2026-08-21 10:00:00",
     "entry_swrsi": 79.78333108921876
+  },
+  "ETHW/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.2804,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 74.25633249948714
+  },
+  "FLOW/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.03125,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 76.15838372916417
+  },
+  "PEPE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 3.528e-06,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 76.0651468626321
+  },
+  "ROBO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.01522,
+    "entry_time": "2026-08-21 11:00:00",
+    "entry_swrsi": 77.68643043431753
   }
 }
