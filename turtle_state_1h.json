@@ -186,10 +186,10 @@
     "entry_swrsi": 25.538648947936263
   },
   "IRYS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01558,
-    "entry_time": "2026-08-17 02:00:00",
-    "entry_swrsi": 26.40169478260333
+    "dir": "short",
+    "entry_price": 0.01463,
+    "entry_time": "2026-08-21 13:00:00",
+    "entry_swrsi": 76.17330288715006
   },
   "OFC/USDT|1h": {
     "dir": "short",
@@ -606,10 +606,10 @@
     "entry_swrsi": 78.4755582486356
   },
   "SONIC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01768,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 27.947595960237862
+    "dir": "short",
+    "entry_price": 0.02065,
+    "entry_time": "2026-08-21 13:00:00",
+    "entry_swrsi": 78.89545049992067
   },
   "TOSHI/USDT|1h": {
     "dir": "short",
@@ -1684,5 +1684,23 @@
     "entry_price": 0.01522,
     "entry_time": "2026-08-21 11:00:00",
     "entry_swrsi": 77.68643043431753
+  },
+  "FLUID/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.3816,
+    "entry_time": "2026-08-21 13:00:00",
+    "entry_swrsi": 79.66739946095484
+  },
+  "RPL/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.714,
+    "entry_time": "2026-08-21 13:00:00",
+    "entry_swrsi": 77.75556553082133
+  },
+  "YGG/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.02351,
+    "entry_time": "2026-08-21 13:00:00",
+    "entry_swrsi": 79.05393752092503
   }
 }
