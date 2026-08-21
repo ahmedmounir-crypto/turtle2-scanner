@@ -1636,5 +1636,29 @@
     "entry_price": 0.04906,
     "entry_time": "2026-08-21 08:00:00",
     "entry_swrsi": 74.73454748955785
+  },
+  "ENA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1381,
+    "entry_time": "2026-08-21 10:00:00",
+    "entry_swrsi": 73.55695035966036
+  },
+  "MENGO/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.01862,
+    "entry_time": "2026-08-21 10:00:00",
+    "entry_swrsi": 72.53938122899058
+  },
+  "NIGHT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.021531,
+    "entry_time": "2026-08-21 10:00:00",
+    "entry_swrsi": 76.68199949260176
+  },
+  "ONE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.000771,
+    "entry_time": "2026-08-21 10:00:00",
+    "entry_swrsi": 79.78333108921876
   }
 }
