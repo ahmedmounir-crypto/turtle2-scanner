@@ -1612,5 +1612,23 @@
     "entry_price": 0.17857,
     "entry_time": "2026-08-20 18:00:00",
     "entry_swrsi": 62.379900989386265
+  },
+  "BAT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.0664,
+    "entry_time": "2026-08-21 04:00:00",
+    "entry_swrsi": 68.36803712827235
+  },
+  "CHIP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.03303,
+    "entry_time": "2026-08-21 04:00:00",
+    "entry_swrsi": 71.93492643418328
+  },
+  "SNT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.006383,
+    "entry_time": "2026-08-21 04:00:00",
+    "entry_swrsi": 72.60779310645587
   }
 }
