@@ -324,10 +324,10 @@
     "entry_swrsi": 26.4818648479054
   },
   "XORCL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 149.32,
-    "entry_time": "2026-08-17 10:00:00",
-    "entry_swrsi": 29.206649724637593
+    "dir": "short",
+    "entry_price": 147.44,
+    "entry_time": "2026-08-21 16:00:00",
+    "entry_swrsi": 76.95859774041196
   },
   "XEWY/USDT|1h": {
     "dir": "short",
@@ -1714,5 +1714,11 @@
     "entry_price": 110.98,
     "entry_time": "2026-08-21 14:00:00",
     "entry_swrsi": 68.85253664299034
+  },
+  "APT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.6393,
+    "entry_time": "2026-08-21 16:00:00",
+    "entry_swrsi": 75.98079862944863
   }
 }
