@@ -234,10 +234,10 @@
     "entry_swrsi": 31.291142357636215
   },
   "XHIMS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 28.3,
-    "entry_time": "2026-08-17 04:00:00",
-    "entry_swrsi": 26.672159444017353
+    "dir": "short",
+    "entry_price": 33.64,
+    "entry_time": "2026-08-21 20:00:00",
+    "entry_swrsi": 75.28564864298833
   },
   "BTC/USDT|1h": {
     "dir": "short",
@@ -456,10 +456,10 @@
     "entry_swrsi": 20.799437026252424
   },
   "XUSAR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 19.23,
-    "entry_time": "2026-08-17 19:00:00",
-    "entry_swrsi": 26.160942096272873
+    "dir": "short",
+    "entry_price": 19.22,
+    "entry_time": "2026-08-21 20:00:00",
+    "entry_swrsi": 75.74885499057697
   },
   "YB/USDT|1h": {
     "dir": "short",
