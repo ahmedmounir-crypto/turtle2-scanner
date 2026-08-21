@@ -474,10 +474,10 @@
     "entry_swrsi": 32.663004492101855
   },
   "BICO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02009,
-    "entry_time": "2026-08-17 20:00:00",
-    "entry_swrsi": 25.473860310141617
+    "dir": "short",
+    "entry_price": 0.02129,
+    "entry_time": "2026-08-21 19:00:00",
+    "entry_swrsi": 72.29241022194697
   },
   "XMETA/USDT|1h": {
     "dir": "long",
@@ -540,10 +540,10 @@
     "entry_swrsi": 79.97696039868208
   },
   "CVC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01649,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 29.089749370544634
+    "dir": "short",
+    "entry_price": 0.01984,
+    "entry_time": "2026-08-21 19:00:00",
+    "entry_swrsi": 75.19250826228753
   },
   "FLOKI/USDT|1h": {
     "dir": "short",
@@ -696,10 +696,10 @@
     "entry_swrsi": 78.50247795311337
   },
   "2Z/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.04709,
-    "entry_time": "2026-08-18 08:00:00",
-    "entry_swrsi": 25.061666117821794
+    "dir": "short",
+    "entry_price": 0.0576,
+    "entry_time": "2026-08-21 19:00:00",
+    "entry_swrsi": 72.04488089555963
   },
   "BREV/USDT|1h": {
     "dir": "short",
