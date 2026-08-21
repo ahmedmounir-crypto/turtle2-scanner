@@ -1750,5 +1750,11 @@
     "entry_price": 25.75,
     "entry_time": "2026-08-21 18:00:00",
     "entry_swrsi": 79.64645605462617
+  },
+  "XHPE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 53.64,
+    "entry_time": "2026-08-21 22:00:00",
+    "entry_swrsi": 66.40851779205681
   }
 }
