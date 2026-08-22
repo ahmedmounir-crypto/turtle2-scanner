@@ -888,10 +888,10 @@
     "entry_swrsi": 71.23039417168741
   },
   "SPACE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.004972,
-    "entry_time": "2026-08-19 13:00:00",
-    "entry_swrsi": 75.35822057713935
+    "dir": "long",
+    "entry_price": 0.005062,
+    "entry_time": "2026-08-22 22:00:00",
+    "entry_swrsi": 27.454814103708078
   },
   "BRL1/USDT|1h": {
     "dir": "short",
@@ -1816,5 +1816,11 @@
     "entry_price": 27.26,
     "entry_time": "2026-08-22 16:00:00",
     "entry_swrsi": 20.553039391446852
+  },
+  "ZKJ/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.006435,
+    "entry_time": "2026-08-22 22:00:00",
+    "entry_swrsi": 72.87571629135552
   }
 }
