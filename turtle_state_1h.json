@@ -1798,5 +1798,11 @@
     "entry_price": 0.2095,
     "entry_time": "2026-08-22 05:00:00",
     "entry_swrsi": 66.89922314217868
+  },
+  "XAAOI/USDT|1h": {
+    "dir": "long",
+    "entry_price": 109.21,
+    "entry_time": "2026-08-22 06:00:00",
+    "entry_swrsi": 21.915656536622816
   }
 }
