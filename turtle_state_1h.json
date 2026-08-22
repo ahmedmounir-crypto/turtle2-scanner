@@ -66,10 +66,10 @@
     "entry_swrsi": 22.990496214807536
   },
   "XINTC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 104.43,
-    "entry_time": "2026-08-16 19:00:00",
-    "entry_swrsi": 77.92892712401989
+    "dir": "long",
+    "entry_price": 88.88,
+    "entry_time": "2026-08-22 08:00:00",
+    "entry_swrsi": 23.590117854169183
   },
   "NES/USDT|1h": {
     "dir": "short",
