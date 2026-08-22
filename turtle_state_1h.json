@@ -1804,5 +1804,11 @@
     "entry_price": 109.21,
     "entry_time": "2026-08-22 06:00:00",
     "entry_swrsi": 21.915656536622816
+  },
+  "XSNOW/USDT|1h": {
+    "dir": "short",
+    "entry_price": 331.4,
+    "entry_time": "2026-08-22 10:00:00",
+    "entry_swrsi": 66.29859420718144
   }
 }
