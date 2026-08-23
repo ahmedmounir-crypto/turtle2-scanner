@@ -1882,5 +1882,11 @@
     "entry_price": 238.68,
     "entry_time": "2026-08-23 21:00:00",
     "entry_swrsi": 30.848386569934544
+  },
+  "XCIEN/USDT|1h": {
+    "dir": "long",
+    "entry_price": 394.06,
+    "entry_time": "2026-08-23 22:00:00",
+    "entry_swrsi": 37.05819812029359
   }
 }
