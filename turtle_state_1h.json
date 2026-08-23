@@ -1008,10 +1008,10 @@
     "entry_swrsi": 78.53558370451567
   },
   "KNC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.10265,
-    "entry_time": "2026-08-19 18:00:00",
-    "entry_swrsi": 76.59317639155311
+    "dir": "long",
+    "entry_price": 0.11041,
+    "entry_time": "2026-08-23 06:00:00",
+    "entry_swrsi": 21.49165966462399
   },
   "MEGA/USDT|1h": {
     "dir": "short",
@@ -1668,10 +1668,10 @@
     "entry_swrsi": 74.25633249948714
   },
   "FLOW/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.03125,
-    "entry_time": "2026-08-21 11:00:00",
-    "entry_swrsi": 76.15838372916417
+    "dir": "long",
+    "entry_price": 0.02881,
+    "entry_time": "2026-08-23 06:00:00",
+    "entry_swrsi": 22.388888136908992
   },
   "PEPE/USDT|1h": {
     "dir": "short",
@@ -1822,5 +1822,23 @@
     "entry_price": 0.006435,
     "entry_time": "2026-08-22 22:00:00",
     "entry_swrsi": 72.87571629135552
+  },
+  "HUMA/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.02084,
+    "entry_time": "2026-08-23 06:00:00",
+    "entry_swrsi": 21.697050811496418
+  },
+  "PARTI/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.02253,
+    "entry_time": "2026-08-23 06:00:00",
+    "entry_swrsi": 24.97872461645101
+  },
+  "PIXEL/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.004891,
+    "entry_time": "2026-08-23 06:00:00",
+    "entry_swrsi": 22.49862127393251
   }
 }
