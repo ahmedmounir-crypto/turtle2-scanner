@@ -270,10 +270,10 @@
     "entry_swrsi": 23.79887313699237
   },
   "XBE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 240.4,
-    "entry_time": "2026-08-17 09:00:00",
-    "entry_swrsi": 70.3305153463007
+    "dir": "long",
+    "entry_price": 197.49,
+    "entry_time": "2026-08-23 09:00:00",
+    "entry_swrsi": 33.27593046758512
   },
   "XCRWV/USDT|1h": {
     "dir": "short",
