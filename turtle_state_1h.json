@@ -480,10 +480,10 @@
     "entry_swrsi": 72.29241022194697
   },
   "XMETA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 569.51,
-    "entry_time": "2026-08-17 20:00:00",
-    "entry_swrsi": 20.387604831406982
+    "dir": "short",
+    "entry_price": 554.11,
+    "entry_time": "2026-08-23 13:00:00",
+    "entry_swrsi": 71.7835289016552
   },
   "XNFLX/USDT|1h": {
     "dir": "short",
@@ -1852,5 +1852,11 @@
     "entry_price": 0.23292,
     "entry_time": "2026-08-23 10:00:00",
     "entry_swrsi": 26.41776610073231
+  },
+  "XCRWD/USDT|1h": {
+    "dir": "long",
+    "entry_price": 191.1,
+    "entry_time": "2026-08-23 13:00:00",
+    "entry_swrsi": 46.12959003566801
   }
 }
