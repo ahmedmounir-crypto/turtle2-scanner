@@ -264,10 +264,10 @@
     "entry_swrsi": 22.300182545461205
   },
   "XARM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 266.98,
-    "entry_time": "2026-08-18 04:00:00",
-    "entry_swrsi": 23.79887313699237
+    "dir": "short",
+    "entry_price": 246.09,
+    "entry_time": "2026-08-23 12:00:00",
+    "entry_swrsi": 77.51259430762568
   },
   "XBE/USDT|1h": {
     "dir": "long",
