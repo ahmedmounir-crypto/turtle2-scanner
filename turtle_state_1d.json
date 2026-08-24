@@ -304,5 +304,11 @@
     "entry_price": 0.2325,
     "entry_time": "2026-08-22 00:00:00",
     "entry_swrsi": 73.27515904003431
+  },
+  "LTC/USDT|1d": {
+    "dir": "short",
+    "entry_price": 52.27,
+    "entry_time": "2026-08-23 00:00:00",
+    "entry_swrsi": 79.77487811294829
   }
 }
