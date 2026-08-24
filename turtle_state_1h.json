@@ -1978,5 +1978,11 @@
     "entry_price": 97.16,
     "entry_time": "2026-08-24 20:00:00",
     "entry_swrsi": 72.10496368451396
+  },
+  "XOKTA/USDT|1h": {
+    "dir": "long",
+    "entry_price": 131.13,
+    "entry_time": "2026-08-24 21:00:00",
+    "entry_swrsi": 20.651735165340394
   }
 }
