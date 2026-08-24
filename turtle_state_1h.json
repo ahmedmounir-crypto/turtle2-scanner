@@ -1960,5 +1960,23 @@
     "entry_price": 548.41,
     "entry_time": "2026-08-24 16:00:00",
     "entry_swrsi": 30.821670623382506
+  },
+  "XNOW/USDT|1h": {
+    "dir": "short",
+    "entry_price": 127.37,
+    "entry_time": "2026-08-24 20:00:00",
+    "entry_swrsi": 56.14550950316357
+  },
+  "XPOPMART/USDT|1h": {
+    "dir": "short",
+    "entry_price": 20.17,
+    "entry_time": "2026-08-24 20:00:00",
+    "entry_swrsi": 79.70734687971006
+  },
+  "XSTRC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 97.16,
+    "entry_time": "2026-08-24 20:00:00",
+    "entry_swrsi": 72.10496368451396
   }
 }
