@@ -1888,5 +1888,17 @@
     "entry_price": 394.06,
     "entry_time": "2026-08-23 22:00:00",
     "entry_swrsi": 37.05819812029359
+  },
+  "XSMCI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 37.49,
+    "entry_time": "2026-08-23 23:00:00",
+    "entry_swrsi": 71.79317175791535
+  },
+  "XWDC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 466.4,
+    "entry_time": "2026-08-23 23:00:00",
+    "entry_swrsi": 76.59550287896546
   }
 }
