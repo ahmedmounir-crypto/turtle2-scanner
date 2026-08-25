@@ -1062,10 +1062,10 @@
     "entry_swrsi": 78.66792385181657
   },
   "PEOPLE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.00796,
-    "entry_time": "2026-08-19 19:00:00",
-    "entry_swrsi": 75.11767935365887
+    "dir": "long",
+    "entry_price": 0.008104,
+    "entry_time": "2026-08-25 18:00:00",
+    "entry_swrsi": 25.168563840100234
   },
   "USDC/USDT|1h": {
     "dir": "long",
