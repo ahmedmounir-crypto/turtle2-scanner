@@ -1464,10 +1464,10 @@
     "entry_swrsi": 78.7175237030092
   },
   "ZEC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 561.45,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 75.07797112015851
+    "dir": "long",
+    "entry_price": 777.54,
+    "entry_time": "2026-08-25 21:00:00",
+    "entry_swrsi": 21.348345906250234
   },
   "ZEN/USDT|1h": {
     "dir": "short",
