@@ -1990,5 +1990,11 @@
     "entry_price": 104.56,
     "entry_time": "2026-08-24 22:00:00",
     "entry_swrsi": 29.547088105807813
+  },
+  "XKLAC/USDT|1h": {
+    "dir": "long",
+    "entry_price": 184.32,
+    "entry_time": "2026-08-25 04:00:00",
+    "entry_swrsi": 59.48637223523504
   }
 }
