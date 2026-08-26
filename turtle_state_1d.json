@@ -448,5 +448,131 @@
     "entry_price": 0.09731,
     "entry_time": "2026-08-24 00:00:00",
     "entry_swrsi": 76.9585621723189
+  },
+  "AAVE/USDT|1d": {
+    "dir": "short",
+    "entry_price": 126.54,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 72.92676585891004
+  },
+  "CELO/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.07555,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 77.6669945618711
+  },
+  "CTC/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.08739,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 74.8837473863364
+  },
+  "CVX/USDT|1d": {
+    "dir": "short",
+    "entry_price": 2.027,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 72.1488294347048
+  },
+  "DASH/USDT|1d": {
+    "dir": "short",
+    "entry_price": 37.88,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 68.49975046939299
+  },
+  "DOGE/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.0857,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 69.34218977222567
+  },
+  "EGLD/USDT|1d": {
+    "dir": "short",
+    "entry_price": 3.395,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 75.84669422441264
+  },
+  "ENA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.14296,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 74.92585028693868
+  },
+  "GLM/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.10693,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 74.64885602495794
+  },
+  "IOTA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.04287,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 73.4788918430851
+  },
+  "LIT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 3.2852,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 74.2562252496238
+  },
+  "PEPE/USDT|1d": {
+    "dir": "short",
+    "entry_price": 3.82e-06,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 75.1708598200619
+  },
+  "QTUM/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.8469,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 74.22925731922051
+  },
+  "SPURS/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.05928,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 23.457934687631226
+  },
+  "THETA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.1751,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 71.5301790814605
+  },
+  "TRB/USDT|1d": {
+    "dir": "short",
+    "entry_price": 17.37,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 71.66326157205201
+  },
+  "TRX/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.33624,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 59.52681762498677
+  },
+  "WIF/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.195,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 78.2128209969075
+  },
+  "XAUT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 4639.1,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 79.09422320403293
+  },
+  "XRP/USDT|1d": {
+    "dir": "short",
+    "entry_price": 1.4343,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 78.82317909750796
+  },
+  "ZEC/USDT|1d": {
+    "dir": "short",
+    "entry_price": 768.15,
+    "entry_time": "2026-08-25 00:00:00",
+    "entry_swrsi": 75.85293403256935
   }
 }
