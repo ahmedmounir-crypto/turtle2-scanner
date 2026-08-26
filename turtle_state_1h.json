@@ -1950,10 +1950,10 @@
     "entry_swrsi": 71.20272905468566
   },
   "XRDDT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 152.99,
-    "entry_time": "2026-08-24 15:00:00",
-    "entry_swrsi": 43.401820727465285
+    "dir": "short",
+    "entry_price": 161.69,
+    "entry_time": "2026-08-26 04:00:00",
+    "entry_swrsi": 70.3758145190137
   },
   "XSMH/USDT|1h": {
     "dir": "long",
