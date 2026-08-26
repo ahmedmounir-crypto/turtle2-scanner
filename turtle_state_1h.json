@@ -1812,10 +1812,10 @@
     "entry_swrsi": 28.610912285882694
   },
   "XBOT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 27.26,
-    "entry_time": "2026-08-22 16:00:00",
-    "entry_swrsi": 20.553039391446852
+    "dir": "short",
+    "entry_price": 28.02,
+    "entry_time": "2026-08-25 23:00:00",
+    "entry_swrsi": 73.1146890642102
   },
   "ZKJ/USDT|1h": {
     "dir": "short",
