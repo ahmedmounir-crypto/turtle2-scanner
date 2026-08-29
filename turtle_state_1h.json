@@ -888,10 +888,10 @@
     "entry_swrsi": 71.23039417168741
   },
   "SPACE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.005062,
-    "entry_time": "2026-08-22 22:00:00",
-    "entry_swrsi": 27.454814103708078
+    "dir": "short",
+    "entry_price": 0.005032,
+    "entry_time": "2026-08-29 08:00:00",
+    "entry_swrsi": 70.95841247864931
   },
   "BRL1/USDT|1h": {
     "dir": "short",
