@@ -2020,5 +2020,11 @@
     "entry_price": 0.1503,
     "entry_time": "2026-08-29 01:00:00",
     "entry_swrsi": 20.82876630159954
+  },
+  "ICP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2.487,
+    "entry_time": "2026-08-29 11:00:00",
+    "entry_swrsi": 76.39411229833647
   }
 }
