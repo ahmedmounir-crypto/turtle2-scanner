@@ -1008,10 +1008,10 @@
     "entry_swrsi": 78.53558370451567
   },
   "KNC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.11041,
-    "entry_time": "2026-08-23 06:00:00",
-    "entry_swrsi": 21.49165966462399
+    "dir": "short",
+    "entry_price": 0.121,
+    "entry_time": "2026-08-29 09:00:00",
+    "entry_swrsi": 66.04387679173928
   },
   "MEGA/USDT|1h": {
     "dir": "short",
