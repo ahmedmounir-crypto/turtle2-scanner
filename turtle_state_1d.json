@@ -586,5 +586,59 @@
     "entry_price": 0.0002475,
     "entry_time": "2026-08-27 00:00:00",
     "entry_swrsi": 77.15616631628653
+  },
+  "BNB/USDT|1d": {
+    "dir": "short",
+    "entry_price": 691.4,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 70.31677182414754
+  },
+  "BTC/USDT|1d": {
+    "dir": "short",
+    "entry_price": 77844.7,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 74.54432688490088
+  },
+  "DGB/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.004885,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 72.87183524963451
+  },
+  "HUMA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.02099,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 55.15028457525208
+  },
+  "JITOSOL/USDT|1d": {
+    "dir": "short",
+    "entry_price": 135.38,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 78.18768544391234
+  },
+  "JUP/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.2212,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 70.5700564110226
+  },
+  "NAVX/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.009283,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 72.41285404328256
+  },
+  "OKSOL/USDT|1d": {
+    "dir": "short",
+    "entry_price": 104.02,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 77.86628780776593
+  },
+  "SOL/USDT|1d": {
+    "dir": "short",
+    "entry_price": 104.15,
+    "entry_time": "2026-08-28 00:00:00",
+    "entry_swrsi": 78.1872882095799
   }
 }
