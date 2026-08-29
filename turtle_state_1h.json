@@ -396,10 +396,10 @@
     "entry_swrsi": 32.83356568075944
   },
   "POL/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.07786,
-    "entry_time": "2026-08-17 16:00:00",
-    "entry_swrsi": 77.76387030029844
+    "dir": "long",
+    "entry_price": 0.10185,
+    "entry_time": "2026-08-29 22:00:00",
+    "entry_swrsi": 21.41967331528947
   },
   "TRX/USDT|1h": {
     "dir": "short",
