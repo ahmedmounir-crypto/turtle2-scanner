@@ -828,10 +828,10 @@
     "entry_swrsi": 77.71422153903644
   },
   "PAXG/USDT|1h": {
-    "dir": "short",
-    "entry_price": 4642.7,
-    "entry_time": "2026-08-24 15:00:00",
-    "entry_swrsi": 61.85282355816447
+    "dir": "long",
+    "entry_price": 4461.0,
+    "entry_time": "2026-08-28 23:00:00",
+    "entry_swrsi": 20.17079341522611
   },
   "HBAR/USDT|1h": {
     "dir": "short",
@@ -1932,10 +1932,10 @@
     "entry_swrsi": 47.655985773110665
   },
   "XAUT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 4635.0,
-    "entry_time": "2026-08-24 15:00:00",
-    "entry_swrsi": 64.72461162734744
+    "dir": "long",
+    "entry_price": 4458.4,
+    "entry_time": "2026-08-28 23:00:00",
+    "entry_swrsi": 20.70940006313299
   },
   "XLRCX/USDT|1h": {
     "dir": "long",
