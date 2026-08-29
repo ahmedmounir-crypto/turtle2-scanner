@@ -810,10 +810,10 @@
     "entry_swrsi": 79.60390046983912
   },
   "VINE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.006688,
-    "entry_time": "2026-08-18 19:00:00",
-    "entry_swrsi": 73.21777000577387
+    "dir": "long",
+    "entry_price": 0.006782,
+    "entry_time": "2026-08-29 05:00:00",
+    "entry_swrsi": 20.030062863961025
   },
   "XSHAZ/USDT|1h": {
     "dir": "long",
