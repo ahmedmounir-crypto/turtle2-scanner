@@ -2014,5 +2014,11 @@
     "entry_price": 2.474e-07,
     "entry_time": "2026-08-28 22:00:00",
     "entry_swrsi": 28.056333880801855
+  },
+  "FET/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.1503,
+    "entry_time": "2026-08-29 01:00:00",
+    "entry_swrsi": 20.82876630159954
   }
 }
