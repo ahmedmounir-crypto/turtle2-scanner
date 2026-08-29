@@ -2004,10 +2004,10 @@
     "entry_swrsi": 46.2693845146153
   },
   "WIN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.361e-05,
-    "entry_time": "2026-08-25 22:00:00",
-    "entry_swrsi": 29.163240555293577
+    "dir": "short",
+    "entry_price": 3.203e-05,
+    "entry_time": "2026-08-29 21:00:00",
+    "entry_swrsi": 41.89655089225884
   },
   "NFT/USDT|1h": {
     "dir": "long",
