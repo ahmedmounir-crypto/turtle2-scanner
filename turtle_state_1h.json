@@ -2038,5 +2038,11 @@
     "entry_price": 8.097,
     "entry_time": "2026-08-29 17:00:00",
     "entry_swrsi": 77.4724827838236
+  },
+  "BAND/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1804,
+    "entry_time": "2026-08-29 18:00:00",
+    "entry_swrsi": 63.0932264188949
   }
 }
