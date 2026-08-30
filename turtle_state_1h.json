@@ -300,10 +300,10 @@
     "entry_swrsi": 26.172139880245606
   },
   "XXLE/USDT|1h": {
-    "dir": "short",
+    "dir": "long",
     "entry_price": 62.81,
-    "entry_time": "2026-08-30 06:00:00",
-    "entry_swrsi": 51.057002360818046
+    "entry_time": "2026-08-30 10:00:00",
+    "entry_swrsi": 37.70303139276921
   },
   "ME/USDT|1h": {
     "dir": "long",
@@ -2068,5 +2068,11 @@
     "entry_price": 0.06041,
     "entry_time": "2026-08-30 07:00:00",
     "entry_swrsi": 72.41179727142067
+  },
+  "CTC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.08886,
+    "entry_time": "2026-08-30 10:00:00",
+    "entry_swrsi": 69.06876836136821
   }
 }
