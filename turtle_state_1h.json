@@ -2050,5 +2050,11 @@
     "entry_price": 0.02358,
     "entry_time": "2026-08-30 02:00:00",
     "entry_swrsi": 27.66139028027104
+  },
+  "XJNJ/USDT|1h": {
+    "dir": "long",
+    "entry_price": 267.72,
+    "entry_time": "2026-08-30 04:00:00",
+    "entry_swrsi": 46.897723281334706
   }
 }
