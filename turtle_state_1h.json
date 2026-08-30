@@ -444,10 +444,10 @@
     "entry_swrsi": 21.726299645160513
   },
   "XCOHR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 279.49,
-    "entry_time": "2026-08-28 20:00:00",
-    "entry_swrsi": 22.97621415121403
+    "dir": "short",
+    "entry_price": 282.57,
+    "entry_time": "2026-08-30 19:00:00",
+    "entry_swrsi": 69.8796454795458
   },
   "XLITE/USDT|1h": {
     "dir": "long",
