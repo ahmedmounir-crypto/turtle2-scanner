@@ -2110,5 +2110,11 @@
     "entry_price": 2502.39,
     "entry_time": "2026-08-30 17:00:00",
     "entry_swrsi": 70.87613485692688
+  },
+  "NAVX/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.010578,
+    "entry_time": "2026-08-30 20:00:00",
+    "entry_swrsi": 68.16179573746841
   }
 }
