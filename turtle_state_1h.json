@@ -762,10 +762,10 @@
     "entry_swrsi": 72.83541095103598
   },
   "XALAB/USDT|1h": {
-    "dir": "long",
-    "entry_price": 299.22,
-    "entry_time": "2026-08-18 16:00:00",
-    "entry_swrsi": 24.584514956152237
+    "dir": "short",
+    "entry_price": 290.04,
+    "entry_time": "2026-08-30 22:00:00",
+    "entry_swrsi": 45.459570793678566
   },
   "XASML/USDT|1h": {
     "dir": "long",
