@@ -1740,10 +1740,10 @@
     "entry_swrsi": 76.62600254536514
   },
   "BCH/USDT|1h": {
-    "dir": "long",
-    "entry_price": 246.8,
-    "entry_time": "2026-08-28 21:00:00",
-    "entry_swrsi": 20.195222451531667
+    "dir": "short",
+    "entry_price": 252.4,
+    "entry_time": "2026-08-30 15:00:00",
+    "entry_swrsi": 74.28134875764353
   },
   "XDKNG/USDT|1h": {
     "dir": "long",
