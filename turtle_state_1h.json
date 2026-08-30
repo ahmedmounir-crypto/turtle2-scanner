@@ -2116,5 +2116,23 @@
     "entry_price": 0.010578,
     "entry_time": "2026-08-30 20:00:00",
     "entry_swrsi": 68.16179573746841
+  },
+  "BOME/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.0009447,
+    "entry_time": "2026-08-30 21:00:00",
+    "entry_swrsi": 21.47501747141112
+  },
+  "XROK/USDT|1h": {
+    "dir": "long",
+    "entry_price": 430.21,
+    "entry_time": "2026-08-30 21:00:00",
+    "entry_swrsi": 32.13465432987
+  },
+  "ZEUS/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.002586,
+    "entry_time": "2026-08-30 21:00:00",
+    "entry_swrsi": 69.11744856857912
   }
 }
