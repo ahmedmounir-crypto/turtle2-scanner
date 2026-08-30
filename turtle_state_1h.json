@@ -330,10 +330,10 @@
     "entry_swrsi": 76.95859774041196
   },
   "XEWY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 177.33,
-    "entry_time": "2026-08-24 04:00:00",
-    "entry_swrsi": 28.85927886328798
+    "dir": "short",
+    "entry_price": 182.52,
+    "entry_time": "2026-08-30 09:00:00",
+    "entry_swrsi": 73.24345636073312
   },
   "XIBM/USDT|1h": {
     "dir": "long",
