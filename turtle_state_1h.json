@@ -2074,5 +2074,11 @@
     "entry_price": 0.08886,
     "entry_time": "2026-08-30 10:00:00",
     "entry_swrsi": 69.06876836136821
+  },
+  "OMI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.0002712,
+    "entry_time": "2026-08-30 11:00:00",
+    "entry_swrsi": 75.55492992483639
   }
 }
