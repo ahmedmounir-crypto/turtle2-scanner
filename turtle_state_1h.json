@@ -240,10 +240,10 @@
     "entry_swrsi": 25.459973932871616
   },
   "BTC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 77758.1,
-    "entry_time": "2026-08-28 22:00:00",
-    "entry_swrsi": 26.969403640165066
+    "dir": "short",
+    "entry_price": 79021.9,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 71.41222930331855
   },
   "XNVDA/USDT|1h": {
     "dir": "short",
@@ -960,10 +960,10 @@
     "entry_swrsi": 76.17916972375475
   },
   "XBMNR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 23.75,
-    "entry_time": "2026-08-28 22:00:00",
-    "entry_swrsi": 21.488200833641052
+    "dir": "short",
+    "entry_price": 25.12,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 73.21115867434023
   },
   "XBSP/USDT|1h": {
     "dir": "short",
@@ -972,10 +972,10 @@
     "entry_swrsi": 79.62422174492134
   },
   "XHOOD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 104.32,
-    "entry_time": "2026-08-29 00:00:00",
-    "entry_swrsi": 20.62612045318975
+    "dir": "short",
+    "entry_price": 107.46,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 77.95355086849675
   },
   "XIWM/USDT|1h": {
     "dir": "long",
@@ -2080,5 +2080,35 @@
     "entry_price": 0.0002712,
     "entry_time": "2026-08-30 11:00:00",
     "entry_swrsi": 75.55492992483639
+  },
+  "BABY/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.012729,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 74.07331900885427
+  },
+  "BETH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2507.4,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 75.39933583516844
+  },
+  "ETH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2505.81,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 74.15708987704535
+  },
+  "LINK/USDT|1h": {
+    "dir": "short",
+    "entry_price": 11.659,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 73.0884300581062
+  },
+  "STETH/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2502.39,
+    "entry_time": "2026-08-30 17:00:00",
+    "entry_swrsi": 70.87613485692688
   }
 }
