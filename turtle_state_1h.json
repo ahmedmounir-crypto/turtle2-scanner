@@ -2056,5 +2056,17 @@
     "entry_price": 267.72,
     "entry_time": "2026-08-30 04:00:00",
     "entry_swrsi": 46.897723281334706
+  },
+  "EGLD/USDT|1h": {
+    "dir": "short",
+    "entry_price": 3.793,
+    "entry_time": "2026-08-30 07:00:00",
+    "entry_swrsi": 79.46991095875683
+  },
+  "ELF/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.06041,
+    "entry_time": "2026-08-30 07:00:00",
+    "entry_swrsi": 72.41179727142067
   }
 }
