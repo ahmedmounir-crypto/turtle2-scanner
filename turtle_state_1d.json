@@ -640,5 +640,23 @@
     "entry_price": 104.15,
     "entry_time": "2026-08-28 00:00:00",
     "entry_swrsi": 78.1872882095799
+  },
+  "CHIP/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.04009,
+    "entry_time": "2026-08-29 00:00:00",
+    "entry_swrsi": 77.56813740968947
+  },
+  "RAY/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.7962,
+    "entry_time": "2026-08-29 00:00:00",
+    "entry_swrsi": 75.88666673865391
+  },
+  "STX/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.2436,
+    "entry_time": "2026-08-29 00:00:00",
+    "entry_swrsi": 75.39033008433809
   }
 }
