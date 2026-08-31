@@ -2230,5 +2230,11 @@
     "entry_price": 0.9999,
     "entry_time": "2026-08-31 10:00:00",
     "entry_swrsi": 60.96256668897803
+  },
+  "ZENT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.002302,
+    "entry_time": "2026-08-31 13:00:00",
+    "entry_swrsi": 67.20957119400101
   }
 }
