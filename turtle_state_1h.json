@@ -2236,5 +2236,11 @@
     "entry_price": 0.002302,
     "entry_time": "2026-08-31 13:00:00",
     "entry_swrsi": 67.20957119400101
+  },
+  "XAAPL/USDT|1h": {
+    "dir": "long",
+    "entry_price": 315.05,
+    "entry_time": "2026-08-31 17:00:00",
+    "entry_swrsi": 22.15588834984623
   }
 }
