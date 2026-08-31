@@ -990,10 +990,10 @@
     "entry_swrsi": 75.13786895428436
   },
   "API3/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.1991,
-    "entry_time": "2026-08-19 18:00:00",
-    "entry_swrsi": 79.14380223205184
+    "dir": "long",
+    "entry_price": 0.2201,
+    "entry_time": "2026-08-31 10:00:00",
+    "entry_swrsi": 37.511573746611184
   },
   "ARB/USDT|1h": {
     "dir": "short",
@@ -2224,5 +2224,11 @@
     "entry_price": 254.51,
     "entry_time": "2026-08-31 07:00:00",
     "entry_swrsi": 25.20512017567493
+  },
+  "USAT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.9999,
+    "entry_time": "2026-08-31 10:00:00",
+    "entry_swrsi": 60.96256668897803
   }
 }
