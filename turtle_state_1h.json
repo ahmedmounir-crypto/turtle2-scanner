@@ -2218,5 +2218,11 @@
     "entry_price": 0.000462,
     "entry_time": "2026-08-31 06:00:00",
     "entry_swrsi": 79.99130215780062
+  },
+  "XCRM/USDT|1h": {
+    "dir": "long",
+    "entry_price": 254.51,
+    "entry_time": "2026-08-31 07:00:00",
+    "entry_swrsi": 25.20512017567493
   }
 }
