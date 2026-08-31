@@ -252,10 +252,10 @@
     "entry_swrsi": 37.59589805467461
   },
   "XTSLA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 347.35,
-    "entry_time": "2026-08-31 02:00:00",
-    "entry_swrsi": 20.098512719567143
+    "dir": "short",
+    "entry_price": 367.03,
+    "entry_time": "2026-08-31 22:00:00",
+    "entry_swrsi": 78.85853036964794
   },
   "ARG/USDT|1h": {
     "dir": "long",
@@ -2242,5 +2242,11 @@
     "entry_price": 315.05,
     "entry_time": "2026-08-31 17:00:00",
     "entry_swrsi": 22.15588834984623
+  },
+  "JUP/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.2252,
+    "entry_time": "2026-08-31 22:00:00",
+    "entry_swrsi": 79.11062647158539
   }
 }
