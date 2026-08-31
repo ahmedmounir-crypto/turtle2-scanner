@@ -966,10 +966,10 @@
     "entry_swrsi": 73.21115867434023
   },
   "XBSP/USDT|1h": {
-    "dir": "short",
-    "entry_price": 41.44,
-    "entry_time": "2026-08-19 17:00:00",
-    "entry_swrsi": 79.62422174492134
+    "dir": "long",
+    "entry_price": 41.7,
+    "entry_time": "2026-08-31 21:00:00",
+    "entry_swrsi": 23.09857604250588
   },
   "XHOOD/USDT|1h": {
     "dir": "long",
