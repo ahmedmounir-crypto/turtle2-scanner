@@ -786,10 +786,10 @@
     "entry_swrsi": 21.47595786742807
   },
   "XLLY/USDT|1h": {
-    "dir": "short",
-    "entry_price": 1257.46,
-    "entry_time": "2026-08-25 16:00:00",
-    "entry_swrsi": 69.97697355447364
+    "dir": "long",
+    "entry_price": 1161.2,
+    "entry_time": "2026-08-31 15:00:00",
+    "entry_swrsi": 30.19846732296594
   },
   "PROS/USDT|1h": {
     "dir": "short",
