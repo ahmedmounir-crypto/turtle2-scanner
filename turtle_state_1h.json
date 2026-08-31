@@ -192,10 +192,10 @@
     "entry_swrsi": 76.17330288715006
   },
   "OFC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.0086,
-    "entry_time": "2026-08-17 18:00:00",
-    "entry_swrsi": 78.86404443091162
+    "dir": "long",
+    "entry_price": 0.00866,
+    "entry_time": "2026-08-31 01:00:00",
+    "entry_swrsi": 20.11230742945823
   },
   "RE/USDT|1h": {
     "dir": "long",
@@ -612,10 +612,10 @@
     "entry_swrsi": 78.89545049992067
   },
   "TOSHI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.00011289,
-    "entry_time": "2026-08-20 18:00:00",
-    "entry_swrsi": 74.82498192381719
+    "dir": "long",
+    "entry_price": 0.00011744,
+    "entry_time": "2026-08-31 01:00:00",
+    "entry_swrsi": 21.44803339342302
   },
   "W/USDT|1h": {
     "dir": "short",
