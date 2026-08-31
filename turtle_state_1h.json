@@ -174,10 +174,10 @@
     "entry_swrsi": 31.50282557748333
   },
   "XIREN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 44.97,
-    "entry_time": "2026-08-16 23:00:00",
-    "entry_swrsi": 57.46775608925584
+    "dir": "long",
+    "entry_price": 35.34,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 26.5106605432903
   },
   "DUCK/USDT|1h": {
     "dir": "long",
@@ -228,10 +228,10 @@
     "entry_swrsi": 22.084954696729966
   },
   "XGME/USDT|1h": {
-    "dir": "short",
-    "entry_price": 18.23,
-    "entry_time": "2026-08-30 18:00:00",
-    "entry_swrsi": 78.69499216602868
+    "dir": "long",
+    "entry_price": 18.04,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 27.5947706270756
   },
   "XHIMS/USDT|1h": {
     "dir": "long",
@@ -270,16 +270,16 @@
     "entry_swrsi": 20.407092411083664
   },
   "XBE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 200.08,
-    "entry_time": "2026-08-23 21:00:00",
-    "entry_swrsi": 75.71781228706098
+    "dir": "long",
+    "entry_price": 207.51,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 25.244535639465436
   },
   "XCRWV/USDT|1h": {
-    "dir": "short",
-    "entry_price": 108.43,
-    "entry_time": "2026-08-17 09:00:00",
-    "entry_swrsi": 73.49672480711219
+    "dir": "long",
+    "entry_price": 83.38,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 27.419124384913324
   },
   "XDELL/USDT|1h": {
     "dir": "long",
@@ -342,10 +342,10 @@
     "entry_swrsi": 25.94878147958911
   },
   "XMRVL/USDT|1h": {
-    "dir": "short",
-    "entry_price": 227.06,
-    "entry_time": "2026-08-17 11:00:00",
-    "entry_swrsi": 68.02624219038488
+    "dir": "long",
+    "entry_price": 214.71,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 36.052366512861894
   },
   "XMSFT/USDT|1h": {
     "dir": "long",
@@ -426,10 +426,10 @@
     "entry_swrsi": 28.48324477189077
   },
   "XAMAT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 467.02,
-    "entry_time": "2026-08-30 14:00:00",
-    "entry_swrsi": 73.99504891221196
+    "dir": "long",
+    "entry_price": 460.84,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 33.29727553982454
   },
   "XAMZN/USDT|1h": {
     "dir": "long",
@@ -444,10 +444,10 @@
     "entry_swrsi": 21.726299645160513
   },
   "XCOHR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 282.57,
-    "entry_time": "2026-08-30 19:00:00",
-    "entry_swrsi": 69.8796454795458
+    "dir": "long",
+    "entry_price": 275.19,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 20.062617283069777
   },
   "XLITE/USDT|1h": {
     "dir": "long",
@@ -486,10 +486,10 @@
     "entry_swrsi": 71.7835289016552
   },
   "XNFLX/USDT|1h": {
-    "dir": "short",
-    "entry_price": 78.77,
-    "entry_time": "2026-08-18 18:00:00",
-    "entry_swrsi": 79.4784708685353
+    "dir": "long",
+    "entry_price": 81.53,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 27.119437319732274
   },
   "ALLO/USDT|1h": {
     "dir": "short",
@@ -1956,10 +1956,10 @@
     "entry_swrsi": 70.3758145190137
   },
   "XSMH/USDT|1h": {
-    "dir": "short",
-    "entry_price": 558.01,
-    "entry_time": "2026-08-30 23:00:00",
-    "entry_swrsi": 70.18133171652887
+    "dir": "long",
+    "entry_price": 552.52,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 27.492512496924185
   },
   "XNOW/USDT|1h": {
     "dir": "short",
@@ -2028,10 +2028,10 @@
     "entry_swrsi": 76.39411229833647
   },
   "XXIAOMI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 3.594,
-    "entry_time": "2026-08-29 16:00:00",
-    "entry_swrsi": 67.6434300699183
+    "dir": "long",
+    "entry_price": 3.542,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 22.853675869323204
   },
   "GMX/USDT|1h": {
     "dir": "short",
@@ -2200,5 +2200,11 @@
     "entry_price": 0.03423,
     "entry_time": "2026-08-31 03:00:00",
     "entry_swrsi": 26.640625309282193
+  },
+  "XNBIS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 206.24,
+    "entry_time": "2026-08-31 04:00:00",
+    "entry_swrsi": 30.933257592467168
   }
 }
