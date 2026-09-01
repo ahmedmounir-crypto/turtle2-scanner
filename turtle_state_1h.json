@@ -1260,10 +1260,10 @@
     "entry_swrsi": 21.76543785328484
   },
   "IOST/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.000581,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 29.484058764641993
+    "dir": "short",
+    "entry_price": 0.0006071,
+    "entry_time": "2026-09-01 11:00:00",
+    "entry_swrsi": 67.10895486964061
   },
   "KAIA/USDT|1h": {
     "dir": "short",
@@ -1920,10 +1920,10 @@
     "entry_swrsi": 71.88070800851501
   },
   "CELR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.002391,
-    "entry_time": "2026-08-24 13:00:00",
-    "entry_swrsi": 69.10058431883022
+    "dir": "long",
+    "entry_price": 0.002249,
+    "entry_time": "2026-09-01 11:00:00",
+    "entry_swrsi": 23.444075610981034
   },
   "XAPLD/USDT|1h": {
     "dir": "long",
