@@ -1806,10 +1806,10 @@
     "entry_swrsi": 21.915656536622816
   },
   "XSNOW/USDT|1h": {
-    "dir": "short",
-    "entry_price": 329.25,
-    "entry_time": "2026-09-01 08:00:00",
-    "entry_swrsi": 51.88998840717644
+    "dir": "long",
+    "entry_price": 323.92,
+    "entry_time": "2026-09-01 14:00:00",
+    "entry_swrsi": 25.2784007321826
   },
   "XBOT/USDT|1h": {
     "dir": "long",
