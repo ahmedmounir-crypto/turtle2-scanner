@@ -48,10 +48,10 @@
     "entry_swrsi": 74.80500604546526
   },
   "XCRCL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 87.31,
-    "entry_time": "2026-08-29 00:00:00",
-    "entry_swrsi": 22.660502634783764
+    "dir": "short",
+    "entry_price": 95.01,
+    "entry_time": "2026-08-31 23:00:00",
+    "entry_swrsi": 79.43725950903118
   },
   "XRKLB/USDT|1h": {
     "dir": "long",
