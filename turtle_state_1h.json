@@ -1272,10 +1272,10 @@
     "entry_swrsi": 78.4319443730288
   },
   "KITE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.11934,
-    "entry_time": "2026-08-31 02:00:00",
-    "entry_swrsi": 20.977040058632745
+    "dir": "short",
+    "entry_price": 0.1344,
+    "entry_time": "2026-09-02 09:00:00",
+    "entry_swrsi": 79.12439905401415
   },
   "KSM/USDT|1h": {
     "dir": "short",
