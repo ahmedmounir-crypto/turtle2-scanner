@@ -174,10 +174,10 @@
     "entry_swrsi": 31.50282557748333
   },
   "XIREN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 35.34,
-    "entry_time": "2026-08-31 04:00:00",
-    "entry_swrsi": 26.5106605432903
+    "dir": "short",
+    "entry_price": 39.0,
+    "entry_time": "2026-09-02 20:00:00",
+    "entry_swrsi": 77.39772620349852
   },
   "DUCK/USDT|1h": {
     "dir": "long",
