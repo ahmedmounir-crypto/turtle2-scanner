@@ -1830,10 +1830,10 @@
     "entry_swrsi": 74.69151154395828
   },
   "PARTI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02253,
-    "entry_time": "2026-08-23 06:00:00",
-    "entry_swrsi": 24.97872461645101
+    "dir": "short",
+    "entry_price": 0.02499,
+    "entry_time": "2026-09-02 22:00:00",
+    "entry_swrsi": 73.62404916989279
   },
   "PIXEL/USDT|1h": {
     "dir": "long",
