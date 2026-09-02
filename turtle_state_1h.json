@@ -480,10 +480,10 @@
     "entry_swrsi": 72.29241022194697
   },
   "XMETA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 567.71,
-    "entry_time": "2026-09-01 13:00:00",
-    "entry_swrsi": 35.23429444993712
+    "dir": "short",
+    "entry_price": 592.49,
+    "entry_time": "2026-09-02 15:00:00",
+    "entry_swrsi": 77.04654379925638
   },
   "XNFLX/USDT|1h": {
     "dir": "long",
