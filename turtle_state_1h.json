@@ -90,10 +90,10 @@
     "entry_swrsi": 75.43549923068554
   },
   "DGB/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.004204,
-    "entry_time": "2026-08-16 22:00:00",
-    "entry_swrsi": 71.93433416259568
+    "dir": "long",
+    "entry_price": 0.004339,
+    "entry_time": "2026-09-01 23:00:00",
+    "entry_swrsi": 24.14486104751712
   },
   "DYDX/USDT|1h": {
     "dir": "short",
