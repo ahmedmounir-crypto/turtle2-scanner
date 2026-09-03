@@ -1560,16 +1560,16 @@
     "entry_swrsi": 77.82295629211525
   },
   "ADA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1942,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 23.459147348993564
+    "dir": "short",
+    "entry_price": 0.221,
+    "entry_time": "2026-09-03 22:00:00",
+    "entry_swrsi": 74.52766356096457
   },
   "AVAX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 7.147,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 22.134084362789963
+    "dir": "short",
+    "entry_price": 7.502,
+    "entry_time": "2026-09-03 22:00:00",
+    "entry_swrsi": 72.22563812398322
   },
   "DOT/USDT|1h": {
     "dir": "short",
