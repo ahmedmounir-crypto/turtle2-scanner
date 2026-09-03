@@ -642,10 +642,10 @@
     "entry_swrsi": 65.07592737335817
   },
   "ZRX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.09499,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 30.564428772238422
+    "dir": "short",
+    "entry_price": 0.10092,
+    "entry_time": "2026-09-03 15:00:00",
+    "entry_swrsi": 74.04668259024045
   },
   "A/USDT|1h": {
     "dir": "short",
@@ -1488,10 +1488,10 @@
     "entry_swrsi": 79.21848825053573
   },
   "OL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.004462,
-    "entry_time": "2026-08-31 03:00:00",
-    "entry_swrsi": 22.931186689528484
+    "dir": "short",
+    "entry_price": 0.005182,
+    "entry_time": "2026-09-03 15:00:00",
+    "entry_swrsi": 79.04888044944721
   },
   "BIO/USDT|1h": {
     "dir": "short",
@@ -1986,10 +1986,10 @@
     "entry_swrsi": 23.854318589641593
   },
   "XZM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 97.16,
-    "entry_time": "2026-08-31 16:00:00",
-    "entry_swrsi": 28.979352624135146
+    "dir": "short",
+    "entry_price": 97.22,
+    "entry_time": "2026-09-03 15:00:00",
+    "entry_swrsi": 63.85709357701882
   },
   "XKLAC/USDT|1h": {
     "dir": "long",
