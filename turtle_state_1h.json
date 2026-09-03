@@ -828,10 +828,10 @@
     "entry_swrsi": 21.92249487454892
   },
   "PAXG/USDT|1h": {
-    "dir": "long",
-    "entry_price": 4461.0,
-    "entry_time": "2026-08-28 23:00:00",
-    "entry_swrsi": 20.17079341522611
+    "dir": "short",
+    "entry_price": 4427.3,
+    "entry_time": "2026-09-03 06:00:00",
+    "entry_swrsi": 70.14052267126522
   },
   "HBAR/USDT|1h": {
     "dir": "short",
