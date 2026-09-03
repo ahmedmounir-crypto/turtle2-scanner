@@ -24,10 +24,10 @@
     "entry_swrsi": 72.21960094613858
   },
   "DOS/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.2471,
-    "entry_time": "2026-08-19 05:00:00",
-    "entry_swrsi": 64.43096752392921
+    "dir": "long",
+    "entry_price": 0.2368,
+    "entry_time": "2026-09-02 23:00:00",
+    "entry_swrsi": 25.954601355836953
   },
   "ETHFI/USDT|1h": {
     "dir": "short",
