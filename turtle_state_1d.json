@@ -670,5 +670,17 @@
     "entry_price": 0.7133,
     "entry_time": "2026-09-01 00:00:00",
     "entry_swrsi": 63.11593843652638
+  },
+  "NES/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.121,
+    "entry_time": "2026-09-02 00:00:00",
+    "entry_swrsi": 24.19257240708908
+  },
+  "VELO/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.004847,
+    "entry_time": "2026-09-02 00:00:00",
+    "entry_swrsi": 74.00892103502825
   }
 }
