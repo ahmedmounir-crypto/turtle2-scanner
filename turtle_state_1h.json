@@ -1344,10 +1344,10 @@
     "entry_swrsi": 78.41885228454645
   },
   "PENGU/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.008692,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 24.51786202827652
+    "dir": "short",
+    "entry_price": 0.008911,
+    "entry_time": "2026-09-03 17:00:00",
+    "entry_swrsi": 78.93109421891538
   },
   "PHA/USDT|1h": {
     "dir": "short",
@@ -2266,5 +2266,11 @@
     "entry_price": 0.3311,
     "entry_time": "2026-09-02 17:00:00",
     "entry_swrsi": 33.74409399388653
+  },
+  "SHIB/USDT|1h": {
+    "dir": "short",
+    "entry_price": 5.424e-06,
+    "entry_time": "2026-09-03 17:00:00",
+    "entry_swrsi": 76.18131708701499
   }
 }
