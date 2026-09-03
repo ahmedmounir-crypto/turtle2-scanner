@@ -402,10 +402,10 @@
     "entry_swrsi": 21.41967331528947
   },
   "TRX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.33633,
-    "entry_time": "2026-08-31 03:00:00",
-    "entry_swrsi": 23.426044038997343
+    "dir": "short",
+    "entry_price": 0.32795,
+    "entry_time": "2026-09-03 11:00:00",
+    "entry_swrsi": 76.7841524185528
   },
   "VIRTUAL/USDT|1h": {
     "dir": "short",
@@ -1926,10 +1926,10 @@
     "entry_swrsi": 23.444075610981034
   },
   "XAPLD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 27.3,
-    "entry_time": "2026-08-24 15:00:00",
-    "entry_swrsi": 47.655985773110665
+    "dir": "short",
+    "entry_price": 24.84,
+    "entry_time": "2026-09-03 11:00:00",
+    "entry_swrsi": 60.18477733060083
   },
   "XAUT/USDT|1h": {
     "dir": "short",
@@ -2124,10 +2124,10 @@
     "entry_swrsi": 21.47501747141112
   },
   "XROK/USDT|1h": {
-    "dir": "long",
-    "entry_price": 430.21,
-    "entry_time": "2026-08-30 21:00:00",
-    "entry_swrsi": 32.13465432987
+    "dir": "short",
+    "entry_price": 426.19,
+    "entry_time": "2026-09-03 11:00:00",
+    "entry_swrsi": 79.33153948826701
   },
   "ZEUS/USDT|1h": {
     "dir": "short",
