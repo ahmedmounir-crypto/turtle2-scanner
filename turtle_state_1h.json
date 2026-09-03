@@ -468,10 +468,10 @@
     "entry_swrsi": 70.87739187364964
   },
   "ATOM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 1.424,
-    "entry_time": "2026-08-17 20:00:00",
-    "entry_swrsi": 32.663004492101855
+    "dir": "short",
+    "entry_price": 1.507,
+    "entry_time": "2026-09-03 13:00:00",
+    "entry_swrsi": 71.33220253801146
   },
   "BICO/USDT|1h": {
     "dir": "short",
@@ -1326,10 +1326,10 @@
     "entry_swrsi": 76.13660255216254
   },
   "MOVE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.007991,
-    "entry_time": "2026-08-31 03:00:00",
-    "entry_swrsi": 24.144309471053187
+    "dir": "short",
+    "entry_price": 0.009055,
+    "entry_time": "2026-09-03 13:00:00",
+    "entry_swrsi": 78.10608828085658
   },
   "NEIRO/USDT|1h": {
     "dir": "long",
@@ -1884,10 +1884,10 @@
     "entry_swrsi": 30.848386569934544
   },
   "XCIEN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 394.06,
-    "entry_time": "2026-08-23 22:00:00",
-    "entry_swrsi": 37.05819812029359
+    "dir": "short",
+    "entry_price": 327.04,
+    "entry_time": "2026-09-03 13:00:00",
+    "entry_swrsi": 35.69628918129473
   },
   "XSMCI/USDT|1h": {
     "dir": "long",
