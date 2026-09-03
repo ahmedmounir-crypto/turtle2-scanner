@@ -1554,10 +1554,10 @@
     "entry_swrsi": 31.250166018483807
   },
   "XASTS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 57.42,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 25.105608107622256
+    "dir": "short",
+    "entry_price": 62.4,
+    "entry_time": "2026-09-03 01:00:00",
+    "entry_swrsi": 77.82295629211525
   },
   "ADA/USDT|1h": {
     "dir": "long",
