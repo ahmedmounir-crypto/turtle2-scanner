@@ -288,10 +288,10 @@
     "entry_swrsi": 75.83190087580132
   },
   "XSKHY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 160.25,
-    "entry_time": "2026-08-24 04:00:00",
-    "entry_swrsi": 22.575197025333097
+    "dir": "short",
+    "entry_price": 175.14,
+    "entry_time": "2026-09-04 21:00:00",
+    "entry_swrsi": 76.9434658313384
   },
   "XTER/USDT|1h": {
     "dir": "short",
