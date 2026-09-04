@@ -732,10 +732,10 @@
     "entry_swrsi": 76.51923328152189
   },
   "XTWLO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 227.57,
-    "entry_time": "2026-08-18 08:00:00",
-    "entry_swrsi": 20.030942546707738
+    "dir": "short",
+    "entry_price": 239.67,
+    "entry_time": "2026-09-04 02:00:00",
+    "entry_swrsi": 79.7885376282812
   },
   "XAVGO/USDT|1h": {
     "dir": "long",
