@@ -654,10 +654,10 @@
     "entry_swrsi": 75.68827295737898
   },
   "DEGEN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0009775,
-    "entry_time": "2026-09-01 19:00:00",
-    "entry_swrsi": 22.275731804237697
+    "dir": "short",
+    "entry_price": 0.0012412,
+    "entry_time": "2026-09-04 08:00:00",
+    "entry_swrsi": 73.506012901329
   },
   "IMX/USDT|1h": {
     "dir": "short",
