@@ -78,10 +78,10 @@
     "entry_swrsi": 77.33881428513656
   },
   "XGEV/USDT|1h": {
-    "dir": "long",
-    "entry_price": 966.8,
-    "entry_time": "2026-08-20 21:00:00",
-    "entry_swrsi": 35.38211503871226
+    "dir": "short",
+    "entry_price": 949.24,
+    "entry_time": "2026-09-04 10:00:00",
+    "entry_swrsi": 73.8904677963318
   },
   "XCH/USDT|1h": {
     "dir": "short",
