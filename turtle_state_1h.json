@@ -2178,10 +2178,10 @@
     "entry_swrsi": 24.973932319497813
   },
   "KAITO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3012,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 24.448993264461798
+    "dir": "short",
+    "entry_price": 0.3122,
+    "entry_time": "2026-09-05 10:00:00",
+    "entry_swrsi": 77.63889578920599
   },
   "SATS/USDT|1h": {
     "dir": "short",
