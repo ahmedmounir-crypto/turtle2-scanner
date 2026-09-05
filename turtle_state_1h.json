@@ -36,10 +36,10 @@
     "entry_swrsi": 76.97348161327137
   },
   "LDO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3549,
-    "entry_time": "2026-08-26 10:00:00",
-    "entry_swrsi": 27.144336438918277
+    "dir": "short",
+    "entry_price": 0.4074,
+    "entry_time": "2026-09-05 22:00:00",
+    "entry_swrsi": 72.81335468362657
   },
   "MORPHO/USDT|1h": {
     "dir": "short",
