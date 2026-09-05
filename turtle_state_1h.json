@@ -366,10 +366,10 @@
     "entry_swrsi": 21.503338300975905
   },
   "ASP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.010297,
-    "entry_time": "2026-09-01 10:00:00",
-    "entry_swrsi": 26.321980584478496
+    "dir": "short",
+    "entry_price": 0.010401,
+    "entry_time": "2026-09-05 19:00:00",
+    "entry_swrsi": 64.81658914415245
   },
   "CSPR/USDT|1h": {
     "dir": "short",
