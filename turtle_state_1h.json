@@ -894,10 +894,10 @@
     "entry_swrsi": 29.583057904830095
   },
   "BRL1/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.1926,
-    "entry_time": "2026-08-19 14:00:00",
-    "entry_swrsi": 77.25018089005133
+    "dir": "long",
+    "entry_price": 0.1937,
+    "entry_time": "2026-09-05 18:00:00",
+    "entry_swrsi": 29.640318386887085
   },
   "CFG/USDT|1h": {
     "dir": "long",
