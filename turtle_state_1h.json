@@ -1764,10 +1764,10 @@
     "entry_swrsi": 21.30049448323601
   },
   "NMR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 8.745,
-    "entry_time": "2026-09-02 12:00:00",
-    "entry_swrsi": 22.161424694626763
+    "dir": "short",
+    "entry_price": 9.908,
+    "entry_time": "2026-09-05 15:00:00",
+    "entry_swrsi": 71.05217208475904
   },
   "OKB/USDT|1h": {
     "dir": "short",
@@ -2136,10 +2136,10 @@
     "entry_swrsi": 69.11744856857912
   },
   "ACH/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.004842,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 29.382958733912638
+    "dir": "short",
+    "entry_price": 0.005473,
+    "entry_time": "2026-09-05 15:00:00",
+    "entry_swrsi": 79.70977732717418
   },
   "ACT/USDT|1h": {
     "dir": "long",
