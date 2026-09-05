@@ -858,10 +858,10 @@
     "entry_swrsi": 75.79346934171073
   },
   "RSR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.001341,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 26.420517808706354
+    "dir": "short",
+    "entry_price": 0.001397,
+    "entry_time": "2026-09-05 07:00:00",
+    "entry_swrsi": 70.47701569047788
   },
   "UMA/USDT|1h": {
     "dir": "short",
@@ -1398,10 +1398,10 @@
     "entry_swrsi": 21.3168021316658
   },
   "STRK/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02576,
-    "entry_time": "2026-08-25 22:00:00",
-    "entry_swrsi": 24.715008963524593
+    "dir": "short",
+    "entry_price": 0.02935,
+    "entry_time": "2026-09-05 07:00:00",
+    "entry_swrsi": 75.69571657676566
   },
   "SUI/USDT|1h": {
     "dir": "short",
@@ -1668,10 +1668,10 @@
     "entry_swrsi": 74.25633249948714
   },
   "FLOW/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02881,
-    "entry_time": "2026-08-23 06:00:00",
-    "entry_swrsi": 22.388888136908992
+    "dir": "short",
+    "entry_price": 0.02891,
+    "entry_time": "2026-09-05 07:00:00",
+    "entry_swrsi": 79.35146320729757
   },
   "PEPE/USDT|1h": {
     "dir": "short",
@@ -1758,10 +1758,10 @@
     "entry_swrsi": 24.119970986055087
   },
   "CATI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.0533,
-    "entry_time": "2026-08-22 04:00:00",
-    "entry_swrsi": 79.06160928204416
+    "dir": "long",
+    "entry_price": 0.05084,
+    "entry_time": "2026-09-05 07:00:00",
+    "entry_swrsi": 21.30049448323601
   },
   "NMR/USDT|1h": {
     "dir": "long",
