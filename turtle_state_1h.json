@@ -1296,10 +1296,10 @@
     "entry_swrsi": 69.92575075921698
   },
   "LTC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 48.31,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 25.99234675902184
+    "dir": "short",
+    "entry_price": 53.1,
+    "entry_time": "2026-09-05 08:00:00",
+    "entry_swrsi": 75.1013416202235
   },
   "LUNA/USDT|1h": {
     "dir": "long",
