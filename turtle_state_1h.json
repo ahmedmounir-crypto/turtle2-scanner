@@ -1584,10 +1584,10 @@
     "entry_swrsi": 78.29340110410158
   },
   "HMSTR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0001717,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 25.828527574134032
+    "dir": "short",
+    "entry_price": 0.0001799,
+    "entry_time": "2026-09-05 01:00:00",
+    "entry_swrsi": 75.27854902266895
   },
   "LINEA/USDT|1h": {
     "dir": "short",
