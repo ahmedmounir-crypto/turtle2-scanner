@@ -2290,5 +2290,11 @@
     "entry_price": 86.482,
     "entry_time": "2026-09-04 00:00:00",
     "entry_swrsi": 72.44084418276627
+  },
+  "DOOD/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.001425,
+    "entry_time": "2026-09-05 11:00:00",
+    "entry_swrsi": 77.0664491645272
   }
 }
