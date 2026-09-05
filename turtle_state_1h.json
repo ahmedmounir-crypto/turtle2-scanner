@@ -714,10 +714,10 @@
     "entry_swrsi": 21.012238528703016
   },
   "PROMPT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02344,
-    "entry_time": "2026-09-01 14:00:00",
-    "entry_swrsi": 29.275205358072302
+    "dir": "short",
+    "entry_price": 0.02437,
+    "entry_time": "2026-09-05 13:00:00",
+    "entry_swrsi": 72.9035689919652
   },
   "SD/USDT|1h": {
     "dir": "long",
