@@ -108,10 +108,10 @@
     "entry_swrsi": 72.99412193430588
   },
   "METIS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 2.323,
-    "entry_time": "2026-08-16 22:00:00",
-    "entry_swrsi": 23.349182308967368
+    "dir": "short",
+    "entry_price": 3.203,
+    "entry_time": "2026-09-06 10:00:00",
+    "entry_swrsi": 79.49777389116036
   },
   "ORDI/USDT|1h": {
     "dir": "short",
