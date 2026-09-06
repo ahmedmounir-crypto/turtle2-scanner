@@ -682,5 +682,11 @@
     "entry_price": 0.004847,
     "entry_time": "2026-09-02 00:00:00",
     "entry_swrsi": 74.00892103502825
+  },
+  "CFG/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.10331,
+    "entry_time": "2026-09-05 00:00:00",
+    "entry_swrsi": 22.854544331079328
   }
 }
