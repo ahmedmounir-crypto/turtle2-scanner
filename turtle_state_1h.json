@@ -1050,10 +1050,10 @@
     "entry_swrsi": 79.39712347213425
   },
   "ZETA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.03247,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 20.301181781776393
+    "dir": "short",
+    "entry_price": 0.03603,
+    "entry_time": "2026-09-06 13:00:00",
+    "entry_swrsi": 79.91644544834574
   },
   "MINA/USDT|1h": {
     "dir": "short",
