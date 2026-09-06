@@ -2028,10 +2028,10 @@
     "entry_swrsi": 76.39411229833647
   },
   "XXIAOMI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.542,
-    "entry_time": "2026-08-31 04:00:00",
-    "entry_swrsi": 22.853675869323204
+    "dir": "short",
+    "entry_price": 3.679,
+    "entry_time": "2026-09-06 18:00:00",
+    "entry_swrsi": 76.49434863709303
   },
   "GMX/USDT|1h": {
     "dir": "short",
