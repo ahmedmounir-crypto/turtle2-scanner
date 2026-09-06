@@ -2220,10 +2220,10 @@
     "entry_swrsi": 79.99130215780062
   },
   "XCRM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 256.48,
-    "entry_time": "2026-09-01 13:00:00",
-    "entry_swrsi": 39.8469083185062
+    "dir": "short",
+    "entry_price": 265.41,
+    "entry_time": "2026-09-06 15:00:00",
+    "entry_swrsi": 78.86900626573843
   },
   "USAT/USDT|1h": {
     "dir": "long",
