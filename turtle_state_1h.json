@@ -990,10 +990,10 @@
     "entry_swrsi": 75.13786895428436
   },
   "API3/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.2201,
-    "entry_time": "2026-08-31 10:00:00",
-    "entry_swrsi": 37.511573746611184
+    "dir": "short",
+    "entry_price": 0.2384,
+    "entry_time": "2026-09-06 02:00:00",
+    "entry_swrsi": 75.6410751914727
   },
   "ARB/USDT|1h": {
     "dir": "short",
@@ -1698,10 +1698,10 @@
     "entry_swrsi": 78.27932372149576
   },
   "YGG/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02184,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 31.36949116668418
+    "dir": "short",
+    "entry_price": 0.02438,
+    "entry_time": "2026-09-06 02:00:00",
+    "entry_swrsi": 76.39161208533162
   },
   "CFX/USDT|1h": {
     "dir": "short",
