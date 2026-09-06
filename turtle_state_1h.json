@@ -1410,10 +1410,10 @@
     "entry_swrsi": 77.31644895262143
   },
   "TAO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 219.0,
-    "entry_time": "2026-09-02 02:00:00",
-    "entry_swrsi": 28.805688330876926
+    "dir": "short",
+    "entry_price": 260.6,
+    "entry_time": "2026-09-06 22:00:00",
+    "entry_swrsi": 73.57893958116142
   },
   "TIA/USDT|1h": {
     "dir": "short",
