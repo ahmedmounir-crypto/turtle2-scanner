@@ -1416,10 +1416,10 @@
     "entry_swrsi": 28.805688330876926
   },
   "TIA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3543,
-    "entry_time": "2026-08-25 22:00:00",
-    "entry_swrsi": 25.95619167770476
+    "dir": "short",
+    "entry_price": 0.3795,
+    "entry_time": "2026-09-05 23:00:00",
+    "entry_swrsi": 73.18331933546281
   },
   "TRB/USDT|1h": {
     "dir": "short",
