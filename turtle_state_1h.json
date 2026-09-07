@@ -978,10 +978,10 @@
     "entry_swrsi": 66.35338961961162
   },
   "XIWM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 300.68,
-    "entry_time": "2026-08-24 09:00:00",
-    "entry_swrsi": 20.201904128894956
+    "dir": "short",
+    "entry_price": 293.8,
+    "entry_time": "2026-09-07 02:00:00",
+    "entry_swrsi": 33.600723254219126
   },
   "ZORA/USDT|1h": {
     "dir": "short",
