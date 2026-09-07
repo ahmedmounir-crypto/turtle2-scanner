@@ -1536,10 +1536,10 @@
     "entry_swrsi": 73.34819901343452
   },
   "PUMP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.004317,
-    "entry_time": "2026-08-31 06:00:00",
-    "entry_swrsi": 22.607020090498118
+    "dir": "short",
+    "entry_price": 0.004366,
+    "entry_time": "2026-09-07 13:00:00",
+    "entry_swrsi": 70.06059513316869
   },
   "SSV/USDT|1h": {
     "dir": "short",
