@@ -2202,10 +2202,10 @@
     "entry_swrsi": 26.640625309282193
   },
   "XNBIS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 206.24,
-    "entry_time": "2026-08-31 04:00:00",
-    "entry_swrsi": 30.933257592467168
+    "dir": "short",
+    "entry_price": 226.16,
+    "entry_time": "2026-09-07 15:00:00",
+    "entry_swrsi": 64.8892364418984
   },
   "POR/USDT|1h": {
     "dir": "long",
