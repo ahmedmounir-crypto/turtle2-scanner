@@ -312,10 +312,10 @@
     "entry_swrsi": 32.29174885853268
   },
   "XON/USDT|1h": {
-    "dir": "short",
-    "entry_price": 74.77,
-    "entry_time": "2026-09-04 13:00:00",
-    "entry_swrsi": 70.23706206861506
+    "dir": "long",
+    "entry_price": 74.62,
+    "entry_time": "2026-09-07 01:00:00",
+    "entry_swrsi": 63.6026802985216
   },
   "XONDS/USDT|1h": {
     "dir": "short",
