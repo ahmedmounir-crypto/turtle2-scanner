@@ -1752,10 +1752,10 @@
     "entry_swrsi": 61.56158348218257
   },
   "XHPE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 50.91,
-    "entry_time": "2026-09-01 19:00:00",
-    "entry_swrsi": 24.119970986055087
+    "dir": "short",
+    "entry_price": 53.03,
+    "entry_time": "2026-09-07 12:00:00",
+    "entry_swrsi": 73.04285557165335
   },
   "CATI/USDT|1h": {
     "dir": "short",
@@ -2190,10 +2190,10 @@
     "entry_swrsi": 73.20936738272255
   },
   "XUNH/USDT|1h": {
-    "dir": "short",
-    "entry_price": 398.11,
-    "entry_time": "2026-09-07 04:00:00",
-    "entry_swrsi": 70.32875952775775
+    "dir": "long",
+    "entry_price": 398.09,
+    "entry_time": "2026-09-07 12:00:00",
+    "entry_swrsi": 47.26537664025172
   },
   "STORJ/USDT|1h": {
     "dir": "long",
