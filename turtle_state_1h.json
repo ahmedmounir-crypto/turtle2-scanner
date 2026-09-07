@@ -1998,10 +1998,10 @@
     "entry_swrsi": 65.78464098489769
   },
   "XRIVN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 15.87,
-    "entry_time": "2026-09-03 18:00:00",
-    "entry_swrsi": 69.6238501575914
+    "dir": "long",
+    "entry_price": 15.83,
+    "entry_time": "2026-09-07 21:00:00",
+    "entry_swrsi": 23.70200520682003
   },
   "WIN/USDT|1h": {
     "dir": "short",
