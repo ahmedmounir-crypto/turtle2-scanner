@@ -2302,5 +2302,11 @@
     "entry_price": 0.02165,
     "entry_time": "2026-09-07 03:00:00",
     "entry_swrsi": 23.989836051175512
+  },
+  "DORA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.002609,
+    "entry_time": "2026-09-07 17:00:00",
+    "entry_swrsi": 65.99954813395946
   }
 }
