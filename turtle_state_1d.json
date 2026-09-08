@@ -688,5 +688,17 @@
     "entry_price": 0.10331,
     "entry_time": "2026-09-05 00:00:00",
     "entry_swrsi": 22.854544331079328
+  },
+  "EDGE/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.5676,
+    "entry_time": "2026-09-07 00:00:00",
+    "entry_swrsi": 74.2468662531171
+  },
+  "UNI/USDT|1d": {
+    "dir": "short",
+    "entry_price": 6.86,
+    "entry_time": "2026-09-07 00:00:00",
+    "entry_swrsi": 78.54192580857607
   }
 }
