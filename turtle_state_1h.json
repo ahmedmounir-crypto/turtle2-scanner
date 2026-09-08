@@ -450,10 +450,10 @@
     "entry_swrsi": 78.3650971275988
   },
   "XLITE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 870.51,
-    "entry_time": "2026-08-18 18:00:00",
-    "entry_swrsi": 20.799437026252424
+    "dir": "short",
+    "entry_price": 910.28,
+    "entry_time": "2026-09-08 04:00:00",
+    "entry_swrsi": 78.76080992433525
   },
   "XUSAR/USDT|1h": {
     "dir": "short",
@@ -2220,10 +2220,10 @@
     "entry_swrsi": 79.99130215780062
   },
   "XCRM/USDT|1h": {
-    "dir": "short",
-    "entry_price": 265.41,
-    "entry_time": "2026-09-06 15:00:00",
-    "entry_swrsi": 78.86900626573843
+    "dir": "long",
+    "entry_price": 256.0,
+    "entry_time": "2026-09-08 04:00:00",
+    "entry_swrsi": 27.295907275463655
   },
   "USAT/USDT|1h": {
     "dir": "long",
