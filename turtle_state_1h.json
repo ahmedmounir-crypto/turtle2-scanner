@@ -822,10 +822,10 @@
     "entry_swrsi": 21.527214831883324
   },
   "AVNT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0964,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 21.92249487454892
+    "dir": "short",
+    "entry_price": 0.11306,
+    "entry_time": "2026-09-08 05:00:00",
+    "entry_swrsi": 67.640817851973
   },
   "PAXG/USDT|1h": {
     "dir": "long",
