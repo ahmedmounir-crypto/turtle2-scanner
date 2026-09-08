@@ -1926,10 +1926,10 @@
     "entry_swrsi": 23.444075610981034
   },
   "XAPLD/USDT|1h": {
-    "dir": "short",
-    "entry_price": 24.84,
-    "entry_time": "2026-09-03 11:00:00",
-    "entry_swrsi": 60.18477733060083
+    "dir": "long",
+    "entry_price": 26.49,
+    "entry_time": "2026-09-08 11:00:00",
+    "entry_swrsi": 36.16739435626482
   },
   "XAUT/USDT|1h": {
     "dir": "long",
