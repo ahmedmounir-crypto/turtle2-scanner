@@ -1038,10 +1038,10 @@
     "entry_swrsi": 73.25795793123815
   },
   "XCOIN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 191.92,
-    "entry_time": "2026-09-03 18:00:00",
-    "entry_swrsi": 74.22112283873922
+    "dir": "long",
+    "entry_price": 181.37,
+    "entry_time": "2026-09-08 07:00:00",
+    "entry_swrsi": 20.72906096445689
   },
   "ZAMA/USDT|1h": {
     "dir": "short",
