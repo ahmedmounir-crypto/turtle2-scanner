@@ -1854,10 +1854,10 @@
     "entry_swrsi": 71.63816455411101
   },
   "XCRWD/USDT|1h": {
-    "dir": "short",
-    "entry_price": 214.7,
-    "entry_time": "2026-09-04 11:00:00",
-    "entry_swrsi": 72.91145784769529
+    "dir": "long",
+    "entry_price": 211.62,
+    "entry_time": "2026-09-08 12:00:00",
+    "entry_swrsi": 26.03964712013265
   },
   "EDGE/USDT|1h": {
     "dir": "short",
@@ -2172,10 +2172,10 @@
     "entry_swrsi": 74.77876762810963
   },
   "G/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.003644,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 24.973932319497813
+    "dir": "short",
+    "entry_price": 0.004179,
+    "entry_time": "2026-09-08 12:00:00",
+    "entry_swrsi": 62.78399297270291
   },
   "KAITO/USDT|1h": {
     "dir": "short",
