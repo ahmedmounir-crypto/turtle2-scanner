@@ -1986,10 +1986,10 @@
     "entry_swrsi": 22.639010654791175
   },
   "XZM/USDT|1h": {
-    "dir": "short",
-    "entry_price": 97.22,
-    "entry_time": "2026-09-03 15:00:00",
-    "entry_swrsi": 63.85709357701882
+    "dir": "long",
+    "entry_price": 96.82,
+    "entry_time": "2026-09-09 05:00:00",
+    "entry_swrsi": 21.156649955184825
   },
   "XKLAC/USDT|1h": {
     "dir": "short",
