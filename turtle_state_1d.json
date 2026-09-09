@@ -700,5 +700,17 @@
     "entry_price": 6.86,
     "entry_time": "2026-09-07 00:00:00",
     "entry_swrsi": 78.54192580857607
+  },
+  "DOOD/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.001801,
+    "entry_time": "2026-09-08 00:00:00",
+    "entry_swrsi": 76.5378773600229
+  },
+  "IOST/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.0008532,
+    "entry_time": "2026-09-08 00:00:00",
+    "entry_swrsi": 76.71660972108033
   }
 }
