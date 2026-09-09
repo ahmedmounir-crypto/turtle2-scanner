@@ -2148,10 +2148,10 @@
     "entry_swrsi": 22.99252312764397
   },
   "AEON/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.05822,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 21.644187729551867
+    "dir": "short",
+    "entry_price": 0.05676,
+    "entry_time": "2026-09-09 03:00:00",
+    "entry_swrsi": 59.136140536039946
   },
   "BASED/USDT|1h": {
     "dir": "long",
