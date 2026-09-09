@@ -2308,5 +2308,11 @@
     "entry_price": 0.002609,
     "entry_time": "2026-09-07 17:00:00",
     "entry_swrsi": 65.99954813395946
+  },
+  "LAT/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.000504,
+    "entry_time": "2026-09-09 04:00:00",
+    "entry_swrsi": 22.83698496584679
   }
 }
