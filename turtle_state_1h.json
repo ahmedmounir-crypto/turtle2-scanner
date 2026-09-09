@@ -846,10 +846,10 @@
     "entry_swrsi": 70.26563993121367
   },
   "SKY/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.07215,
-    "entry_time": "2026-09-02 00:00:00",
-    "entry_swrsi": 68.37727803510352
+    "dir": "long",
+    "entry_price": 0.06484,
+    "entry_time": "2026-09-09 11:00:00",
+    "entry_swrsi": 21.546656002201583
   },
   "VELODROME/USDT|1h": {
     "dir": "short",
