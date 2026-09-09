@@ -1578,10 +1578,10 @@
     "entry_swrsi": 72.01051706576007
   },
   "FLR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.006974,
-    "entry_time": "2026-09-03 16:00:00",
-    "entry_swrsi": 78.29340110410158
+    "dir": "long",
+    "entry_price": 0.006366,
+    "entry_time": "2026-09-09 20:00:00",
+    "entry_swrsi": 20.2992669786621
   },
   "HMSTR/USDT|1h": {
     "dir": "short",
@@ -1686,10 +1686,10 @@
     "entry_swrsi": 52.55231219414621
   },
   "FLUID/USDT|1h": {
-    "dir": "short",
-    "entry_price": 1.3816,
-    "entry_time": "2026-08-21 13:00:00",
-    "entry_swrsi": 79.66739946095484
+    "dir": "long",
+    "entry_price": 1.2093,
+    "entry_time": "2026-09-09 20:00:00",
+    "entry_swrsi": 23.8467097408662
   },
   "RPL/USDT|1h": {
     "dir": "short",
