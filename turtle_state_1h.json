@@ -1752,10 +1752,10 @@
     "entry_swrsi": 61.56158348218257
   },
   "XHPE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 54.48,
-    "entry_time": "2026-09-08 13:00:00",
-    "entry_swrsi": 64.80854686591344
+    "dir": "short",
+    "entry_price": 56.7,
+    "entry_time": "2026-09-09 02:00:00",
+    "entry_swrsi": 78.4681424708355
   },
   "CATI/USDT|1h": {
     "dir": "short",
