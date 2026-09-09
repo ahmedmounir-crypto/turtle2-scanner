@@ -2262,10 +2262,10 @@
     "entry_swrsi": 27.446955007959758
   },
   "GRASS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3311,
-    "entry_time": "2026-09-02 17:00:00",
-    "entry_swrsi": 33.74409399388653
+    "dir": "short",
+    "entry_price": 0.3625,
+    "entry_time": "2026-09-09 09:00:00",
+    "entry_swrsi": 71.70004504003866
   },
   "SHIB/USDT|1h": {
     "dir": "short",
