@@ -1968,10 +1968,10 @@
     "entry_swrsi": 29.336006490837
   },
   "XPOPMART/USDT|1h": {
-    "dir": "short",
-    "entry_price": 20.17,
-    "entry_time": "2026-08-24 20:00:00",
-    "entry_swrsi": 79.70734687971006
+    "dir": "long",
+    "entry_price": 19.54,
+    "entry_time": "2026-09-10 04:00:00",
+    "entry_swrsi": 20.892807518367672
   },
   "XSTRC/USDT|1h": {
     "dir": "short",
@@ -2028,10 +2028,10 @@
     "entry_swrsi": 76.39411229833647
   },
   "XXIAOMI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 3.679,
-    "entry_time": "2026-09-06 18:00:00",
-    "entry_swrsi": 76.49434863709303
+    "dir": "long",
+    "entry_price": 3.327,
+    "entry_time": "2026-09-10 04:00:00",
+    "entry_swrsi": 30.000528876620503
   },
   "GMX/USDT|1h": {
     "dir": "long",
