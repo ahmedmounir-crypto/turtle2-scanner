@@ -712,5 +712,29 @@
     "entry_price": 0.0008532,
     "entry_time": "2026-09-08 00:00:00",
     "entry_swrsi": 76.71660972108033
+  },
+  "BIGTIME/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.007058,
+    "entry_time": "2026-09-09 00:00:00",
+    "entry_swrsi": 67.41528830808396
+  },
+  "DOGS/USDT|1d": {
+    "dir": "short",
+    "entry_price": 4.776e-05,
+    "entry_time": "2026-09-09 00:00:00",
+    "entry_swrsi": 73.07298590125161
+  },
+  "DOT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 1.1222,
+    "entry_time": "2026-09-09 00:00:00",
+    "entry_swrsi": 73.44700739434201
+  },
+  "SOPH/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.004212,
+    "entry_time": "2026-09-09 00:00:00",
+    "entry_swrsi": 58.579887136811
   }
 }
