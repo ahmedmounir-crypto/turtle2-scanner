@@ -18,10 +18,10 @@
     "entry_swrsi": 79.58676005942503
   },
   "ATH/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.003929,
-    "entry_time": "2026-08-16 17:00:00",
-    "entry_swrsi": 72.21960094613858
+    "dir": "long",
+    "entry_price": 0.004575,
+    "entry_time": "2026-09-10 10:00:00",
+    "entry_swrsi": 20.586972834729718
   },
   "DOS/USDT|1h": {
     "dir": "long",
