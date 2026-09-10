@@ -1170,10 +1170,10 @@
     "entry_swrsi": 78.26950260836823
   },
   "BIGTIME/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.00542,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 76.06824540297544
+    "dir": "long",
+    "entry_price": 0.006855,
+    "entry_time": "2026-09-10 07:00:00",
+    "entry_swrsi": 23.436986334023455
   },
   "BLUR/USDT|1h": {
     "dir": "short",
