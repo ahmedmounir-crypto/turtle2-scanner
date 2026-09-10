@@ -564,10 +564,10 @@
     "entry_swrsi": 79.03066292067385
   },
   "ICX/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.01238,
-    "entry_time": "2026-09-04 19:00:00",
-    "entry_swrsi": 75.99862949545914
+    "dir": "long",
+    "entry_price": 0.01219,
+    "entry_time": "2026-09-10 00:00:00",
+    "entry_swrsi": 20.73956302247482
   },
   "ID/USDT|1h": {
     "dir": "short",
@@ -1086,10 +1086,10 @@
     "entry_swrsi": 29.123853318577183
   },
   "LIT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 2.6347,
-    "entry_time": "2026-08-19 21:00:00",
-    "entry_swrsi": 76.6407699490843
+    "dir": "long",
+    "entry_price": 4.6168,
+    "entry_time": "2026-09-10 00:00:00",
+    "entry_swrsi": 26.35428383675219
   },
   "MMT/USDT|1h": {
     "dir": "short",
