@@ -156,10 +156,10 @@
     "entry_swrsi": 79.47470646638392
   },
   "RVN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.002935,
-    "entry_time": "2026-08-16 23:00:00",
-    "entry_swrsi": 77.11538320963066
+    "dir": "long",
+    "entry_price": 0.002329,
+    "entry_time": "2026-09-10 21:00:00",
+    "entry_swrsi": 21.305139765037442
   },
   "SOPH/USDT|1h": {
     "dir": "long",
@@ -1092,10 +1092,10 @@
     "entry_swrsi": 26.35428383675219
   },
   "MMT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.1807,
-    "entry_time": "2026-08-19 21:00:00",
-    "entry_swrsi": 73.24967377330915
+    "dir": "long",
+    "entry_price": 0.1526,
+    "entry_time": "2026-09-10 21:00:00",
+    "entry_swrsi": 20.95372172091655
   },
   "AAVE/USDT|1h": {
     "dir": "short",
