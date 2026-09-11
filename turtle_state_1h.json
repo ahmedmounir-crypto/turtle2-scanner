@@ -2112,10 +2112,10 @@
     "entry_swrsi": 70.87613485692688
   },
   "NAVX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.007834,
-    "entry_time": "2026-09-10 19:00:00",
-    "entry_swrsi": 20.034374705172528
+    "dir": "short",
+    "entry_price": 0.008819,
+    "entry_time": "2026-09-11 16:00:00",
+    "entry_swrsi": 63.30646275239926
   },
   "BOME/USDT|1h": {
     "dir": "short",
