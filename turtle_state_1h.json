@@ -516,10 +516,10 @@
     "entry_swrsi": 77.85086460871916
   },
   "ALGO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.0821,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 75.800300846385
+    "dir": "long",
+    "entry_price": 0.09203,
+    "entry_time": "2026-09-11 04:00:00",
+    "entry_swrsi": 30.801887438866345
   },
   "ANIME/USDT|1h": {
     "dir": "long",
@@ -1464,10 +1464,10 @@
     "entry_swrsi": 78.7175237030092
   },
   "ZEC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 956.06,
-    "entry_time": "2026-09-03 20:00:00",
-    "entry_swrsi": 79.18851257134932
+    "dir": "long",
+    "entry_price": 1087.08,
+    "entry_time": "2026-09-11 04:00:00",
+    "entry_swrsi": 28.360546606641236
   },
   "ZEN/USDT|1h": {
     "dir": "short",
