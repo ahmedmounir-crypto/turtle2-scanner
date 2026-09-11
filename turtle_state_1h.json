@@ -438,10 +438,10 @@
     "entry_swrsi": 73.09169312664548
   },
   "XAPP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 313.39,
-    "entry_time": "2026-09-08 16:00:00",
-    "entry_swrsi": 25.5030832027359
+    "dir": "short",
+    "entry_price": 323.53,
+    "entry_time": "2026-09-11 19:00:00",
+    "entry_swrsi": 77.53658851793224
   },
   "XCOHR/USDT|1h": {
     "dir": "short",
