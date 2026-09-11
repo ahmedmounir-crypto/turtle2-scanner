@@ -2214,10 +2214,10 @@
     "entry_swrsi": 31.760691960972675
   },
   "NOT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.000462,
-    "entry_time": "2026-08-31 06:00:00",
-    "entry_swrsi": 79.99130215780062
+    "dir": "long",
+    "entry_price": 0.0004224,
+    "entry_time": "2026-09-11 03:00:00",
+    "entry_swrsi": 32.09829854537841
   },
   "XCRM/USDT|1h": {
     "dir": "long",
