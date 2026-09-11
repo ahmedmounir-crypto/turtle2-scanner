@@ -1710,10 +1710,10 @@
     "entry_swrsi": 74.71530883113583
   },
   "XCSCO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 109.52,
-    "entry_time": "2026-09-04 14:00:00",
-    "entry_swrsi": 66.12691161746224
+    "dir": "long",
+    "entry_price": 107.85,
+    "entry_time": "2026-09-11 02:00:00",
+    "entry_swrsi": 23.15224537039798
   },
   "APT/USDT|1h": {
     "dir": "short",
