@@ -1884,10 +1884,10 @@
     "entry_swrsi": 75.36867106213901
   },
   "XCIEN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 340.22,
-    "entry_time": "2026-09-10 13:00:00",
-    "entry_swrsi": 49.32223704866101
+    "dir": "short",
+    "entry_price": 348.4,
+    "entry_time": "2026-09-11 18:00:00",
+    "entry_swrsi": 75.41389786678545
   },
   "XSMCI/USDT|1h": {
     "dir": "short",
