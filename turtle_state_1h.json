@@ -468,10 +468,10 @@
     "entry_swrsi": 70.87739187364964
   },
   "ATOM/USDT|1h": {
-    "dir": "short",
-    "entry_price": 1.507,
-    "entry_time": "2026-09-03 13:00:00",
-    "entry_swrsi": 71.33220253801146
+    "dir": "long",
+    "entry_price": 1.647,
+    "entry_time": "2026-09-11 20:00:00",
+    "entry_swrsi": 20.63023706410499
   },
   "BICO/USDT|1h": {
     "dir": "short",
