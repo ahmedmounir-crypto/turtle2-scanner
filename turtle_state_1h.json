@@ -804,10 +804,10 @@
     "entry_swrsi": 64.4500698624772
   },
   "THETA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1715,
-    "entry_time": "2026-09-10 13:00:00",
-    "entry_swrsi": 27.392620377877737
+    "dir": "short",
+    "entry_price": 0.1919,
+    "entry_time": "2026-09-11 15:00:00",
+    "entry_swrsi": 64.15017408581373
   },
   "VINE/USDT|1h": {
     "dir": "short",
@@ -1038,10 +1038,10 @@
     "entry_swrsi": 22.82276013672936
   },
   "XCOIN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 181.37,
-    "entry_time": "2026-09-08 07:00:00",
-    "entry_swrsi": 20.72906096445689
+    "dir": "short",
+    "entry_price": 177.96,
+    "entry_time": "2026-09-11 15:00:00",
+    "entry_swrsi": 69.66670735507869
   },
   "ZAMA/USDT|1h": {
     "dir": "short",
@@ -1752,10 +1752,10 @@
     "entry_swrsi": 61.56158348218257
   },
   "XHPE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 56.9,
-    "entry_time": "2026-09-10 17:00:00",
-    "entry_swrsi": 21.775150607137125
+    "dir": "short",
+    "entry_price": 60.31,
+    "entry_time": "2026-09-11 15:00:00",
+    "entry_swrsi": 77.99809127502856
   },
   "CATI/USDT|1h": {
     "dir": "short",
