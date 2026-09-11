@@ -736,5 +736,17 @@
     "entry_price": 0.004212,
     "entry_time": "2026-09-09 00:00:00",
     "entry_swrsi": 58.579887136811
+  },
+  "ATOM/USDT|1d": {
+    "dir": "short",
+    "entry_price": 1.791,
+    "entry_time": "2026-09-10 00:00:00",
+    "entry_swrsi": 75.94129414010261
+  },
+  "KAT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.004862,
+    "entry_time": "2026-09-10 00:00:00",
+    "entry_swrsi": 59.010968664753186
   }
 }
