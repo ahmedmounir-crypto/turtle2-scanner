@@ -2314,5 +2314,11 @@
     "entry_price": 0.000504,
     "entry_time": "2026-09-09 04:00:00",
     "entry_swrsi": 22.83698496584679
+  },
+  "XDRAM/USDT|1h": {
+    "dir": "long",
+    "entry_price": 59.46,
+    "entry_time": "2026-09-11 09:00:00",
+    "entry_swrsi": 30.563855758099645
   }
 }
