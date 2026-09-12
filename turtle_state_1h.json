@@ -1662,10 +1662,10 @@
     "entry_swrsi": 30.203218917827325
   },
   "ETHW/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.265,
-    "entry_time": "2026-09-10 02:00:00",
-    "entry_swrsi": 27.3014195919087
+    "dir": "short",
+    "entry_price": 0.2603,
+    "entry_time": "2026-09-12 12:00:00",
+    "entry_swrsi": 61.556028880611066
   },
   "FLOW/USDT|1h": {
     "dir": "short",
