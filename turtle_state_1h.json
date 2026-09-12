@@ -864,10 +864,10 @@
     "entry_swrsi": 70.47701569047788
   },
   "UMA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3578,
-    "entry_time": "2026-09-11 00:00:00",
-    "entry_swrsi": 29.184896139188233
+    "dir": "short",
+    "entry_price": 0.3815,
+    "entry_time": "2026-09-12 06:00:00",
+    "entry_swrsi": 77.52024056219156
   },
   "CARDS/USDT|1h": {
     "dir": "long",
