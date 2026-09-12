@@ -24,10 +24,10 @@
     "entry_swrsi": 20.586972834729718
   },
   "DOS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.2368,
-    "entry_time": "2026-09-02 23:00:00",
-    "entry_swrsi": 25.954601355836953
+    "dir": "short",
+    "entry_price": 0.2175,
+    "entry_time": "2026-09-12 20:00:00",
+    "entry_swrsi": 77.0371476012584
   },
   "ETHFI/USDT|1h": {
     "dir": "short",
@@ -126,10 +126,10 @@
     "entry_swrsi": 77.0216575709276
   },
   "XPL/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.07867,
-    "entry_time": "2026-08-19 16:00:00",
-    "entry_swrsi": 79.31136023492682
+    "dir": "long",
+    "entry_price": 0.07976,
+    "entry_time": "2026-09-12 20:00:00",
+    "entry_swrsi": 23.704744293015153
   },
   "XTSM/USDT|1h": {
     "dir": "long",
@@ -1830,10 +1830,10 @@
     "entry_swrsi": 74.69151154395828
   },
   "PARTI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02306,
-    "entry_time": "2026-09-09 23:00:00",
-    "entry_swrsi": 22.80963875409646
+    "dir": "short",
+    "entry_price": 0.02416,
+    "entry_time": "2026-09-12 20:00:00",
+    "entry_swrsi": 75.54885632824325
   },
   "PIXEL/USDT|1h": {
     "dir": "long",
@@ -2040,10 +2040,10 @@
     "entry_swrsi": 20.268490375818462
   },
   "BAND/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1814,
-    "entry_time": "2026-09-10 13:00:00",
-    "entry_swrsi": 21.217287642186374
+    "dir": "short",
+    "entry_price": 0.1892,
+    "entry_time": "2026-09-12 20:00:00",
+    "entry_swrsi": 78.85704310133066
   },
   "CORE/USDT|1h": {
     "dir": "long",
