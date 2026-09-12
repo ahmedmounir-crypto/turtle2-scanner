@@ -748,5 +748,17 @@
     "entry_price": 0.004862,
     "entry_time": "2026-09-10 00:00:00",
     "entry_swrsi": 59.010968664753186
+  },
+  "FOGO/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.006468,
+    "entry_time": "2026-09-11 00:00:00",
+    "entry_swrsi": 26.926199802114585
+  },
+  "GALFT/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.8883,
+    "entry_time": "2026-09-11 00:00:00",
+    "entry_swrsi": 26.480573536539413
   }
 }
