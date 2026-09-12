@@ -534,16 +534,16 @@
     "entry_swrsi": 78.26672697682822
   },
   "CHZ/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01343,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 28.691022735256436
+    "dir": "short",
+    "entry_price": 0.01463,
+    "entry_time": "2026-09-12 05:00:00",
+    "entry_swrsi": 68.88654515930304
   },
   "CVC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0193,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 21.598917176608463
+    "dir": "short",
+    "entry_price": 0.02257,
+    "entry_time": "2026-09-12 05:00:00",
+    "entry_swrsi": 78.65109035354702
   },
   "FLOKI/USDT|1h": {
     "dir": "long",
