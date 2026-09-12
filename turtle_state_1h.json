@@ -1596,10 +1596,10 @@
     "entry_swrsi": 27.33503249467276
   },
   "MASK/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.4452,
-    "entry_time": "2026-09-09 23:00:00",
-    "entry_swrsi": 22.094827486398938
+    "dir": "short",
+    "entry_price": 0.4626,
+    "entry_time": "2026-09-12 08:00:00",
+    "entry_swrsi": 73.58735376370335
   },
   "NEO/USDT|1h": {
     "dir": "short",
