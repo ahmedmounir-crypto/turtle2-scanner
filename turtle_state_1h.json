@@ -954,10 +954,10 @@
     "entry_swrsi": 25.23304827846753
   },
   "UNI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 6.079,
-    "entry_time": "2026-09-10 03:00:00",
-    "entry_swrsi": 22.38124212819957
+    "dir": "short",
+    "entry_price": 6.381,
+    "entry_time": "2026-09-12 16:00:00",
+    "entry_swrsi": 65.90521795360472
   },
   "XBMNR/USDT|1h": {
     "dir": "short",
