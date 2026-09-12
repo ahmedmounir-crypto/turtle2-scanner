@@ -870,10 +870,10 @@
     "entry_swrsi": 77.52024056219156
   },
   "CARDS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1509,
-    "entry_time": "2026-09-04 09:00:00",
-    "entry_swrsi": 20.837320053509163
+    "dir": "short",
+    "entry_price": 0.1461,
+    "entry_time": "2026-09-12 09:00:00",
+    "entry_swrsi": 79.33422584025038
   },
   "KMNO/USDT|1h": {
     "dir": "short",
@@ -2332,5 +2332,11 @@
     "entry_price": 23.61,
     "entry_time": "2026-09-11 12:00:00",
     "entry_swrsi": 39.19040987764776
+  },
+  "BERA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.1887,
+    "entry_time": "2026-09-12 09:00:00",
+    "entry_swrsi": 68.85216742217844
   }
 }
