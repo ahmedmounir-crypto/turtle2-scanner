@@ -324,10 +324,10 @@
     "entry_swrsi": 21.776444438469277
   },
   "XORCL/USDT|1h": {
-    "dir": "short",
-    "entry_price": 153.73,
-    "entry_time": "2026-09-03 20:00:00",
-    "entry_swrsi": 76.01385347488443
+    "dir": "long",
+    "entry_price": 147.71,
+    "entry_time": "2026-09-12 10:00:00",
+    "entry_swrsi": 31.31536411208807
   },
   "XEWY/USDT|1h": {
     "dir": "long",
