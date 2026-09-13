@@ -1578,10 +1578,10 @@
     "entry_swrsi": 72.01051706576007
   },
   "FLR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.006366,
-    "entry_time": "2026-09-09 20:00:00",
-    "entry_swrsi": 20.2992669786621
+    "dir": "short",
+    "entry_price": 0.006502,
+    "entry_time": "2026-09-13 01:00:00",
+    "entry_swrsi": 73.81141598308747
   },
   "HMSTR/USDT|1h": {
     "dir": "long",
