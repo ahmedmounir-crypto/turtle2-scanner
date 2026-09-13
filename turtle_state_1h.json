@@ -1620,10 +1620,10 @@
     "entry_swrsi": 68.36803712827235
   },
   "CHIP/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.03303,
-    "entry_time": "2026-08-21 04:00:00",
-    "entry_swrsi": 71.93492643418328
+    "dir": "long",
+    "entry_price": 0.04338,
+    "entry_time": "2026-09-13 20:00:00",
+    "entry_swrsi": 23.416616276139766
   },
   "SNT/USDT|1h": {
     "dir": "short",
