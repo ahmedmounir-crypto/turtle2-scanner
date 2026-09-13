@@ -1470,10 +1470,10 @@
     "entry_swrsi": 28.360546606641236
   },
   "ZEN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 4.181,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 74.16796068301173
+    "dir": "long",
+    "entry_price": 6.296,
+    "entry_time": "2026-09-13 00:00:00",
+    "entry_swrsi": 26.200472916904065
   },
   "GALFT/USDT|1h": {
     "dir": "long",
