@@ -1680,10 +1680,10 @@
     "entry_swrsi": 24.24595088033368
   },
   "ROBO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.01119,
-    "entry_time": "2026-09-05 03:00:00",
-    "entry_swrsi": 52.55231219414621
+    "dir": "long",
+    "entry_price": 0.00849,
+    "entry_time": "2026-09-13 17:00:00",
+    "entry_swrsi": 21.54284498046335
   },
   "FLUID/USDT|1h": {
     "dir": "long",
