@@ -552,10 +552,10 @@
     "entry_swrsi": 25.584302266530695
   },
   "GAS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 1.253,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 30.147673974696627
+    "dir": "short",
+    "entry_price": 1.3108,
+    "entry_time": "2026-09-13 07:00:00",
+    "entry_swrsi": 63.257790121778235
   },
   "GMT/USDT|1h": {
     "dir": "short",
@@ -1380,10 +1380,10 @@
     "entry_swrsi": 77.51413286569804
   },
   "RON/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.05436,
-    "entry_time": "2026-08-28 22:00:00",
-    "entry_swrsi": 25.082955573207215
+    "dir": "short",
+    "entry_price": 0.05337,
+    "entry_time": "2026-09-13 07:00:00",
+    "entry_swrsi": 74.05819730090472
   },
   "SAHARA/USDT|1h": {
     "dir": "short",
@@ -2344,5 +2344,11 @@
     "entry_price": 5.07,
     "entry_time": "2026-09-13 05:00:00",
     "entry_swrsi": 30.994460600247585
+  },
+  "JOE/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.03189,
+    "entry_time": "2026-09-13 07:00:00",
+    "entry_swrsi": 73.63946267545978
   }
 }
