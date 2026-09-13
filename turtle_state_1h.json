@@ -1,9 +1,9 @@
 {
   "KAT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.004472,
-    "entry_time": "2026-08-16 15:00:00",
-    "entry_swrsi": 78.20767654557815
+    "dir": "long",
+    "entry_price": 0.004654,
+    "entry_time": "2026-09-13 04:00:00",
+    "entry_swrsi": 28.618327460940357
   },
   "WLFI/USDT|1h": {
     "dir": "short",
@@ -2232,10 +2232,10 @@
     "entry_swrsi": 42.345911468605834
   },
   "ZENT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.002302,
-    "entry_time": "2026-08-31 13:00:00",
-    "entry_swrsi": 67.20957119400101
+    "dir": "long",
+    "entry_price": 0.001932,
+    "entry_time": "2026-09-13 04:00:00",
+    "entry_swrsi": 25.661302055136662
   },
   "XAAPL/USDT|1h": {
     "dir": "long",
