@@ -1854,10 +1854,10 @@
     "entry_swrsi": 71.63816455411101
   },
   "XCRWD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 211.62,
-    "entry_time": "2026-09-08 12:00:00",
-    "entry_swrsi": 26.03964712013265
+    "dir": "short",
+    "entry_price": 208.51,
+    "entry_time": "2026-09-13 22:00:00",
+    "entry_swrsi": 59.63405334530058
   },
   "EDGE/USDT|1h": {
     "dir": "short",
