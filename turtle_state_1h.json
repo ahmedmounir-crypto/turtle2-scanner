@@ -144,10 +144,10 @@
     "entry_swrsi": 78.33753807426024
   },
   "JITOSOL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 129.68,
-    "entry_time": "2026-09-13 12:00:00",
-    "entry_swrsi": 20.154559761522215
+    "dir": "short",
+    "entry_price": 134.51,
+    "entry_time": "2026-09-14 19:00:00",
+    "entry_swrsi": 79.81645039679502
   },
   "MEW/USDT|1h": {
     "dir": "short",
@@ -234,10 +234,10 @@
     "entry_swrsi": 69.8800811407415
   },
   "XHIMS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 31.24,
-    "entry_time": "2026-08-24 16:00:00",
-    "entry_swrsi": 25.459973932871616
+    "dir": "short",
+    "entry_price": 28.81,
+    "entry_time": "2026-09-14 19:00:00",
+    "entry_swrsi": 74.98429210394086
   },
   "BTC/USDT|1h": {
     "dir": "short",
@@ -1674,10 +1674,10 @@
     "entry_swrsi": 79.35146320729757
   },
   "PEPE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.3e-06,
-    "entry_time": "2026-09-10 17:00:00",
-    "entry_swrsi": 24.24595088033368
+    "dir": "short",
+    "entry_price": 3.516e-06,
+    "entry_time": "2026-09-14 19:00:00",
+    "entry_swrsi": 71.37043100232836
   },
   "ROBO/USDT|1h": {
     "dir": "long",
@@ -1950,10 +1950,10 @@
     "entry_swrsi": 21.75196683940391
   },
   "XRDDT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 156.37,
-    "entry_time": "2026-09-13 16:00:00",
-    "entry_swrsi": 33.49298045455221
+    "dir": "short",
+    "entry_price": 162.79,
+    "entry_time": "2026-09-14 19:00:00",
+    "entry_swrsi": 71.32249095274877
   },
   "XSMH/USDT|1h": {
     "dir": "long",
@@ -2190,10 +2190,10 @@
     "entry_swrsi": 24.48041316584987
   },
   "XUNH/USDT|1h": {
-    "dir": "long",
-    "entry_price": 398.09,
-    "entry_time": "2026-09-07 12:00:00",
-    "entry_swrsi": 47.26537664025172
+    "dir": "short",
+    "entry_price": 383.41,
+    "entry_time": "2026-09-14 19:00:00",
+    "entry_swrsi": 78.0183002353068
   },
   "STORJ/USDT|1h": {
     "dir": "short",
@@ -2368,5 +2368,11 @@
     "entry_price": 14.19,
     "entry_time": "2026-09-14 17:00:00",
     "entry_swrsi": 27.31387703852248
+  },
+  "XMUU/USDT|1h": {
+    "dir": "long",
+    "entry_price": 28.21,
+    "entry_time": "2026-09-14 19:00:00",
+    "entry_swrsi": 21.683191348622824
   }
 }
