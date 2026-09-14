@@ -312,10 +312,10 @@
     "entry_swrsi": 69.75844494385397
   },
   "XON/USDT|1h": {
-    "dir": "short",
-    "entry_price": 75.52,
-    "entry_time": "2026-09-12 02:00:00",
-    "entry_swrsi": 73.43790832480121
+    "dir": "long",
+    "entry_price": 72.73,
+    "entry_time": "2026-09-14 16:00:00",
+    "entry_swrsi": 23.93781534913857
   },
   "XONDS/USDT|1h": {
     "dir": "long",
@@ -1752,16 +1752,16 @@
     "entry_swrsi": 79.7061185264282
   },
   "XHPE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 60.31,
-    "entry_time": "2026-09-11 15:00:00",
-    "entry_swrsi": 77.99809127502856
+    "dir": "long",
+    "entry_price": 56.98,
+    "entry_time": "2026-09-14 16:00:00",
+    "entry_swrsi": 24.448535655469975
   },
   "CATI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.06063,
-    "entry_time": "2026-09-07 06:00:00",
-    "entry_swrsi": 75.01250304266291
+    "dir": "long",
+    "entry_price": 0.06206,
+    "entry_time": "2026-09-14 16:00:00",
+    "entry_swrsi": 25.900815952360034
   },
   "NMR/USDT|1h": {
     "dir": "long",
