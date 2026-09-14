@@ -760,5 +760,11 @@
     "entry_price": 0.8883,
     "entry_time": "2026-09-11 00:00:00",
     "entry_swrsi": 26.480573536539413
+  },
+  "MINA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.09573,
+    "entry_time": "2026-09-13 00:00:00",
+    "entry_swrsi": 72.02097544918387
   }
 }
