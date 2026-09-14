@@ -1914,10 +1914,10 @@
     "entry_swrsi": 77.79113025701558
   },
   "XKO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 88.25,
-    "entry_time": "2026-09-01 18:00:00",
-    "entry_swrsi": 23.192674766477
+    "dir": "short",
+    "entry_price": 88.79,
+    "entry_time": "2026-09-14 06:00:00",
+    "entry_swrsi": 72.70329085533754
   },
   "CELR/USDT|1h": {
     "dir": "short",
