@@ -1038,10 +1038,10 @@
     "entry_swrsi": 22.82276013672936
   },
   "XCOIN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 173.23,
-    "entry_time": "2026-09-13 11:00:00",
-    "entry_swrsi": 22.861275349027153
+    "dir": "short",
+    "entry_price": 186.63,
+    "entry_time": "2026-09-14 14:00:00",
+    "entry_swrsi": 78.75075889784023
   },
   "ZAMA/USDT|1h": {
     "dir": "short",
@@ -1056,10 +1056,10 @@
     "entry_swrsi": 79.91644544834574
   },
   "MINA/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.04202,
-    "entry_time": "2026-08-19 19:00:00",
-    "entry_swrsi": 78.66792385181657
+    "dir": "long",
+    "entry_price": 0.08313,
+    "entry_time": "2026-09-14 14:00:00",
+    "entry_swrsi": 30.827204930267687
   },
   "PEOPLE/USDT|1h": {
     "dir": "long",
@@ -1998,10 +1998,10 @@
     "entry_swrsi": 21.82513908044009
   },
   "XRIVN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 16.3,
-    "entry_time": "2026-09-10 14:00:00",
-    "entry_swrsi": 54.36908704326256
+    "dir": "short",
+    "entry_price": 15.91,
+    "entry_time": "2026-09-14 14:00:00",
+    "entry_swrsi": 56.415968065303545
   },
   "WIN/USDT|1h": {
     "dir": "short",
