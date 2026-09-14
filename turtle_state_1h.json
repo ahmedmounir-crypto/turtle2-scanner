@@ -378,10 +378,10 @@
     "entry_swrsi": 72.5625527742462
   },
   "XADBE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 273.56,
-    "entry_time": "2026-09-07 09:00:00",
-    "entry_swrsi": 24.32495414724867
+    "dir": "short",
+    "entry_price": 257.73,
+    "entry_time": "2026-09-14 09:00:00",
+    "entry_swrsi": 79.2117363243425
   },
   "ZK/USDT|1h": {
     "dir": "short",
