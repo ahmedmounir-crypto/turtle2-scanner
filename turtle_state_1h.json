@@ -2094,10 +2094,10 @@
     "entry_swrsi": 75.39933583516844
   },
   "ETH/USDT|1h": {
-    "dir": "long",
-    "entry_price": 2481.45,
-    "entry_time": "2026-09-13 11:00:00",
-    "entry_swrsi": 25.691058011143063
+    "dir": "short",
+    "entry_price": 2546.78,
+    "entry_time": "2026-09-14 21:00:00",
+    "entry_swrsi": 69.09913287148304
   },
   "LINK/USDT|1h": {
     "dir": "long",
@@ -2148,10 +2148,10 @@
     "entry_swrsi": 22.99252312764397
   },
   "AEON/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.05022,
-    "entry_time": "2026-09-09 23:00:00",
-    "entry_swrsi": 25.118953962029575
+    "dir": "short",
+    "entry_price": 0.05197,
+    "entry_time": "2026-09-14 21:00:00",
+    "entry_swrsi": 77.24035415809875
   },
   "BASED/USDT|1h": {
     "dir": "long",
