@@ -120,10 +120,10 @@
     "entry_swrsi": 33.67203974912522
   },
   "ZKJ/USDT|1d": {
-    "dir": "long",
-    "entry_price": 0.005333,
-    "entry_time": "2026-08-19 00:00:00",
-    "entry_swrsi": 23.999222511182484
+    "dir": "short",
+    "entry_price": 0.006711,
+    "entry_time": "2026-09-14 00:00:00",
+    "entry_swrsi": 68.79773691541628
   },
   "KAITO/USDT|1d": {
     "dir": "long",
@@ -766,5 +766,11 @@
     "entry_price": 0.09573,
     "entry_time": "2026-09-13 00:00:00",
     "entry_swrsi": 72.02097544918387
+  },
+  "LSK/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.30342,
+    "entry_time": "2026-09-14 00:00:00",
+    "entry_swrsi": 78.91364107685995
   }
 }
