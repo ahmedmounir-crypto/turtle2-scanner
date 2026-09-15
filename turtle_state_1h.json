@@ -882,10 +882,10 @@
     "entry_swrsi": 21.911960995491942
   },
   "ZRO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.8301,
-    "entry_time": "2026-08-19 11:00:00",
-    "entry_swrsi": 71.23039417168741
+    "dir": "long",
+    "entry_price": 0.9516,
+    "entry_time": "2026-09-15 08:00:00",
+    "entry_swrsi": 20.278314132607935
   },
   "SPACE/USDT|1h": {
     "dir": "long",
@@ -1308,10 +1308,10 @@
     "entry_swrsi": 22.36726077897658
   },
   "MAGIC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.045,
-    "entry_time": "2026-09-13 06:00:00",
-    "entry_swrsi": 77.2818416568317
+    "dir": "long",
+    "entry_price": 0.04355,
+    "entry_time": "2026-09-15 08:00:00",
+    "entry_swrsi": 23.92652151618172
   },
   "MANA/USDT|1h": {
     "dir": "short",
@@ -1698,10 +1698,10 @@
     "entry_swrsi": 78.27932372149576
   },
   "YGG/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.02438,
-    "entry_time": "2026-09-06 02:00:00",
-    "entry_swrsi": 76.39161208533162
+    "dir": "long",
+    "entry_price": 0.02233,
+    "entry_time": "2026-09-15 08:00:00",
+    "entry_swrsi": 20.98352985568111
   },
   "CFX/USDT|1h": {
     "dir": "short",
