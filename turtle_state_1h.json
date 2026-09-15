@@ -1656,10 +1656,10 @@
     "entry_swrsi": 21.63046554159368
   },
   "ONE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.000712,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 30.203218917827325
+    "dir": "short",
+    "entry_price": 0.000701,
+    "entry_time": "2026-09-15 05:00:00",
+    "entry_swrsi": 79.80987046123532
   },
   "ETHW/USDT|1h": {
     "dir": "short",
