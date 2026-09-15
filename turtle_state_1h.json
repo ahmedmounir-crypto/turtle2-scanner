@@ -1368,10 +1368,10 @@
     "entry_swrsi": 25.7450913584399
   },
   "RAY/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.647,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 74.98506625834196
+    "dir": "long",
+    "entry_price": 1.2347,
+    "entry_time": "2026-09-15 18:00:00",
+    "entry_swrsi": 20.894035661378513
   },
   "RESOLV/USDT|1h": {
     "dir": "short",
