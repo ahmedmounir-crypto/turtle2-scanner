@@ -222,10 +222,10 @@
     "entry_swrsi": 38.116804206808
   },
   "XAMD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 503.07,
-    "entry_time": "2026-09-13 13:00:00",
-    "entry_swrsi": 20.420661450930886
+    "dir": "short",
+    "entry_price": 504.73,
+    "entry_time": "2026-09-15 14:00:00",
+    "entry_swrsi": 70.07299011291767
   },
   "XGME/USDT|1h": {
     "dir": "short",
@@ -804,10 +804,10 @@
     "entry_swrsi": 64.4500698624772
   },
   "THETA/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.1919,
-    "entry_time": "2026-09-11 15:00:00",
-    "entry_swrsi": 64.15017408581373
+    "dir": "long",
+    "entry_price": 0.1832,
+    "entry_time": "2026-09-15 14:00:00",
+    "entry_swrsi": 21.43477636290782
   },
   "VINE/USDT|1h": {
     "dir": "short",
@@ -1944,10 +1944,10 @@
     "entry_swrsi": 24.51690347420266
   },
   "XQCOM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 178.52,
-    "entry_time": "2026-09-13 13:00:00",
-    "entry_swrsi": 21.75196683940391
+    "dir": "short",
+    "entry_price": 186.45,
+    "entry_time": "2026-09-15 14:00:00",
+    "entry_swrsi": 72.19130874772456
   },
   "XRDDT/USDT|1h": {
     "dir": "short",
