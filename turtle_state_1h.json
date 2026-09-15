@@ -372,10 +372,10 @@
     "entry_swrsi": 64.81658914415245
   },
   "CSPR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.003105,
-    "entry_time": "2026-08-17 12:00:00",
-    "entry_swrsi": 72.5625527742462
+    "dir": "long",
+    "entry_price": 0.002738,
+    "entry_time": "2026-09-15 09:00:00",
+    "entry_swrsi": 22.842800085362132
   },
   "XADBE/USDT|1h": {
     "dir": "short",
@@ -1266,10 +1266,10 @@
     "entry_swrsi": 67.10895486964061
   },
   "KAIA/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.02433,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 78.4319443730288
+    "dir": "long",
+    "entry_price": 0.02849,
+    "entry_time": "2026-09-15 09:00:00",
+    "entry_swrsi": 22.31089927417744
   },
   "KITE/USDT|1h": {
     "dir": "long",
