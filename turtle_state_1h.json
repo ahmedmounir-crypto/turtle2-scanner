@@ -1158,10 +1158,10 @@
     "entry_swrsi": 25.461096353733836
   },
   "BANANA/USDT|1h": {
-    "dir": "short",
-    "entry_price": 3.834,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 74.63629221527711
+    "dir": "long",
+    "entry_price": 3.706,
+    "entry_time": "2026-09-15 23:00:00",
+    "entry_swrsi": 24.512514123647602
   },
   "BARD/USDT|1h": {
     "dir": "short",
@@ -2374,5 +2374,11 @@
     "entry_price": 28.21,
     "entry_time": "2026-09-14 19:00:00",
     "entry_swrsi": 21.683191348622824
+  },
+  "ORBS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.006354,
+    "entry_time": "2026-09-15 23:00:00",
+    "entry_swrsi": 20.273330582716994
   }
 }
