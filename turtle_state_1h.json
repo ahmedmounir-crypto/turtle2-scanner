@@ -342,10 +342,10 @@
     "entry_swrsi": 75.278681637811
   },
   "XMRVL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 227.86,
-    "entry_time": "2026-09-13 11:00:00",
-    "entry_swrsi": 26.814556892508183
+    "dir": "short",
+    "entry_price": 229.91,
+    "entry_time": "2026-09-16 14:00:00",
+    "entry_swrsi": 71.47249659448768
   },
   "XMSFT/USDT|1h": {
     "dir": "short",
@@ -360,10 +360,10 @@
     "entry_swrsi": 29.41870226614137
   },
   "XSOXL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 118.7,
-    "entry_time": "2026-09-10 14:00:00",
-    "entry_swrsi": 32.913293606834806
+    "dir": "short",
+    "entry_price": 108.17,
+    "entry_time": "2026-09-16 14:00:00",
+    "entry_swrsi": 76.67709536857248
   },
   "ASP/USDT|1h": {
     "dir": "short",
@@ -1464,10 +1464,10 @@
     "entry_swrsi": 78.7175237030092
   },
   "ZEC/USDT|1h": {
-    "dir": "long",
-    "entry_price": 1087.08,
-    "entry_time": "2026-09-11 04:00:00",
-    "entry_swrsi": 28.360546606641236
+    "dir": "short",
+    "entry_price": 1245.75,
+    "entry_time": "2026-09-16 14:00:00",
+    "entry_swrsi": 79.68656159312434
   },
   "ZEN/USDT|1h": {
     "dir": "long",
@@ -2352,16 +2352,16 @@
     "entry_swrsi": 73.63946267545978
   },
   "XSOXS/USDT|1h": {
-    "dir": "short",
-    "entry_price": 45.77,
-    "entry_time": "2026-09-13 13:00:00",
-    "entry_swrsi": 68.28435696960608
+    "dir": "long",
+    "entry_price": 48.5,
+    "entry_time": "2026-09-16 14:00:00",
+    "entry_swrsi": 25.011477808392687
   },
   "XMVLL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 27.52,
-    "entry_time": "2026-09-13 21:00:00",
-    "entry_swrsi": 25.76827253620392
+    "dir": "short",
+    "entry_price": 27.68,
+    "entry_time": "2026-09-16 14:00:00",
+    "entry_swrsi": 73.10005367030237
   },
   "XSNXX/USDT|1h": {
     "dir": "long",
@@ -2380,5 +2380,11 @@
     "entry_price": 0.006354,
     "entry_time": "2026-09-15 23:00:00",
     "entry_swrsi": 20.273330582716994
+  },
+  "RLUSD/USDT|1h": {
+    "dir": "short",
+    "entry_price": 1.0006,
+    "entry_time": "2026-09-16 14:00:00",
+    "entry_swrsi": 59.50909753088837
   }
 }
