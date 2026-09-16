@@ -456,10 +456,10 @@
     "entry_swrsi": 21.51333020105938
   },
   "XUSAR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 15.97,
-    "entry_time": "2026-09-14 17:00:00",
-    "entry_swrsi": 77.87129603048207
+    "dir": "long",
+    "entry_price": 15.14,
+    "entry_time": "2026-09-16 20:00:00",
+    "entry_swrsi": 30.30742853667963
   },
   "YB/USDT|1h": {
     "dir": "long",
