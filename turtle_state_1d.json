@@ -772,5 +772,23 @@
     "entry_price": 0.30342,
     "entry_time": "2026-09-14 00:00:00",
     "entry_swrsi": 78.91364107685995
+  },
+  "CVC/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.02836,
+    "entry_time": "2026-09-15 00:00:00",
+    "entry_swrsi": 73.0008928207235
+  },
+  "KNC/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.13737,
+    "entry_time": "2026-09-15 00:00:00",
+    "entry_swrsi": 79.06249564461793
+  },
+  "WIN/USDT|1d": {
+    "dir": "short",
+    "entry_price": 3.767e-05,
+    "entry_time": "2026-09-15 00:00:00",
+    "entry_swrsi": 69.10887070609105
   }
 }
