@@ -1842,10 +1842,10 @@
     "entry_swrsi": 76.2028772990013
   },
   "XBX/USDT|1h": {
-    "dir": "short",
-    "entry_price": 128.56,
-    "entry_time": "2026-09-11 17:00:00",
-    "entry_swrsi": 69.945350893584
+    "dir": "long",
+    "entry_price": 124.86,
+    "entry_time": "2026-09-16 23:00:00",
+    "entry_swrsi": 33.890740306971075
   },
   "GRVT/USDT|1h": {
     "dir": "short",
