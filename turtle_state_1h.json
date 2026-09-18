@@ -1470,10 +1470,10 @@
     "entry_swrsi": 79.68656159312434
   },
   "ZEN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 6.296,
-    "entry_time": "2026-09-13 00:00:00",
-    "entry_swrsi": 26.200472916904065
+    "dir": "short",
+    "entry_price": 8.122,
+    "entry_time": "2026-09-18 20:00:00",
+    "entry_swrsi": 77.93270524668675
   },
   "GALFT/USDT|1h": {
     "dir": "short",
@@ -1554,10 +1554,10 @@
     "entry_swrsi": 61.18613571614657
   },
   "XASTS/USDT|1h": {
-    "dir": "short",
-    "entry_price": 60.15,
-    "entry_time": "2026-09-14 18:00:00",
-    "entry_swrsi": 71.4553135411957
+    "dir": "long",
+    "entry_price": 58.76,
+    "entry_time": "2026-09-18 20:00:00",
+    "entry_swrsi": 21.88318711804701
   },
   "ADA/USDT|1h": {
     "dir": "short",
@@ -2292,10 +2292,10 @@
     "entry_swrsi": 72.44084418276627
   },
   "DOOD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.001573,
-    "entry_time": "2026-09-15 15:00:00",
-    "entry_swrsi": 24.102183048689408
+    "dir": "short",
+    "entry_price": 0.001747,
+    "entry_time": "2026-09-18 20:00:00",
+    "entry_swrsi": 79.71645233678673
   },
   "CP/USDT|1h": {
     "dir": "long",
