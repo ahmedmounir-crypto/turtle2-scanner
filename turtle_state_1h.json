@@ -2386,5 +2386,11 @@
     "entry_price": 1.0006,
     "entry_time": "2026-09-16 14:00:00",
     "entry_swrsi": 59.50909753088837
+  },
+  "ZBCN/USDT|1h": {
+    "dir": "short",
+    "entry_price": 0.0019923,
+    "entry_time": "2026-09-19 19:00:00",
+    "entry_swrsi": 73.01921536222801
   }
 }
