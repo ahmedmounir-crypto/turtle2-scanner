@@ -790,5 +790,11 @@
     "entry_price": 3.767e-05,
     "entry_time": "2026-09-15 00:00:00",
     "entry_swrsi": 69.10887070609105
+  },
+  "XMETA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 668.43,
+    "entry_time": "2026-09-18 00:00:00",
+    "entry_swrsi": 72.63590688433858
   }
 }
