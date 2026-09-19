@@ -1188,10 +1188,10 @@
     "entry_swrsi": 20.437037197409307
   },
   "CETUS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02445,
-    "entry_time": "2026-08-25 22:00:00",
-    "entry_swrsi": 28.310857694887407
+    "dir": "short",
+    "entry_price": 0.02335,
+    "entry_time": "2026-09-19 14:00:00",
+    "entry_swrsi": 75.75580173264532
   },
   "CRV/USDT|1h": {
     "dir": "long",
