@@ -1686,10 +1686,10 @@
     "entry_swrsi": 60.22480525368254
   },
   "FLUID/USDT|1h": {
-    "dir": "long",
-    "entry_price": 1.2093,
-    "entry_time": "2026-09-09 20:00:00",
-    "entry_swrsi": 23.8467097408662
+    "dir": "short",
+    "entry_price": 1.3453,
+    "entry_time": "2026-09-19 17:00:00",
+    "entry_swrsi": 72.45301412317981
   },
   "RPL/USDT|1h": {
     "dir": "long",
