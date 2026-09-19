@@ -2392,5 +2392,11 @@
     "entry_price": 0.0019923,
     "entry_time": "2026-09-19 19:00:00",
     "entry_swrsi": 73.01921536222801
+  },
+  "PONS/USDT|1h": {
+    "dir": "long",
+    "entry_price": 0.5777,
+    "entry_time": "2026-09-19 21:00:00",
+    "entry_swrsi": 21.534314857851918
   }
 }
