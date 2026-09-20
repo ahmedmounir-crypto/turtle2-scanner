@@ -882,10 +882,10 @@
     "entry_swrsi": 21.911960995491942
   },
   "ZRO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.9516,
-    "entry_time": "2026-09-15 08:00:00",
-    "entry_swrsi": 20.278314132607935
+    "dir": "short",
+    "entry_price": 1.1656,
+    "entry_time": "2026-09-20 22:00:00",
+    "entry_swrsi": 69.58222367024375
   },
   "SPACE/USDT|1h": {
     "dir": "short",
