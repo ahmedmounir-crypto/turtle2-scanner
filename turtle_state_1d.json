@@ -796,5 +796,11 @@
     "entry_price": 668.43,
     "entry_time": "2026-09-18 00:00:00",
     "entry_swrsi": 72.63590688433858
+  },
+  "G/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.0061,
+    "entry_time": "2026-09-20 00:00:00",
+    "entry_swrsi": 70.085863256849
   }
 }
