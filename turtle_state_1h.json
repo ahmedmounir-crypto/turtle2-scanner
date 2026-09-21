@@ -450,10 +450,10 @@
     "entry_swrsi": 30.06178764254676
   },
   "XLITE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 902.95,
-    "entry_time": "2026-09-13 13:00:00",
-    "entry_swrsi": 21.51333020105938
+    "dir": "short",
+    "entry_price": 967.34,
+    "entry_time": "2026-09-21 14:00:00",
+    "entry_swrsi": 73.55085293300898
   },
   "XUSAR/USDT|1h": {
     "dir": "short",
@@ -480,10 +480,10 @@
     "entry_swrsi": 21.024453526179922
   },
   "XMETA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 643.69,
-    "entry_time": "2026-09-13 11:00:00",
-    "entry_swrsi": 20.740238766993965
+    "dir": "short",
+    "entry_price": 709.31,
+    "entry_time": "2026-09-21 14:00:00",
+    "entry_swrsi": 79.26726011680698
   },
   "XNFLX/USDT|1h": {
     "dir": "long",
@@ -1266,10 +1266,10 @@
     "entry_swrsi": 67.10895486964061
   },
   "KAIA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02849,
-    "entry_time": "2026-09-15 09:00:00",
-    "entry_swrsi": 22.31089927417744
+    "dir": "short",
+    "entry_price": 0.03204,
+    "entry_time": "2026-09-21 14:00:00",
+    "entry_swrsi": 77.11721367009811
   },
   "KITE/USDT|1h": {
     "dir": "long",
@@ -1806,10 +1806,10 @@
     "entry_swrsi": 20.234145663216072
   },
   "XSNOW/USDT|1h": {
-    "dir": "long",
-    "entry_price": 326.56,
-    "entry_time": "2026-09-15 15:00:00",
-    "entry_swrsi": 34.552884337728095
+    "dir": "short",
+    "entry_price": 335.12,
+    "entry_time": "2026-09-21 14:00:00",
+    "entry_swrsi": 61.5136724966033
   },
   "XBOT/USDT|1h": {
     "dir": "long",
@@ -2016,10 +2016,10 @@
     "entry_swrsi": 28.056333880801855
   },
   "FET/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1503,
-    "entry_time": "2026-08-29 01:00:00",
-    "entry_swrsi": 20.82876630159954
+    "dir": "short",
+    "entry_price": 0.2022,
+    "entry_time": "2026-09-21 14:00:00",
+    "entry_swrsi": 75.91615653336676
   },
   "ICP/USDT|1h": {
     "dir": "long",
