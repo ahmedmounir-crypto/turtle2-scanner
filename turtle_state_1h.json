@@ -2340,10 +2340,10 @@
     "entry_swrsi": 68.85216742217844
   },
   "XSHEIN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 5.07,
-    "entry_time": "2026-09-13 05:00:00",
-    "entry_swrsi": 30.994460600247585
+    "dir": "short",
+    "entry_price": 4.928,
+    "entry_time": "2026-09-22 05:00:00",
+    "entry_swrsi": 76.68958211338386
   },
   "JOE/USDT|1h": {
     "dir": "short",
