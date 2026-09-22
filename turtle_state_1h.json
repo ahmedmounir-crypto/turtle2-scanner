@@ -318,10 +318,10 @@
     "entry_swrsi": 23.93781534913857
   },
   "XONDS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 7.658,
-    "entry_time": "2026-09-08 03:00:00",
-    "entry_swrsi": 21.776444438469277
+    "dir": "short",
+    "entry_price": 7.725,
+    "entry_time": "2026-09-22 22:00:00",
+    "entry_swrsi": 79.28132591033274
   },
   "XORCL/USDT|1h": {
     "dir": "long",
@@ -1344,10 +1344,10 @@
     "entry_swrsi": 78.41885228454645
   },
   "PENGU/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.00768,
-    "entry_time": "2026-09-09 23:00:00",
-    "entry_swrsi": 25.54378078761752
+    "dir": "short",
+    "entry_price": 0.009973,
+    "entry_time": "2026-09-22 21:00:00",
+    "entry_swrsi": 76.56864494040867
   },
   "PHA/USDT|1h": {
     "dir": "short",
