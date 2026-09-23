@@ -432,10 +432,10 @@
     "entry_swrsi": 77.79132462710588
   },
   "XAMZN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 255.39,
-    "entry_time": "2026-09-21 02:00:00",
-    "entry_swrsi": 79.88249070345826
+    "dir": "long",
+    "entry_price": 250.0,
+    "entry_time": "2026-09-23 18:00:00",
+    "entry_swrsi": 23.781720013645344
   },
   "XAPP/USDT|1h": {
     "dir": "long",
@@ -504,10 +504,10 @@
     "entry_swrsi": 29.23782777544671
   },
   "FOGO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.00678,
-    "entry_time": "2026-09-19 01:00:00",
-    "entry_swrsi": 75.39111454754786
+    "dir": "long",
+    "entry_price": 0.006493,
+    "entry_time": "2026-09-23 18:00:00",
+    "entry_swrsi": 20.33894452432154
   },
   "COMP/USDT|1h": {
     "dir": "short",
@@ -1152,10 +1152,10 @@
     "entry_swrsi": 27.603791054403242
   },
   "BABYDOGE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 3.85e-10,
-    "entry_time": "2026-09-18 11:00:00",
-    "entry_swrsi": 70.36557265292768
+    "dir": "long",
+    "entry_price": 3.98e-10,
+    "entry_time": "2026-09-23 18:00:00",
+    "entry_swrsi": 20.030618717235054
   },
   "BANANA/USDT|1h": {
     "dir": "long",
@@ -2106,10 +2106,10 @@
     "entry_swrsi": 74.67118325027833
   },
   "STETH/USDT|1h": {
-    "dir": "short",
-    "entry_price": 2502.39,
-    "entry_time": "2026-08-30 17:00:00",
-    "entry_swrsi": 70.87613485692688
+    "dir": "long",
+    "entry_price": 2665.91,
+    "entry_time": "2026-09-23 18:00:00",
+    "entry_swrsi": 22.844752589767925
   },
   "NAVX/USDT|1h": {
     "dir": "short",
@@ -2328,10 +2328,10 @@
     "entry_swrsi": 77.59355627505725
   },
   "XKORU/USDT|1h": {
-    "dir": "short",
-    "entry_price": 21.02,
-    "entry_time": "2026-09-21 07:00:00",
-    "entry_swrsi": 78.29808519132659
+    "dir": "long",
+    "entry_price": 21.55,
+    "entry_time": "2026-09-23 18:00:00",
+    "entry_swrsi": 30.934979415593087
   },
   "BERA/USDT|1h": {
     "dir": "short",
