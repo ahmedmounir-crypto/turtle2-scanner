@@ -808,5 +808,17 @@
     "entry_price": 0.0438,
     "entry_time": "2026-09-21 00:00:00",
     "entry_swrsi": 74.1932751556452
+  },
+  "CELR/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.003019,
+    "entry_time": "2026-09-22 00:00:00",
+    "entry_swrsi": 71.6971520978194
+  },
+  "PROVE/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.2279,
+    "entry_time": "2026-09-22 00:00:00",
+    "entry_swrsi": 75.41764810782648
   }
 }
