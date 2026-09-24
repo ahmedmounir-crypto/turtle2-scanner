@@ -1524,10 +1524,10 @@
     "entry_swrsi": 77.12016153681155
   },
   "XVRT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 242.84,
-    "entry_time": "2026-09-16 17:00:00",
-    "entry_swrsi": 73.66840988393518
+    "dir": "long",
+    "entry_price": 247.98,
+    "entry_time": "2026-09-24 04:00:00",
+    "entry_swrsi": 22.65522481046807
   },
   "ACE/USDT|1h": {
     "dir": "long",
