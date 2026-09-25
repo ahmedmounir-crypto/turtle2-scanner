@@ -804,10 +804,10 @@
     "entry_swrsi": 64.4500698624772
   },
   "THETA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1832,
-    "entry_time": "2026-09-15 14:00:00",
-    "entry_swrsi": 21.43477636290782
+    "dir": "short",
+    "entry_price": 0.2326,
+    "entry_time": "2026-09-25 21:00:00",
+    "entry_swrsi": 72.53897505973339
   },
   "VINE/USDT|1h": {
     "dir": "short",
@@ -1440,10 +1440,10 @@
     "entry_swrsi": 23.968929754262792
   },
   "WLD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.4154,
-    "entry_time": "2026-09-09 23:00:00",
-    "entry_swrsi": 22.210734452053863
+    "dir": "short",
+    "entry_price": 0.4673,
+    "entry_time": "2026-09-25 21:00:00",
+    "entry_swrsi": 69.00947838628001
   },
   "WOO/USDT|1h": {
     "dir": "short",
