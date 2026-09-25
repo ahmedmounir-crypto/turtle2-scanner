@@ -1962,10 +1962,10 @@
     "entry_swrsi": 27.06691077822069
   },
   "XNOW/USDT|1h": {
-    "dir": "short",
-    "entry_price": 142.13,
-    "entry_time": "2026-09-14 18:00:00",
-    "entry_swrsi": 72.38658054288042
+    "dir": "long",
+    "entry_price": 137.79,
+    "entry_time": "2026-09-25 09:00:00",
+    "entry_swrsi": 29.75502688569311
   },
   "XPOPMART/USDT|1h": {
     "dir": "long",
