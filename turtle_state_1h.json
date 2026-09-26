@@ -1272,10 +1272,10 @@
     "entry_swrsi": 77.11721367009811
   },
   "KITE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.11463,
-    "entry_time": "2026-09-08 16:00:00",
-    "entry_swrsi": 29.164518984464472
+    "dir": "short",
+    "entry_price": 0.14571,
+    "entry_time": "2026-09-26 20:00:00",
+    "entry_swrsi": 72.6360712600847
   },
   "KSM/USDT|1h": {
     "dir": "short",
@@ -1476,10 +1476,10 @@
     "entry_swrsi": 21.00437710567838
   },
   "GALFT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.8657,
-    "entry_time": "2026-09-17 20:00:00",
-    "entry_swrsi": 78.39156791568946
+    "dir": "long",
+    "entry_price": 0.8274,
+    "entry_time": "2026-09-26 20:00:00",
+    "entry_swrsi": 23.087223547294748
   },
   "MET/USDT|1h": {
     "dir": "short",
