@@ -1530,10 +1530,10 @@
     "entry_swrsi": 22.65522481046807
   },
   "ACE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.1622,
-    "entry_time": "2026-09-09 23:00:00",
-    "entry_swrsi": 28.008561021162144
+    "dir": "short",
+    "entry_price": 0.20388,
+    "entry_time": "2026-09-26 05:00:00",
+    "entry_swrsi": 75.0229297474282
   },
   "PUMP/USDT|1h": {
     "dir": "short",
