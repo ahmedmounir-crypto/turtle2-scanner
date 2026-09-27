@@ -1152,10 +1152,10 @@
     "entry_swrsi": 27.603791054403242
   },
   "BABYDOGE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.98e-10,
-    "entry_time": "2026-09-23 18:00:00",
-    "entry_swrsi": 20.030618717235054
+    "dir": "short",
+    "entry_price": 4.31e-10,
+    "entry_time": "2026-09-27 13:00:00",
+    "entry_swrsi": 72.83449667764795
   },
   "BANANA/USDT|1h": {
     "dir": "short",
