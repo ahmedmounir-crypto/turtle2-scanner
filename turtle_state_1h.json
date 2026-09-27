@@ -2190,10 +2190,10 @@
     "entry_swrsi": 24.48041316584987
   },
   "XUNH/USDT|1h": {
-    "dir": "short",
-    "entry_price": 383.41,
-    "entry_time": "2026-09-14 19:00:00",
-    "entry_swrsi": 78.0183002353068
+    "dir": "long",
+    "entry_price": 378.95,
+    "entry_time": "2026-09-27 17:00:00",
+    "entry_swrsi": 50.90420050698402
   },
   "STORJ/USDT|1h": {
     "dir": "long",
