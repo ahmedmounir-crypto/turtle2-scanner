@@ -910,5 +910,11 @@
     "entry_price": 23.39,
     "entry_time": "2026-09-25 00:00:00",
     "entry_swrsi": 68.05699325488226
+  },
+  "PROS/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.618,
+    "entry_time": "2026-09-26 00:00:00",
+    "entry_swrsi": 73.5341484193694
   }
 }
