@@ -1110,10 +1110,10 @@
     "entry_swrsi": 75.13075609532052
   },
   "AIXBT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02092,
-    "entry_time": "2026-09-10 02:00:00",
-    "entry_swrsi": 26.394505291027436
+    "dir": "short",
+    "entry_price": 0.02573,
+    "entry_time": "2026-09-27 23:00:00",
+    "entry_swrsi": 75.29104181582765
   },
   "APE/USDT|1h": {
     "dir": "long",
@@ -1290,10 +1290,10 @@
     "entry_swrsi": 20.213801920080574
   },
   "LSK/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.08308,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 69.92575075921698
+    "dir": "long",
+    "entry_price": 0.314,
+    "entry_time": "2026-09-27 23:00:00",
+    "entry_swrsi": 26.471267300439553
   },
   "LTC/USDT|1h": {
     "dir": "short",
