@@ -916,5 +916,29 @@
     "entry_price": 0.618,
     "entry_time": "2026-09-26 00:00:00",
     "entry_swrsi": 73.5341484193694
+  },
+  "2Z/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.06803,
+    "entry_time": "2026-09-27 00:00:00",
+    "entry_swrsi": 75.92107890637428
+  },
+  "PHA/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.06824,
+    "entry_time": "2026-09-27 00:00:00",
+    "entry_swrsi": 71.92820383331376
+  },
+  "SENT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.02243,
+    "entry_time": "2026-09-27 00:00:00",
+    "entry_swrsi": 76.12141044925083
+  },
+  "VELODROME/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.03586,
+    "entry_time": "2026-09-27 00:00:00",
+    "entry_swrsi": 79.35337040424206
   }
 }
