@@ -988,5 +988,17 @@
     "entry_price": 611.18,
     "entry_time": "2026-09-28 00:00:00",
     "entry_swrsi": 70.60263109946835
+  },
+  "ALGO/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.12564,
+    "entry_time": "2026-09-29 00:00:00",
+    "entry_swrsi": 72.22361294947375
+  },
+  "NMR/USDT|1d": {
+    "dir": "short",
+    "entry_price": 12.167,
+    "entry_time": "2026-09-29 00:00:00",
+    "entry_swrsi": 70.41819293055481
   }
 }
