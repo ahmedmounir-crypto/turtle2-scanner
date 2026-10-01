@@ -222,10 +222,10 @@
     "entry_swrsi": 38.116804206808
   },
   "XAMD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 618.07,
-    "entry_time": "2026-09-28 04:00:00",
-    "entry_swrsi": 20.97469191351656
+    "dir": "short",
+    "entry_price": 626.05,
+    "entry_time": "2026-10-01 06:00:00",
+    "entry_swrsi": 77.58845879542402
   },
   "XGME/USDT|1h": {
     "dir": "long",
