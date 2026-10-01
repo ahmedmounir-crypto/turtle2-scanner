@@ -2052,10 +2052,10 @@
     "entry_swrsi": 75.40525727110196
   },
   "XJNJ/USDT|1h": {
-    "dir": "short",
-    "entry_price": 268.16,
-    "entry_time": "2026-09-14 11:00:00",
-    "entry_swrsi": 70.00272449717188
+    "dir": "long",
+    "entry_price": 259.29,
+    "entry_time": "2026-10-01 18:00:00",
+    "entry_swrsi": 21.585655418753145
   },
   "EGLD/USDT|1h": {
     "dir": "short",
