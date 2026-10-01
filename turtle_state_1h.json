@@ -336,10 +336,10 @@
     "entry_swrsi": 27.40662694479548
   },
   "XIBM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 231.1,
-    "entry_time": "2026-09-18 18:00:00",
-    "entry_swrsi": 24.113216501212012
+    "dir": "short",
+    "entry_price": 228.57,
+    "entry_time": "2026-10-01 13:00:00",
+    "entry_swrsi": 72.28325999151757
   },
   "XMRVL/USDT|1h": {
     "dir": "long",
