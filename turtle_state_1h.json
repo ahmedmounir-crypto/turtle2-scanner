@@ -1758,10 +1758,10 @@
     "entry_swrsi": 70.91181457479446
   },
   "CATI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.06206,
-    "entry_time": "2026-09-14 16:00:00",
-    "entry_swrsi": 25.900815952360034
+    "dir": "short",
+    "entry_price": 0.06396,
+    "entry_time": "2026-10-04 09:00:00",
+    "entry_swrsi": 56.7816935708431
   },
   "NMR/USDT|1h": {
     "dir": "long",
