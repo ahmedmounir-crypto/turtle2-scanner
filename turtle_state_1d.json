@@ -1000,5 +1000,11 @@
     "entry_price": 12.167,
     "entry_time": "2026-09-29 00:00:00",
     "entry_swrsi": 70.41819293055481
+  },
+  "NIGHT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.044321,
+    "entry_time": "2026-10-04 00:00:00",
+    "entry_swrsi": 78.65927292256184
   }
 }
