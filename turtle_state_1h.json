@@ -1212,10 +1212,10 @@
     "entry_swrsi": 21.863609135743083
   },
   "DOGE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.09253,
-    "entry_time": "2026-09-23 21:00:00",
-    "entry_swrsi": 22.723541998191198
+    "dir": "short",
+    "entry_price": 0.09593,
+    "entry_time": "2026-10-04 23:00:00",
+    "entry_swrsi": 76.20398576413811
   },
   "EIGEN/USDT|1h": {
     "dir": "short",
@@ -1392,10 +1392,10 @@
     "entry_swrsi": 76.90991189395821
   },
   "SCR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02245,
-    "entry_time": "2026-09-23 21:00:00",
-    "entry_swrsi": 21.214122674034723
+    "dir": "short",
+    "entry_price": 0.02756,
+    "entry_time": "2026-10-04 23:00:00",
+    "entry_swrsi": 73.21759928806695
   },
   "STRK/USDT|1h": {
     "dir": "short",
@@ -2268,10 +2268,10 @@
     "entry_swrsi": 27.17901158103248
   },
   "SHIB/USDT|1h": {
-    "dir": "long",
-    "entry_price": 5.618e-06,
-    "entry_time": "2026-09-23 21:00:00",
-    "entry_swrsi": 23.345617441644453
+    "dir": "short",
+    "entry_price": 5.921e-06,
+    "entry_time": "2026-10-04 23:00:00",
+    "entry_swrsi": 79.73745593871057
   },
   "MERL/USDT|1h": {
     "dir": "short",
