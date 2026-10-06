@@ -1374,10 +1374,10 @@
     "entry_swrsi": 20.894035661378513
   },
   "RESOLV/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01769,
-    "entry_time": "2026-09-23 21:00:00",
-    "entry_swrsi": 25.197574609302762
+    "dir": "short",
+    "entry_price": 0.02018,
+    "entry_time": "2026-10-06 14:00:00",
+    "entry_swrsi": 77.89583059191823
   },
   "RON/USDT|1h": {
     "dir": "long",
@@ -1986,10 +1986,10 @@
     "entry_swrsi": 79.9518434103941
   },
   "XZM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 91.02,
-    "entry_time": "2026-09-24 14:00:00",
-    "entry_swrsi": 34.5472563869007
+    "dir": "short",
+    "entry_price": 94.25,
+    "entry_time": "2026-10-06 15:00:00",
+    "entry_swrsi": 79.83732934938955
   },
   "XKLAC/USDT|1h": {
     "dir": "short",
