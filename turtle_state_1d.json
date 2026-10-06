@@ -1006,5 +1006,17 @@
     "entry_price": 0.044321,
     "entry_time": "2026-10-04 00:00:00",
     "entry_swrsi": 78.65927292256184
+  },
+  "SAND/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.06982,
+    "entry_time": "2026-10-05 00:00:00",
+    "entry_swrsi": 78.79465135815947
+  },
+  "XTER/USDT|1d": {
+    "dir": "short",
+    "entry_price": 446.4,
+    "entry_time": "2026-10-05 00:00:00",
+    "entry_swrsi": 79.99676230824173
   }
 }
