@@ -792,10 +792,10 @@
     "entry_swrsi": 70.45574824720245
   },
   "PROS/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.3806,
-    "entry_time": "2026-08-18 18:00:00",
-    "entry_swrsi": 73.21718411500828
+    "dir": "long",
+    "entry_price": 0.7146,
+    "entry_time": "2026-10-06 08:00:00",
+    "entry_swrsi": 20.850400410926476
   },
   "PROVE/USDT|1h": {
     "dir": "long",
