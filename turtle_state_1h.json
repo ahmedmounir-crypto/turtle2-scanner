@@ -876,10 +876,10 @@
     "entry_swrsi": 79.33422584025038
   },
   "KMNO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.0368,
-    "entry_time": "2026-09-23 15:00:00",
-    "entry_swrsi": 68.08339440526576
+    "dir": "long",
+    "entry_price": 0.0371,
+    "entry_time": "2026-10-07 22:00:00",
+    "entry_swrsi": 29.22028655223544
   },
   "ZRO/USDT|1h": {
     "dir": "short",
@@ -1578,10 +1578,10 @@
     "entry_swrsi": 72.01051706576007
   },
   "FLR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.006502,
-    "entry_time": "2026-09-13 01:00:00",
-    "entry_swrsi": 73.81141598308747
+    "dir": "long",
+    "entry_price": 0.006971,
+    "entry_time": "2026-10-07 22:00:00",
+    "entry_swrsi": 25.018245355816397
   },
   "HMSTR/USDT|1h": {
     "dir": "long",
@@ -1854,10 +1854,10 @@
     "entry_swrsi": 71.63816455411101
   },
   "XCRWD/USDT|1h": {
-    "dir": "short",
-    "entry_price": 208.51,
-    "entry_time": "2026-09-13 22:00:00",
-    "entry_swrsi": 59.63405334530058
+    "dir": "long",
+    "entry_price": 266.39,
+    "entry_time": "2026-10-07 22:00:00",
+    "entry_swrsi": 21.45696333874718
   },
   "EDGE/USDT|1h": {
     "dir": "short",
