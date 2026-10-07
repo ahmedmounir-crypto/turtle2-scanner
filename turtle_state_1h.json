@@ -198,10 +198,10 @@
     "entry_swrsi": 25.248251653569277
   },
   "RE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.43939,
-    "entry_time": "2026-09-10 09:00:00",
-    "entry_swrsi": 61.10733101902922
+    "dir": "long",
+    "entry_price": 0.48237,
+    "entry_time": "2026-10-06 23:00:00",
+    "entry_swrsi": 22.205930919716696
   },
   "SLX/USDT|1h": {
     "dir": "long",
