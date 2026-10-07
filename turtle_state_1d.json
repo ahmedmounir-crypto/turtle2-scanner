@@ -1018,5 +1018,23 @@
     "entry_price": 446.4,
     "entry_time": "2026-10-05 00:00:00",
     "entry_swrsi": 79.99676230824173
+  },
+  "FLUID/USDT|1d": {
+    "dir": "short",
+    "entry_price": 1.9317,
+    "entry_time": "2026-10-06 00:00:00",
+    "entry_swrsi": 76.23101286240649
+  },
+  "XAMAT/USDT|1d": {
+    "dir": "short",
+    "entry_price": 528.69,
+    "entry_time": "2026-10-06 00:00:00",
+    "entry_swrsi": 73.55718511126486
+  },
+  "XSPCX/USDT|1d": {
+    "dir": "short",
+    "entry_price": 169.82,
+    "entry_time": "2026-10-06 00:00:00",
+    "entry_swrsi": 77.87657928437561
   }
 }
