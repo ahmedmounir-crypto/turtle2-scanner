@@ -516,10 +516,10 @@
     "entry_swrsi": 77.85086460871916
   },
   "ALGO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.11993,
-    "entry_time": "2026-10-07 05:00:00",
-    "entry_swrsi": 20.591748240959358
+    "dir": "short",
+    "entry_price": 0.13398,
+    "entry_time": "2026-10-08 10:00:00",
+    "entry_swrsi": 79.1477864899091
   },
   "ANIME/USDT|1h": {
     "dir": "short",
