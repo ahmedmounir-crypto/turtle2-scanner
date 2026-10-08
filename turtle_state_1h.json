@@ -1194,10 +1194,10 @@
     "entry_swrsi": 21.56276614836051
   },
   "CRV/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3592,
-    "entry_time": "2026-10-02 22:00:00",
-    "entry_swrsi": 20.411718238753203
+    "dir": "short",
+    "entry_price": 0.3929,
+    "entry_time": "2026-10-08 03:00:00",
+    "entry_swrsi": 76.86079873816705
   },
   "DASH/USDT|1h": {
     "dir": "long",
