@@ -1842,10 +1842,10 @@
     "entry_swrsi": 76.2028772990013
   },
   "XBX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 124.86,
-    "entry_time": "2026-09-16 23:00:00",
-    "entry_swrsi": 33.890740306971075
+    "dir": "short",
+    "entry_price": 113.21,
+    "entry_time": "2026-10-09 02:00:00",
+    "entry_swrsi": 76.06339301727776
   },
   "GRVT/USDT|1h": {
     "dir": "short",
@@ -2316,16 +2316,16 @@
     "entry_swrsi": 66.322637360532
   },
   "XDRAM/USDT|1h": {
-    "dir": "short",
-    "entry_price": 62.47,
-    "entry_time": "2026-09-26 17:00:00",
-    "entry_swrsi": 76.28633652268151
+    "dir": "long",
+    "entry_price": 57.63,
+    "entry_time": "2026-10-09 02:00:00",
+    "entry_swrsi": 20.59321006308647
   },
   "XINTW/USDT|1h": {
-    "dir": "short",
-    "entry_price": 26.83,
-    "entry_time": "2026-09-17 20:00:00",
-    "entry_swrsi": 77.59355627505725
+    "dir": "long",
+    "entry_price": 25.01,
+    "entry_time": "2026-10-09 02:00:00",
+    "entry_swrsi": 22.51528707243633
   },
   "XKORU/USDT|1h": {
     "dir": "long",
