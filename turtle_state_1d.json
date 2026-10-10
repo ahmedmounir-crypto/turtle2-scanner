@@ -666,10 +666,10 @@
     "entry_swrsi": 20.306267828318635
   },
   "AUDM/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.7133,
-    "entry_time": "2026-09-01 00:00:00",
-    "entry_swrsi": 63.11593843652638
+    "dir": "long",
+    "entry_price": 0.6986,
+    "entry_time": "2026-10-09 00:00:00",
+    "entry_swrsi": 24.193908161090576
   },
   "NES/USDT|1d": {
     "dir": "long",
