@@ -1620,10 +1620,10 @@
     "entry_swrsi": 67.72775328256708
   },
   "CHIP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.04338,
-    "entry_time": "2026-09-13 20:00:00",
-    "entry_swrsi": 23.416616276139766
+    "dir": "short",
+    "entry_price": 0.06786,
+    "entry_time": "2026-10-10 23:00:00",
+    "entry_swrsi": 75.73062467241185
   },
   "SNT/USDT|1h": {
     "dir": "long",
@@ -1782,10 +1782,10 @@
     "entry_swrsi": 77.11239026621578
   },
   "PI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.09595,
-    "entry_time": "2026-09-15 12:00:00",
-    "entry_swrsi": 28.141324472717766
+    "dir": "short",
+    "entry_price": 0.08309,
+    "entry_time": "2026-10-10 23:00:00",
+    "entry_swrsi": 69.53499299171379
   },
   "RENDER/USDT|1h": {
     "dir": "short",
