@@ -1072,5 +1072,11 @@
     "entry_price": 474.18,
     "entry_time": "2026-10-07 00:00:00",
     "entry_swrsi": 68.93204889607718
+  },
+  "XUSAR/USDT|1d": {
+    "dir": "long",
+    "entry_price": 12.74,
+    "entry_time": "2026-10-11 00:00:00",
+    "entry_swrsi": 21.715787357037012
   }
 }
