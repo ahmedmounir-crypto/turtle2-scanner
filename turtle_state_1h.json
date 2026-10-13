@@ -432,10 +432,10 @@
     "entry_swrsi": 27.78996592752069
   },
   "XAMZN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 262.46,
-    "entry_time": "2026-10-10 00:00:00",
-    "entry_swrsi": 79.71150467175137
+    "dir": "long",
+    "entry_price": 258.3,
+    "entry_time": "2026-10-13 02:00:00",
+    "entry_swrsi": 20.722807137695987
   },
   "XAPP/USDT|1h": {
     "dir": "long",
