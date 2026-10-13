@@ -876,10 +876,10 @@
     "entry_swrsi": 79.33422584025038
   },
   "KMNO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0371,
-    "entry_time": "2026-10-07 22:00:00",
-    "entry_swrsi": 29.22028655223544
+    "dir": "short",
+    "entry_price": 0.03931,
+    "entry_time": "2026-10-13 22:00:00",
+    "entry_swrsi": 75.51101666695615
   },
   "ZRO/USDT|1h": {
     "dir": "short",
