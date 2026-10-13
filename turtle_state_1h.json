@@ -1176,10 +1176,10 @@
     "entry_swrsi": 67.15387485067663
   },
   "BLUR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.01382,
-    "entry_time": "2026-08-19 22:00:00",
-    "entry_swrsi": 75.54901409981105
+    "dir": "long",
+    "entry_price": 0.01194,
+    "entry_time": "2026-10-13 10:00:00",
+    "entry_swrsi": 20.522221153534957
   },
   "BNB/USDT|1h": {
     "dir": "long",
@@ -2190,10 +2190,10 @@
     "entry_swrsi": 24.48041316584987
   },
   "XUNH/USDT|1h": {
-    "dir": "long",
-    "entry_price": 378.95,
-    "entry_time": "2026-09-27 17:00:00",
-    "entry_swrsi": 50.90420050698402
+    "dir": "short",
+    "entry_price": 384.74,
+    "entry_time": "2026-10-13 10:00:00",
+    "entry_swrsi": 63.59919953206005
   },
   "STORJ/USDT|1h": {
     "dir": "long",
