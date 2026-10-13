@@ -1078,5 +1078,11 @@
     "entry_price": 12.74,
     "entry_time": "2026-10-11 00:00:00",
     "entry_swrsi": 21.715787357037012
+  },
+  "DOS/USDT|1d": {
+    "dir": "short",
+    "entry_price": 0.2327,
+    "entry_time": "2026-10-12 00:00:00",
+    "entry_swrsi": 60.78615649663162
   }
 }
