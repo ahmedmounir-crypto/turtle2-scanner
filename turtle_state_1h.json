@@ -588,10 +588,10 @@
     "entry_swrsi": 21.23858481618316
   },
   "SAND/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.03809,
-    "entry_time": "2026-09-18 11:00:00",
-    "entry_swrsi": 74.63970581438018
+    "dir": "long",
+    "entry_price": 0.05752,
+    "entry_time": "2026-10-14 11:00:00",
+    "entry_swrsi": 23.400960535856026
   },
   "SEI/USDT|1h": {
     "dir": "short",
