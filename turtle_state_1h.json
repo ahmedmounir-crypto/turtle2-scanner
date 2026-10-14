@@ -414,10 +414,10 @@
     "entry_swrsi": 25.30973069826296
   },
   "XMSTR/USDT|1h": {
-    "dir": "short",
-    "entry_price": 158.03,
-    "entry_time": "2026-10-11 17:00:00",
-    "entry_swrsi": 78.99265994952165
+    "dir": "long",
+    "entry_price": 143.8,
+    "entry_time": "2026-10-14 20:00:00",
+    "entry_swrsi": 21.112163391734402
   },
   "LQTY/USDT|1h": {
     "dir": "long",
