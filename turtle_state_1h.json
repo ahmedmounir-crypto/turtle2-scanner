@@ -1824,10 +1824,10 @@
     "entry_swrsi": 28.50602334953575
   },
   "HUMA/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.02162,
-    "entry_time": "2026-08-31 19:00:00",
-    "entry_swrsi": 74.69151154395828
+    "dir": "long",
+    "entry_price": 0.03268,
+    "entry_time": "2026-10-14 06:00:00",
+    "entry_swrsi": 22.227050809479127
   },
   "PARTI/USDT|1h": {
     "dir": "short",
@@ -2028,10 +2028,10 @@
     "entry_swrsi": 73.94969197243063
   },
   "XXIAOMI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.327,
-    "entry_time": "2026-09-10 04:00:00",
-    "entry_swrsi": 30.000528876620503
+    "dir": "short",
+    "entry_price": 3.342,
+    "entry_time": "2026-10-14 06:00:00",
+    "entry_swrsi": 79.30532977899233
   },
   "GMX/USDT|1h": {
     "dir": "short",
