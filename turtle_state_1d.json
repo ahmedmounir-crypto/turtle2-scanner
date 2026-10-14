@@ -384,10 +384,10 @@
     "entry_swrsi": 74.51116433785556
   },
   "RLUSD/USDT|1d": {
-    "dir": "long",
-    "entry_price": 1.0004,
-    "entry_time": "2026-08-24 00:00:00",
-    "entry_swrsi": 28.130522499790693
+    "dir": "short",
+    "entry_price": 1.0008,
+    "entry_time": "2026-10-13 00:00:00",
+    "entry_swrsi": 67.32259905791756
   },
   "SPK/USDT|1d": {
     "dir": "short",
@@ -1084,5 +1084,17 @@
     "entry_price": 0.2327,
     "entry_time": "2026-10-12 00:00:00",
     "entry_swrsi": 60.78615649663162
+  },
+  "XCBRS/USDT|1d": {
+    "dir": "long",
+    "entry_price": 149.26,
+    "entry_time": "2026-10-13 00:00:00",
+    "entry_swrsi": 21.697486850936464
+  },
+  "XPLTR/USDT|1d": {
+    "dir": "short",
+    "entry_price": 207.73,
+    "entry_time": "2026-10-13 00:00:00",
+    "entry_swrsi": 76.25081150190773
   }
 }
