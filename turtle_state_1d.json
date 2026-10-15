@@ -1,9 +1,9 @@
 {
   "BAT/USDT|1d": {
-    "dir": "long",
-    "entry_price": 0.05852,
-    "entry_time": "2026-08-15 00:00:00",
-    "entry_swrsi": 21.041107493872108
+    "dir": "short",
+    "entry_price": 0.17247,
+    "entry_time": "2026-10-14 00:00:00",
+    "entry_swrsi": 74.19417752542128
   },
   "DEGEN/USDT|1d": {
     "dir": "long",
@@ -1096,5 +1096,11 @@
     "entry_price": 207.73,
     "entry_time": "2026-10-13 00:00:00",
     "entry_swrsi": 76.25081150190773
+  },
+  "SPACE/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.00395,
+    "entry_time": "2026-10-14 00:00:00",
+    "entry_swrsi": 20.51491554360256
   }
 }
