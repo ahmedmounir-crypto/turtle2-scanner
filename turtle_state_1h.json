@@ -2422,5 +2422,23 @@
     "entry_price": 31.39,
     "entry_time": "2026-10-15 02:00:00",
     "entry_swrsi": 20.009903895187126
+  },
+  "XBB/USDT|1h": {
+    "dir": "long",
+    "entry_price": 7.99,
+    "entry_time": "2026-10-15 12:00:00",
+    "entry_swrsi": 27.003018908705513
+  },
+  "XCRDO/USDT|1h": {
+    "dir": "long",
+    "entry_price": 170.74,
+    "entry_time": "2026-10-15 12:00:00",
+    "entry_swrsi": 21.763739178625837
+  },
+  "XGPRO/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1.11,
+    "entry_time": "2026-10-15 12:00:00",
+    "entry_swrsi": 38.21026132423283
   }
 }
