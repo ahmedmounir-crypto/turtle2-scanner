@@ -1992,10 +1992,10 @@
     "entry_swrsi": 24.478526595353795
   },
   "XKLAC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 195.62,
-    "entry_time": "2026-09-29 15:00:00",
-    "entry_swrsi": 79.20711681855447
+    "dir": "long",
+    "entry_price": 175.05,
+    "entry_time": "2026-10-15 19:00:00",
+    "entry_swrsi": 39.44900026761353
   },
   "XRIVN/USDT|1h": {
     "dir": "long",
@@ -2440,5 +2440,11 @@
     "entry_price": 1.11,
     "entry_time": "2026-10-15 12:00:00",
     "entry_swrsi": 38.21026132423283
+  },
+  "XPENG/USDT|1h": {
+    "dir": "long",
+    "entry_price": 61.61,
+    "entry_time": "2026-10-15 19:00:00",
+    "entry_swrsi": 32.49352451179486
   }
 }
