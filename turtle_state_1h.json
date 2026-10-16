@@ -1716,10 +1716,10 @@
     "entry_swrsi": 66.50455712373824
   },
   "APT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.772,
-    "entry_time": "2026-10-07 05:00:00",
-    "entry_swrsi": 23.77567487335433
+    "dir": "short",
+    "entry_price": 0.8673,
+    "entry_time": "2026-10-16 10:00:00",
+    "entry_swrsi": 77.49435005141241
   },
   "AEVO/USDT|1h": {
     "dir": "long",
@@ -2446,5 +2446,11 @@
     "entry_price": 61.61,
     "entry_time": "2026-10-15 19:00:00",
     "entry_swrsi": 32.49352451179486
+  },
+  "XSONY/USDT|1h": {
+    "dir": "short",
+    "entry_price": 25.07,
+    "entry_time": "2026-10-16 10:00:00",
+    "entry_swrsi": 78.71984929789735
   }
 }
