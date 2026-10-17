@@ -978,10 +978,10 @@
     "entry_swrsi": 38.90659464607347
   },
   "XIWM/USDT|1h": {
-    "dir": "short",
-    "entry_price": 275.84,
-    "entry_time": "2026-10-16 05:00:00",
-    "entry_swrsi": 78.21021745592206
+    "dir": "long",
+    "entry_price": 271.08,
+    "entry_time": "2026-10-16 23:00:00",
+    "entry_swrsi": 20.35941505353072
   },
   "ZORA/USDT|1h": {
     "dir": "long",
@@ -2458,5 +2458,11 @@
     "entry_price": 8.68,
     "entry_time": "2026-10-16 21:00:00",
     "entry_swrsi": 26.88943539500204
+  },
+  "XPURR/USDT|1h": {
+    "dir": "long",
+    "entry_price": 9.25,
+    "entry_time": "2026-10-16 23:00:00",
+    "entry_swrsi": 21.053543444967463
   }
 }
