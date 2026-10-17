@@ -1830,10 +1830,10 @@
     "entry_swrsi": 22.227050809479127
   },
   "PARTI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.02416,
-    "entry_time": "2026-09-12 20:00:00",
-    "entry_swrsi": 75.54885632824325
+    "dir": "long",
+    "entry_price": 0.0292,
+    "entry_time": "2026-10-17 19:00:00",
+    "entry_swrsi": 20.34511430230908
   },
   "PIXEL/USDT|1h": {
     "dir": "long",
@@ -2070,10 +2070,10 @@
     "entry_swrsi": 38.11324756723572
   },
   "CTC/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.08886,
-    "entry_time": "2026-08-30 10:00:00",
-    "entry_swrsi": 69.06876836136821
+    "dir": "long",
+    "entry_price": 0.09281,
+    "entry_time": "2026-10-17 19:00:00",
+    "entry_swrsi": 30.28763336466402
   },
   "OMI/USDT|1h": {
     "dir": "short",
