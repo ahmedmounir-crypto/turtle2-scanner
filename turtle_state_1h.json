@@ -2494,5 +2494,11 @@
     "entry_price": 7.64,
     "entry_time": "2026-10-17 23:00:00",
     "entry_swrsi": 27.20737455750547
+  },
+  "XXBI/USDT|1h": {
+    "dir": "long",
+    "entry_price": 143.8,
+    "entry_time": "2026-10-18 08:00:00",
+    "entry_swrsi": 30.296153679579955
   }
 }
