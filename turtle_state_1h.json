@@ -2500,5 +2500,17 @@
     "entry_price": 143.8,
     "entry_time": "2026-10-18 08:00:00",
     "entry_swrsi": 30.296153679579955
+  },
+  "XFWDI/USDT|1h": {
+    "dir": "long",
+    "entry_price": 6.96,
+    "entry_time": "2026-10-18 12:00:00",
+    "entry_swrsi": 43.71365893005135
+  },
+  "XTSEM/USDT|1h": {
+    "dir": "long",
+    "entry_price": 193.2,
+    "entry_time": "2026-10-18 12:00:00",
+    "entry_swrsi": 33.49973547002173
   }
 }
