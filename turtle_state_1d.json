@@ -414,10 +414,10 @@
     "entry_swrsi": 77.93279988553043
   },
   "USDG/USDT|1d": {
-    "dir": "long",
-    "entry_price": 1.0003,
-    "entry_time": "2026-08-24 00:00:00",
-    "entry_swrsi": 29.254897024612962
+    "dir": "short",
+    "entry_price": 1.0013,
+    "entry_time": "2026-10-17 00:00:00",
+    "entry_swrsi": 76.74288961392777
   },
   "USDS/USDT|1d": {
     "dir": "long",
