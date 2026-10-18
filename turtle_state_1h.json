@@ -1866,10 +1866,10 @@
     "entry_swrsi": 70.78325905453097
   },
   "INJ/USDT|1h": {
-    "dir": "short",
-    "entry_price": 5.095,
-    "entry_time": "2026-09-06 04:00:00",
-    "entry_swrsi": 78.17505590674718
+    "dir": "long",
+    "entry_price": 8.133,
+    "entry_time": "2026-10-18 15:00:00",
+    "entry_swrsi": 22.680891326260433
   },
   "XSNDK/USDT|1h": {
     "dir": "long",
