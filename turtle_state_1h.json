@@ -2370,10 +2370,10 @@
     "entry_swrsi": 25.54465775924084
   },
   "XMUU/USDT|1h": {
-    "dir": "short",
-    "entry_price": 34.0,
-    "entry_time": "2026-10-12 00:00:00",
-    "entry_swrsi": 44.61792724721541
+    "dir": "long",
+    "entry_price": 23.4,
+    "entry_time": "2026-10-17 23:00:00",
+    "entry_swrsi": 21.75477454018729
   },
   "ORBS/USDT|1h": {
     "dir": "short",
@@ -2488,5 +2488,11 @@
     "entry_price": 20.15,
     "entry_time": "2026-10-17 08:00:00",
     "entry_swrsi": 39.38577244997513
+  },
+  "XRAM/USDT|1h": {
+    "dir": "long",
+    "entry_price": 7.64,
+    "entry_time": "2026-10-17 23:00:00",
+    "entry_swrsi": 27.20737455750547
   }
 }
