@@ -6,10 +6,10 @@
     "entry_swrsi": 28.618327460940357
   },
   "WLFI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.05671,
-    "entry_time": "2026-09-12 17:00:00",
-    "entry_swrsi": 60.00188480696365
+    "dir": "long",
+    "entry_price": 0.05446,
+    "entry_time": "2026-10-19 19:00:00",
+    "entry_swrsi": 27.91616199918902
   },
   "ONDO/USDT|1h": {
     "dir": "long",
@@ -2548,5 +2548,11 @@
     "entry_price": 43.36,
     "entry_time": "2026-10-19 13:00:00",
     "entry_swrsi": 56.02284272055091
+  },
+  "XTSLL/USDT|1h": {
+    "dir": "short",
+    "entry_price": 9.58,
+    "entry_time": "2026-10-19 19:00:00",
+    "entry_swrsi": 77.17328429560773
   }
 }
