@@ -876,10 +876,10 @@
     "entry_swrsi": 67.49720580445857
   },
   "XINTC/USDT|1d": {
-    "dir": "short",
-    "entry_price": 122.22,
-    "entry_time": "2026-09-23 00:00:00",
-    "entry_swrsi": 79.36689985446367
+    "dir": "long",
+    "entry_price": 90.51,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 22.660010563789374
   },
   "ZAMA/USDT|1d": {
     "dir": "short",
@@ -1014,10 +1014,10 @@
     "entry_swrsi": 78.79465135815947
   },
   "XTER/USDT|1d": {
-    "dir": "short",
-    "entry_price": 446.4,
-    "entry_time": "2026-10-05 00:00:00",
-    "entry_swrsi": 79.99676230824173
+    "dir": "long",
+    "entry_price": 325.26,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 22.832570686839738
   },
   "FLUID/USDT|1d": {
     "dir": "short",
@@ -1026,10 +1026,10 @@
     "entry_swrsi": 76.23101286240649
   },
   "XAMAT/USDT|1d": {
-    "dir": "short",
-    "entry_price": 528.69,
-    "entry_time": "2026-10-06 00:00:00",
-    "entry_swrsi": 73.55718511126486
+    "dir": "long",
+    "entry_price": 420.88,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 23.318482430821923
   },
   "XSPCX/USDT|1d": {
     "dir": "short",
@@ -1150,5 +1150,47 @@
     "entry_price": 47.39,
     "entry_time": "2026-10-16 00:00:00",
     "entry_swrsi": 68.36116116305917
+  },
+  "XAPLD/USDT|1d": {
+    "dir": "long",
+    "entry_price": 18.6,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 21.32573708527737
+  },
+  "XIREN/USDT|1d": {
+    "dir": "long",
+    "entry_price": 27.57,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 20.379267191123983
+  },
+  "XLRCX/USDT|1d": {
+    "dir": "long",
+    "entry_price": 269.98,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 22.071331138835028
+  },
+  "XSMCI/USDT|1d": {
+    "dir": "long",
+    "entry_price": 32.34,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 20.279187380375326
+  },
+  "XSNDK/USDT|1d": {
+    "dir": "long",
+    "entry_price": 1300.3,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 22.166257678568865
+  },
+  "XSOXL/USDT|1d": {
+    "dir": "long",
+    "entry_price": 95.76,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 20.291556724883065
+  },
+  "XVRT/USDT|1d": {
+    "dir": "long",
+    "entry_price": 209.8,
+    "entry_time": "2026-10-18 00:00:00",
+    "entry_swrsi": 22.1651958370447
   }
 }
