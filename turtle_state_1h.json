@@ -1980,10 +1980,10 @@
     "entry_swrsi": 58.25313042528942
   },
   "XOKTA/USDT|1h": {
-    "dir": "short",
-    "entry_price": 205.23,
-    "entry_time": "2026-09-23 23:00:00",
-    "entry_swrsi": 79.9518434103941
+    "dir": "long",
+    "entry_price": 187.14,
+    "entry_time": "2026-10-20 12:00:00",
+    "entry_swrsi": 23.710676546692927
   },
   "XZM/USDT|1h": {
     "dir": "short",
