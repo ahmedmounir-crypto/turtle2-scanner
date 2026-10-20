@@ -1968,10 +1968,10 @@
     "entry_swrsi": 41.600275370406244
   },
   "XPOPMART/USDT|1h": {
-    "dir": "long",
-    "entry_price": 19.54,
-    "entry_time": "2026-09-10 04:00:00",
-    "entry_swrsi": 20.892807518367672
+    "dir": "short",
+    "entry_price": 17.93,
+    "entry_time": "2026-10-20 01:00:00",
+    "entry_swrsi": 30.11564237538429
   },
   "XSTRC/USDT|1h": {
     "dir": "short",
@@ -2554,5 +2554,11 @@
     "entry_price": 9.58,
     "entry_time": "2026-10-19 19:00:00",
     "entry_swrsi": 77.17328429560773
+  },
+  "XAMC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 2.97,
+    "entry_time": "2026-10-20 01:00:00",
+    "entry_swrsi": 53.24964158972536
   }
 }
