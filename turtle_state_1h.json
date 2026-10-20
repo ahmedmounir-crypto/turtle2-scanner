@@ -1674,10 +1674,10 @@
     "entry_swrsi": 79.35146320729757
   },
   "PEPE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 4.377e-06,
-    "entry_time": "2026-09-23 21:00:00",
-    "entry_swrsi": 20.47066464719524
+    "dir": "short",
+    "entry_price": 4.583e-06,
+    "entry_time": "2026-10-20 20:00:00",
+    "entry_swrsi": 75.87962105145985
   },
   "ROBO/USDT|1h": {
     "dir": "long",
@@ -2082,10 +2082,10 @@
     "entry_swrsi": 73.17874472711249
   },
   "BABY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.012321,
-    "entry_time": "2026-09-23 21:00:00",
-    "entry_swrsi": 22.282238058612204
+    "dir": "short",
+    "entry_price": 0.012869,
+    "entry_time": "2026-10-20 20:00:00",
+    "entry_swrsi": 75.60406358099303
   },
   "BETH/USDT|1h": {
     "dir": "long",
@@ -2292,10 +2292,10 @@
     "entry_swrsi": 24.180802363766553
   },
   "DOOD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.001723,
-    "entry_time": "2026-10-02 22:00:00",
-    "entry_swrsi": 26.892662390182107
+    "dir": "short",
+    "entry_price": 0.002304,
+    "entry_time": "2026-10-20 20:00:00",
+    "entry_swrsi": 79.81578939740676
   },
   "CP/USDT|1h": {
     "dir": "long",
@@ -2560,5 +2560,11 @@
     "entry_price": 2.97,
     "entry_time": "2026-10-20 01:00:00",
     "entry_swrsi": 53.24964158972536
+  },
+  "XSIMO/USDT|1h": {
+    "dir": "long",
+    "entry_price": 216.33,
+    "entry_time": "2026-10-20 20:00:00",
+    "entry_swrsi": 45.050133672480136
   }
 }
