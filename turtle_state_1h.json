@@ -24,10 +24,10 @@
     "entry_swrsi": 21.295310858713048
   },
   "DOS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.2175,
-    "entry_time": "2026-09-28 04:00:00",
-    "entry_swrsi": 23.29475180287528
+    "dir": "short",
+    "entry_price": 0.2016,
+    "entry_time": "2026-10-20 16:00:00",
+    "entry_swrsi": 67.84069611671002
   },
   "ETHFI/USDT|1h": {
     "dir": "long",
@@ -1128,10 +1128,10 @@
     "entry_swrsi": 75.34887382650538
   },
   "ARKM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.10752,
-    "entry_time": "2026-08-31 00:00:00",
-    "entry_swrsi": 25.755906295681104
+    "dir": "short",
+    "entry_price": 0.1264,
+    "entry_time": "2026-10-20 16:00:00",
+    "entry_swrsi": 78.90419423271346
   },
   "ASTER/USDT|1h": {
     "dir": "short",
@@ -1842,10 +1842,10 @@
     "entry_swrsi": 21.70286900693665
   },
   "XBX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 107.43,
-    "entry_time": "2026-10-14 16:00:00",
-    "entry_swrsi": 22.10033713482272
+    "dir": "short",
+    "entry_price": 111.0,
+    "entry_time": "2026-10-20 16:00:00",
+    "entry_swrsi": 77.43465596814417
   },
   "GRVT/USDT|1h": {
     "dir": "short",
