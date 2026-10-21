@@ -420,10 +420,10 @@
     "entry_swrsi": 21.112163391734402
   },
   "LQTY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.2089,
-    "entry_time": "2026-10-14 16:00:00",
-    "entry_swrsi": 26.760160749572986
+    "dir": "short",
+    "entry_price": 0.2172,
+    "entry_time": "2026-10-21 21:00:00",
+    "entry_swrsi": 75.49538192289084
   },
   "XAMAT/USDT|1h": {
     "dir": "long",
@@ -1596,10 +1596,10 @@
     "entry_swrsi": 68.77354906162307
   },
   "MASK/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.4411,
-    "entry_time": "2026-09-15 12:00:00",
-    "entry_swrsi": 21.789859252088608
+    "dir": "short",
+    "entry_price": 0.4468,
+    "entry_time": "2026-10-21 21:00:00",
+    "entry_swrsi": 78.46267625577501
   },
   "NEO/USDT|1h": {
     "dir": "long",
@@ -2046,10 +2046,10 @@
     "entry_swrsi": 32.83851692600263
   },
   "CORE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01881,
-    "entry_time": "2026-10-12 22:00:00",
-    "entry_swrsi": 33.464248952655865
+    "dir": "short",
+    "entry_price": 0.0191,
+    "entry_time": "2026-10-21 20:00:00",
+    "entry_swrsi": 77.20845126843119
   },
   "XJNJ/USDT|1h": {
     "dir": "short",
