@@ -288,10 +288,10 @@
     "entry_swrsi": 75.9539397452535
   },
   "XSKHY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 181.69,
-    "entry_time": "2026-09-13 16:00:00",
-    "entry_swrsi": 24.607381005875816
+    "dir": "short",
+    "entry_price": 146.11,
+    "entry_time": "2026-10-21 02:00:00",
+    "entry_swrsi": 72.22317066625563
   },
   "XTER/USDT|1h": {
     "dir": "short",
@@ -612,10 +612,10 @@
     "entry_swrsi": 25.792193875957505
   },
   "TOSHI/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.00012027,
-    "entry_time": "2026-09-28 11:00:00",
-    "entry_swrsi": 22.98163153864624
+    "dir": "short",
+    "entry_price": 0.00011923,
+    "entry_time": "2026-10-21 02:00:00",
+    "entry_swrsi": 70.68372010800603
   },
   "W/USDT|1h": {
     "dir": "short",
@@ -2430,10 +2430,10 @@
     "entry_swrsi": 27.003018908705513
   },
   "XCRDO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 170.74,
-    "entry_time": "2026-10-15 12:00:00",
-    "entry_swrsi": 21.763739178625837
+    "dir": "short",
+    "entry_price": 184.54,
+    "entry_time": "2026-10-21 02:00:00",
+    "entry_swrsi": 74.80797309281033
   },
   "XGPRO/USDT|1h": {
     "dir": "long",
