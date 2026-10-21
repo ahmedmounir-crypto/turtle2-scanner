@@ -1014,10 +1014,10 @@
     "entry_swrsi": 21.174123260898874
   },
   "MEGA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.03815,
-    "entry_time": "2026-09-10 01:00:00",
-    "entry_swrsi": 21.18608407259373
+    "dir": "short",
+    "entry_price": 0.0446,
+    "entry_time": "2026-10-21 13:00:00",
+    "entry_swrsi": 67.22848517982129
   },
   "NEAR/USDT|1h": {
     "dir": "short",
