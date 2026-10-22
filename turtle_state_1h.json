@@ -2578,5 +2578,11 @@
     "entry_price": 11.04,
     "entry_time": "2026-10-21 07:00:00",
     "entry_swrsi": 78.41934483866513
+  },
+  "XTTMI/USDT|1h": {
+    "dir": "short",
+    "entry_price": 102.57,
+    "entry_time": "2026-10-21 23:00:00",
+    "entry_swrsi": 78.36595417113269
   }
 }
