@@ -1668,10 +1668,10 @@
     "entry_swrsi": 23.343982026897276
   },
   "FLOW/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.02891,
-    "entry_time": "2026-09-05 07:00:00",
-    "entry_swrsi": 79.35146320729757
+    "dir": "long",
+    "entry_price": 0.029,
+    "entry_time": "2026-10-22 14:00:00",
+    "entry_swrsi": 22.87576833577346
   },
   "PEPE/USDT|1h": {
     "dir": "short",
