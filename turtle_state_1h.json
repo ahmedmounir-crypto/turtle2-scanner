@@ -2118,10 +2118,10 @@
     "entry_swrsi": 23.105277585876795
   },
   "BOME/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0008383,
-    "entry_time": "2026-09-13 12:00:00",
-    "entry_swrsi": 21.87589939508294
+    "dir": "short",
+    "entry_price": 0.0006462,
+    "entry_time": "2026-10-23 09:00:00",
+    "entry_swrsi": 76.22467086678516
   },
   "XROK/USDT|1h": {
     "dir": "short",
