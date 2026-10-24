@@ -1170,10 +1170,10 @@
     "entry_swrsi": 23.168657795043618
   },
   "BIGTIME/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.007452,
-    "entry_time": "2026-10-14 16:00:00",
-    "entry_swrsi": 27.94357625178867
+    "dir": "short",
+    "entry_price": 0.006841,
+    "entry_time": "2026-10-24 04:00:00",
+    "entry_swrsi": 71.04912201767107
   },
   "BLUR/USDT|1h": {
     "dir": "long",
@@ -2596,5 +2596,11 @@
     "entry_price": 104.63,
     "entry_time": "2026-10-23 04:00:00",
     "entry_swrsi": 30.23930127947752
+  },
+  "XWEN/USDT|1h": {
+    "dir": "long",
+    "entry_price": 6.234,
+    "entry_time": "2026-10-24 04:00:00",
+    "entry_swrsi": 32.004301345207864
   }
 }
