@@ -1282,5 +1282,11 @@
     "entry_price": 0.002304,
     "entry_time": "2026-10-21 00:00:00",
     "entry_swrsi": 21.25955506404043
+  },
+  "XUNH/USDT|1d": {
+    "dir": "short",
+    "entry_price": 418.37,
+    "entry_time": "2026-10-23 00:00:00",
+    "entry_swrsi": 75.6165711779607
   }
 }
