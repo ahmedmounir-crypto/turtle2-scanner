@@ -42,10 +42,10 @@
     "entry_swrsi": 22.102511479262965
   },
   "MORPHO/USDT|1h": {
-    "dir": "short",
-    "entry_price": 2.002,
-    "entry_time": "2026-08-16 17:00:00",
-    "entry_swrsi": 74.80500604546526
+    "dir": "long",
+    "entry_price": 2.1871,
+    "entry_time": "2026-10-24 13:00:00",
+    "entry_swrsi": 32.42614083927329
   },
   "XCRCL/USDT|1h": {
     "dir": "long",
@@ -846,10 +846,10 @@
     "entry_swrsi": 28.252181945230724
   },
   "SKY/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.08121,
-    "entry_time": "2026-10-11 21:00:00",
-    "entry_swrsi": 79.2557199715666
+    "dir": "long",
+    "entry_price": 0.06945,
+    "entry_time": "2026-10-24 13:00:00",
+    "entry_swrsi": 21.39789108479889
   },
   "VELODROME/USDT|1h": {
     "dir": "long",
