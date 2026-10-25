@@ -1626,10 +1626,10 @@
     "entry_swrsi": 75.73062467241185
   },
   "SNT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.00851,
-    "entry_time": "2026-09-28 04:00:00",
-    "entry_swrsi": 25.115033172190085
+    "dir": "short",
+    "entry_price": 0.007404,
+    "entry_time": "2026-10-25 02:00:00",
+    "entry_swrsi": 77.15161287053311
   },
   "PYTH/USDT|1h": {
     "dir": "long",
