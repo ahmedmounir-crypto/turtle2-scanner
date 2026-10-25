@@ -1194,10 +1194,10 @@
     "entry_swrsi": 22.1651958370447
   },
   "IRYS/USDT|1d": {
-    "dir": "long",
-    "entry_price": 0.01264,
-    "entry_time": "2026-10-19 00:00:00",
-    "entry_swrsi": 24.362758687733084
+    "dir": "short",
+    "entry_price": 0.04041,
+    "entry_time": "2026-10-24 00:00:00",
+    "entry_swrsi": 68.18648019376288
   },
   "XDELL/USDT|1d": {
     "dir": "long",
