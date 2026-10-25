@@ -2602,5 +2602,11 @@
     "entry_price": 6.234,
     "entry_time": "2026-10-24 04:00:00",
     "entry_swrsi": 32.004301345207864
+  },
+  "XCOST/USDT|1h": {
+    "dir": "long",
+    "entry_price": 1002.51,
+    "entry_time": "2026-10-25 18:00:00",
+    "entry_swrsi": 35.913380229559166
   }
 }
