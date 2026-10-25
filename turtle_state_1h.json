@@ -2454,10 +2454,10 @@
     "entry_swrsi": 57.870048385136826
   },
   "XINFQ/USDT|1h": {
-    "dir": "short",
-    "entry_price": 8.73,
-    "entry_time": "2026-10-19 13:00:00",
-    "entry_swrsi": 59.0783288194659
+    "dir": "long",
+    "entry_price": 8.794,
+    "entry_time": "2026-10-24 23:00:00",
+    "entry_swrsi": 49.54176150487792
   },
   "XPURR/USDT|1h": {
     "dir": "long",
