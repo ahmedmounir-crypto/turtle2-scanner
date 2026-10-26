@@ -2448,10 +2448,10 @@
     "entry_swrsi": 32.97146266188217
   },
   "XSONY/USDT|1h": {
-    "dir": "long",
-    "entry_price": 25.1,
-    "entry_time": "2026-10-19 00:00:00",
-    "entry_swrsi": 57.870048385136826
+    "dir": "short",
+    "entry_price": 26.21,
+    "entry_time": "2026-10-26 10:00:00",
+    "entry_swrsi": 58.66170690778511
   },
   "XINFQ/USDT|1h": {
     "dir": "long",
@@ -2508,10 +2508,10 @@
     "entry_swrsi": 43.71365893005135
   },
   "XTSEM/USDT|1h": {
-    "dir": "long",
-    "entry_price": 165.35,
-    "entry_time": "2026-10-25 12:00:00",
-    "entry_swrsi": 44.651264914685946
+    "dir": "short",
+    "entry_price": 169.87,
+    "entry_time": "2026-10-26 10:00:00",
+    "entry_swrsi": 74.9845076299175
   },
   "XSHLD/USDT|1h": {
     "dir": "long",
