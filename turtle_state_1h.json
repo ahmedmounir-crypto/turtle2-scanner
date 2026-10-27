@@ -2592,10 +2592,10 @@
     "entry_swrsi": 23.648018777827865
   },
   "XEWT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 104.63,
-    "entry_time": "2026-10-23 04:00:00",
-    "entry_swrsi": 30.23930127947752
+    "dir": "short",
+    "entry_price": 106.01,
+    "entry_time": "2026-10-27 04:00:00",
+    "entry_swrsi": 71.13525455371591
   },
   "XWEN/USDT|1h": {
     "dir": "long",
@@ -2620,5 +2620,11 @@
     "entry_price": 38.35,
     "entry_time": "2026-10-26 16:00:00",
     "entry_swrsi": 25.080365916443327
+  },
+  "XDDOG/USDT|1h": {
+    "dir": "short",
+    "entry_price": 280.33,
+    "entry_time": "2026-10-27 04:00:00",
+    "entry_swrsi": 73.37619930469018
   }
 }
