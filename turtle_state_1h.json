@@ -270,10 +270,10 @@
     "entry_swrsi": 32.515941976465015
   },
   "XBE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 213.6,
-    "entry_time": "2026-10-22 18:00:00",
-    "entry_swrsi": 21.14078664040529
+    "dir": "short",
+    "entry_price": 220.97,
+    "entry_time": "2026-10-27 15:00:00",
+    "entry_swrsi": 78.26102401715069
   },
   "XCRWV/USDT|1h": {
     "dir": "long",
@@ -1272,10 +1272,10 @@
     "entry_swrsi": 20.32776106937842
   },
   "KITE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.11146,
-    "entry_time": "2026-10-18 20:00:00",
-    "entry_swrsi": 21.59680192038645
+    "dir": "short",
+    "entry_price": 0.11886,
+    "entry_time": "2026-10-27 15:00:00",
+    "entry_swrsi": 75.7065725469903
   },
   "KSM/USDT|1h": {
     "dir": "long",
@@ -2436,10 +2436,10 @@
     "entry_swrsi": 25.449542194132516
   },
   "XGPRO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 1.11,
-    "entry_time": "2026-10-15 12:00:00",
-    "entry_swrsi": 38.21026132423283
+    "dir": "short",
+    "entry_price": 1.047,
+    "entry_time": "2026-10-27 15:00:00",
+    "entry_swrsi": 70.95950146545151
   },
   "XPENG/USDT|1h": {
     "dir": "long",
