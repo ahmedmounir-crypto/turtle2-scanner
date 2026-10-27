@@ -2514,10 +2514,10 @@
     "entry_swrsi": 74.9845076299175
   },
   "XSHLD/USDT|1h": {
-    "dir": "long",
-    "entry_price": 61.54,
-    "entry_time": "2026-10-19 00:00:00",
-    "entry_swrsi": 63.2674226820266
+    "dir": "short",
+    "entry_price": 63.19,
+    "entry_time": "2026-10-26 23:00:00",
+    "entry_swrsi": 72.08365649250278
   },
   "XTMF/USDT|1h": {
     "dir": "short",
