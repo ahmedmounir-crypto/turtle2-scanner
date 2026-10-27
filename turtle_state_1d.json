@@ -1288,5 +1288,23 @@
     "entry_price": 418.37,
     "entry_time": "2026-10-23 00:00:00",
     "entry_swrsi": 75.6165711779607
+  },
+  "XGEV/USDT|1d": {
+    "dir": "long",
+    "entry_price": 861.65,
+    "entry_time": "2026-10-26 00:00:00",
+    "entry_swrsi": 30.777861115986042
+  },
+  "XKLAC/USDT|1d": {
+    "dir": "long",
+    "entry_price": 150.14,
+    "entry_time": "2026-10-26 00:00:00",
+    "entry_swrsi": 20.360846335540515
+  },
+  "XNOW/USDT|1d": {
+    "dir": "short",
+    "entry_price": 156.38,
+    "entry_time": "2026-10-26 00:00:00",
+    "entry_swrsi": 73.62330558280074
   }
 }
