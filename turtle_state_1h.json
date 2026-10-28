@@ -2632,5 +2632,11 @@
     "entry_price": 5.79,
     "entry_time": "2026-10-28 12:00:00",
     "entry_swrsi": 73.36739275862416
+  },
+  "XMRNA/USDT|1h": {
+    "dir": "short",
+    "entry_price": 214.25,
+    "entry_time": "2026-10-28 18:00:00",
+    "entry_swrsi": 74.0031206530208
   }
 }
