@@ -1306,5 +1306,29 @@
     "entry_price": 156.38,
     "entry_time": "2026-10-26 00:00:00",
     "entry_swrsi": 73.62330558280074
+  },
+  "BANANA/USDT|1d": {
+    "dir": "long",
+    "entry_price": 3.399,
+    "entry_time": "2026-10-27 00:00:00",
+    "entry_swrsi": 27.148133134746917
+  },
+  "BICO/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.01544,
+    "entry_time": "2026-10-27 00:00:00",
+    "entry_swrsi": 27.45582422306263
+  },
+  "CITY/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.2878,
+    "entry_time": "2026-10-27 00:00:00",
+    "entry_swrsi": 20.146561748931905
+  },
+  "XIBM/USDT|1d": {
+    "dir": "short",
+    "entry_price": 250.16,
+    "entry_time": "2026-10-27 00:00:00",
+    "entry_swrsi": 74.69147181769598
   }
 }
