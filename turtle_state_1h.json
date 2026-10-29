@@ -2638,5 +2638,11 @@
     "entry_price": 214.25,
     "entry_time": "2026-10-28 18:00:00",
     "entry_swrsi": 74.0031206530208
+  },
+  "XMRK/USDT|1h": {
+    "dir": "short",
+    "entry_price": 143.42,
+    "entry_time": "2026-10-29 07:00:00",
+    "entry_swrsi": 77.24807075679266
   }
 }
