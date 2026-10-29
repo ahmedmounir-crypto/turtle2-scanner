@@ -1330,5 +1330,11 @@
     "entry_price": 250.16,
     "entry_time": "2026-10-27 00:00:00",
     "entry_swrsi": 74.69147181769598
+  },
+  "BLUR/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.008291,
+    "entry_time": "2026-10-28 00:00:00",
+    "entry_swrsi": 25.202687511688712
   }
 }
