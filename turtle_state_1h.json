@@ -672,10 +672,10 @@
     "entry_swrsi": 20.080498965435087
   },
   "WAXP/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.004149,
-    "entry_time": "2026-08-21 11:00:00",
-    "entry_swrsi": 77.16815943783845
+    "dir": "long",
+    "entry_price": 0.004253,
+    "entry_time": "2026-10-30 05:00:00",
+    "entry_swrsi": 22.593113152334666
   },
   "CRO/USDT|1h": {
     "dir": "long",
@@ -1884,10 +1884,10 @@
     "entry_swrsi": 55.146900861949554
   },
   "XCIEN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 352.9,
-    "entry_time": "2026-10-21 07:00:00",
-    "entry_swrsi": 78.29528671875573
+    "dir": "long",
+    "entry_price": 336.15,
+    "entry_time": "2026-10-30 05:00:00",
+    "entry_swrsi": 22.02175828764162
   },
   "XSMCI/USDT|1h": {
     "dir": "long",
