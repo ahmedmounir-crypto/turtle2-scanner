@@ -2668,5 +2668,23 @@
     "entry_price": 9.123,
     "entry_time": "2026-10-29 19:00:00",
     "entry_swrsi": 66.1112303561586
+  },
+  "XMCD/USDT|1h": {
+    "dir": "short",
+    "entry_price": 260.75,
+    "entry_time": "2026-10-30 11:00:00",
+    "entry_swrsi": 71.79462094732035
+  },
+  "XTXN/USDT|1h": {
+    "dir": "short",
+    "entry_price": 308.04,
+    "entry_time": "2026-10-30 11:00:00",
+    "entry_swrsi": 43.00697452735703
+  },
+  "XXOM/USDT|1h": {
+    "dir": "short",
+    "entry_price": 187.03,
+    "entry_time": "2026-10-30 11:00:00",
+    "entry_swrsi": 79.46638142994028
   }
 }
