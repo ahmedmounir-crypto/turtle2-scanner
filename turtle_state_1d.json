@@ -732,10 +732,10 @@
     "entry_swrsi": 73.44700739434201
   },
   "SOPH/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.004212,
-    "entry_time": "2026-09-09 00:00:00",
-    "entry_swrsi": 58.579887136811
+    "dir": "long",
+    "entry_price": 0.001413,
+    "entry_time": "2026-10-29 00:00:00",
+    "entry_swrsi": 23.428983179528075
   },
   "ATOM/USDT|1d": {
     "dir": "short",
