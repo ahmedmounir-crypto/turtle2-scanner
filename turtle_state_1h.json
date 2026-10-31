@@ -936,10 +936,10 @@
     "entry_swrsi": 22.752313302885163
   },
   "STX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3405,
-    "entry_time": "2026-10-22 09:00:00",
-    "entry_swrsi": 22.869081017809233
+    "dir": "short",
+    "entry_price": 0.3145,
+    "entry_time": "2026-10-31 13:00:00",
+    "entry_swrsi": 67.129075498895
   },
   "SUSHI/USDT|1h": {
     "dir": "long",
