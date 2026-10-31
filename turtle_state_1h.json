@@ -798,10 +798,10 @@
     "entry_swrsi": 20.850400410926476
   },
   "PROVE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.217,
-    "entry_time": "2026-10-02 22:00:00",
-    "entry_swrsi": 22.441479023189313
+    "dir": "short",
+    "entry_price": 0.2186,
+    "entry_time": "2026-10-31 17:00:00",
+    "entry_swrsi": 70.32787823798755
   },
   "THETA/USDT|1h": {
     "dir": "long",
@@ -1326,10 +1326,10 @@
     "entry_swrsi": 76.85789167351811
   },
   "MOVE/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.008262,
-    "entry_time": "2026-10-14 16:00:00",
-    "entry_swrsi": 28.074273086966745
+    "dir": "short",
+    "entry_price": 0.006365,
+    "entry_time": "2026-10-31 17:00:00",
+    "entry_swrsi": 64.87306600648382
   },
   "NEIRO/USDT|1h": {
     "dir": "long",
@@ -2232,10 +2232,10 @@
     "entry_swrsi": 46.47165704204601
   },
   "ZENT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.001932,
-    "entry_time": "2026-09-13 04:00:00",
-    "entry_swrsi": 25.661302055136662
+    "dir": "short",
+    "entry_price": 0.001591,
+    "entry_time": "2026-10-31 17:00:00",
+    "entry_swrsi": 59.29489130043084
   },
   "XAAPL/USDT|1h": {
     "dir": "long",
