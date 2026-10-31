@@ -690,10 +690,10 @@
     "entry_swrsi": 28.77389288819077
   },
   "SPK/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02296,
-    "entry_time": "2026-10-07 05:00:00",
-    "entry_swrsi": 21.53802162378418
+    "dir": "short",
+    "entry_price": 0.01984,
+    "entry_time": "2026-10-31 06:00:00",
+    "entry_swrsi": 75.52421245759844
   },
   "2Z/USDT|1h": {
     "dir": "short",
@@ -2686,5 +2686,11 @@
     "entry_price": 187.03,
     "entry_time": "2026-10-30 11:00:00",
     "entry_swrsi": 79.46638142994028
+  },
+  "XPYPL/USDT|1h": {
+    "dir": "long",
+    "entry_price": 56.67,
+    "entry_time": "2026-10-31 06:00:00",
+    "entry_swrsi": 31.688053736923365
   }
 }
