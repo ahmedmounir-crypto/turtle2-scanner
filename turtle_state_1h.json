@@ -2698,5 +2698,11 @@
     "entry_price": 123.52,
     "entry_time": "2026-10-31 23:00:00",
     "entry_swrsi": 52.64400148798958
+  },
+  "XGTLB/USDT|1h": {
+    "dir": "long",
+    "entry_price": 53.92,
+    "entry_time": "2026-11-01 13:00:00",
+    "entry_swrsi": 20.52575446081143
   }
 }
