@@ -522,10 +522,10 @@
     "entry_swrsi": 22.70538042881884
   },
   "ANIME/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.003334,
-    "entry_time": "2026-10-15 22:00:00",
-    "entry_swrsi": 79.5237627146633
+    "dir": "long",
+    "entry_price": 0.00271,
+    "entry_time": "2026-11-01 21:00:00",
+    "entry_swrsi": 21.126487465167877
   },
   "CELO/USDT|1h": {
     "dir": "long",
