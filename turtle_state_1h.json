@@ -2692,5 +2692,11 @@
     "entry_price": 56.67,
     "entry_time": "2026-10-31 06:00:00",
     "entry_swrsi": 31.688053736923365
+  },
+  "XWMT/USDT|1h": {
+    "dir": "short",
+    "entry_price": 123.52,
+    "entry_time": "2026-10-31 23:00:00",
+    "entry_swrsi": 52.64400148798958
   }
 }
