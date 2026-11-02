@@ -138,10 +138,10 @@
     "entry_swrsi": 72.28964441849014
   },
   "1INCH/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.09136,
-    "entry_time": "2026-08-22 00:00:00",
-    "entry_swrsi": 72.08343902170411
+    "dir": "long",
+    "entry_price": 0.08249,
+    "entry_time": "2026-11-01 00:00:00",
+    "entry_swrsi": 25.799732068392334
   },
   "AEVO/USDT|1d": {
     "dir": "short",
@@ -1348,5 +1348,23 @@
     "entry_price": 0.04233,
     "entry_time": "2026-10-31 00:00:00",
     "entry_swrsi": 25.22182094540097
+  },
+  "AEON/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.02562,
+    "entry_time": "2026-11-01 00:00:00",
+    "entry_swrsi": 23.32664895154741
+  },
+  "BRL1/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.1832,
+    "entry_time": "2026-11-01 00:00:00",
+    "entry_swrsi": 20.626067742500904
+  },
+  "YFI/USDT|1d": {
+    "dir": "long",
+    "entry_price": 1992.0,
+    "entry_time": "2026-11-01 00:00:00",
+    "entry_swrsi": 28.88726108894198
   }
 }
