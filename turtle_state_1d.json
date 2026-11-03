@@ -1366,5 +1366,11 @@
     "entry_price": 1992.0,
     "entry_time": "2026-11-01 00:00:00",
     "entry_swrsi": 28.88726108894198
+  },
+  "XAPP/USDT|1d": {
+    "dir": "long",
+    "entry_price": 230.71,
+    "entry_time": "2026-11-02 00:00:00",
+    "entry_swrsi": 20.462176722064545
   }
 }
