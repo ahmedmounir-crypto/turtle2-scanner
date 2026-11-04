@@ -1614,10 +1614,10 @@
     "entry_swrsi": 27.924856552094504
   },
   "BAT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.16957,
-    "entry_time": "2026-10-18 20:00:00",
-    "entry_swrsi": 22.009402595642996
+    "dir": "short",
+    "entry_price": 0.13588,
+    "entry_time": "2026-11-04 08:00:00",
+    "entry_swrsi": 77.69327450181218
   },
   "CHIP/USDT|1h": {
     "dir": "short",
