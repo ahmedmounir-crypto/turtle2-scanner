@@ -2526,10 +2526,10 @@
     "entry_swrsi": 27.83978976880096
   },
   "XUVXY/USDT|1h": {
-    "dir": "short",
-    "entry_price": 19.85,
-    "entry_time": "2026-11-03 07:00:00",
-    "entry_swrsi": 72.57033509103427
+    "dir": "long",
+    "entry_price": 16.23,
+    "entry_time": "2026-11-04 21:00:00",
+    "entry_swrsi": 20.76138465301549
   },
   "XBRKB/USDT|1h": {
     "dir": "short",
