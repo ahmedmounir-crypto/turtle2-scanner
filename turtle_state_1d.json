@@ -534,10 +534,10 @@
     "entry_swrsi": 23.457934687631226
   },
   "THETA/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.1751,
-    "entry_time": "2026-08-25 00:00:00",
-    "entry_swrsi": 71.5301790814605
+    "dir": "long",
+    "entry_price": 0.1524,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 21.00796009619426
   },
   "TRB/USDT|1d": {
     "dir": "short",
@@ -612,10 +612,10 @@
     "entry_swrsi": 55.15028457525208
   },
   "JITOSOL/USDT|1d": {
-    "dir": "short",
-    "entry_price": 135.38,
-    "entry_time": "2026-08-28 00:00:00",
-    "entry_swrsi": 78.18768544391234
+    "dir": "long",
+    "entry_price": 122.6,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 25.173738732183583
   },
   "JUP/USDT|1d": {
     "dir": "short",
@@ -630,16 +630,16 @@
     "entry_swrsi": 72.41285404328256
   },
   "OKSOL/USDT|1d": {
-    "dir": "short",
-    "entry_price": 104.02,
-    "entry_time": "2026-08-28 00:00:00",
-    "entry_swrsi": 77.86628780776593
+    "dir": "long",
+    "entry_price": 92.85,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 21.347343654321698
   },
   "SOL/USDT|1d": {
-    "dir": "short",
-    "entry_price": 104.15,
-    "entry_time": "2026-08-28 00:00:00",
-    "entry_swrsi": 78.1872882095799
+    "dir": "long",
+    "entry_price": 92.83,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 21.572900165690985
   },
   "CHIP/USDT|1d": {
     "dir": "short",
@@ -1302,10 +1302,10 @@
     "entry_swrsi": 20.360846335540515
   },
   "XNOW/USDT|1d": {
-    "dir": "short",
-    "entry_price": 156.38,
-    "entry_time": "2026-10-26 00:00:00",
-    "entry_swrsi": 73.62330558280074
+    "dir": "long",
+    "entry_price": 109.35,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 21.645179479484494
   },
   "BANANA/USDT|1d": {
     "dir": "long",
@@ -1372,5 +1372,23 @@
     "entry_price": 230.71,
     "entry_time": "2026-11-02 00:00:00",
     "entry_swrsi": 20.462176722064545
+  },
+  "XCOIN/USDT|1d": {
+    "dir": "long",
+    "entry_price": 145.42,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 28.547812574158403
+  },
+  "XLLY/USDT|1d": {
+    "dir": "short",
+    "entry_price": 1411.2,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 78.18484022253338
+  },
+  "XTWLO/USDT|1d": {
+    "dir": "long",
+    "entry_price": 214.48,
+    "entry_time": "2026-11-03 00:00:00",
+    "entry_swrsi": 26.890378815746505
   }
 }
