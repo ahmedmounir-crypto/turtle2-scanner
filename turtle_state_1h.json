@@ -438,10 +438,10 @@
     "entry_swrsi": 79.58017845024686
   },
   "XAPP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 261.96,
-    "entry_time": "2026-10-18 22:00:00",
-    "entry_swrsi": 26.605561444180807
+    "dir": "short",
+    "entry_price": 326.08,
+    "entry_time": "2026-11-05 02:00:00",
+    "entry_swrsi": 79.19530069708493
   },
   "XCOHR/USDT|1h": {
     "dir": "long",
@@ -2716,5 +2716,11 @@
     "entry_price": 185.98,
     "entry_time": "2026-11-03 15:00:00",
     "entry_swrsi": 32.70191611842919
+  },
+  "XACN/USDT|1h": {
+    "dir": "short",
+    "entry_price": 265.51,
+    "entry_time": "2026-11-05 02:00:00",
+    "entry_swrsi": 75.37767670978235
   }
 }
