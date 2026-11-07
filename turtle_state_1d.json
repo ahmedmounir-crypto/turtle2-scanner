@@ -168,10 +168,10 @@
     "entry_swrsi": 79.78237517102738
   },
   "BERA/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.1844,
-    "entry_time": "2026-08-22 00:00:00",
-    "entry_swrsi": 72.21170836845914
+    "dir": "long",
+    "entry_price": 0.1193,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 22.653933480463053
   },
   "BNT/USDT|1d": {
     "dir": "short",
@@ -1092,10 +1092,10 @@
     "entry_swrsi": 21.697486850936464
   },
   "XPLTR/USDT|1d": {
-    "dir": "short",
-    "entry_price": 207.73,
-    "entry_time": "2026-10-13 00:00:00",
-    "entry_swrsi": 76.25081150190773
+    "dir": "long",
+    "entry_price": 161.12,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 23.845201657278466
   },
   "SPACE/USDT|1d": {
     "dir": "long",
@@ -1414,5 +1414,41 @@
     "entry_price": 102.1,
     "entry_time": "2026-11-04 00:00:00",
     "entry_swrsi": 25.563769054756044
+  },
+  "FLOW/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.0211,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 22.729876210215195
+  },
+  "LAYER/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.05416,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 23.142542149973508
+  },
+  "SATS/USDT|1d": {
+    "dir": "long",
+    "entry_price": 8.792e-09,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 29.624164396196257
+  },
+  "XALAB/USDT|1d": {
+    "dir": "long",
+    "entry_price": 191.66,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 21.251634780613436
+  },
+  "XCIEN/USDT|1d": {
+    "dir": "long",
+    "entry_price": 245.86,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 22.75344803786379
+  },
+  "XSNOW/USDT|1d": {
+    "dir": "long",
+    "entry_price": 276.25,
+    "entry_time": "2026-11-06 00:00:00",
+    "entry_swrsi": 23.140491788383947
   }
 }
