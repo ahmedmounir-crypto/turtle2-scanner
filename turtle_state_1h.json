@@ -2586,10 +2586,10 @@
     "entry_swrsi": 78.36595417113269
   },
   "CT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.22535,
-    "entry_time": "2026-10-22 21:00:00",
-    "entry_swrsi": 23.648018777827865
+    "dir": "short",
+    "entry_price": 0.13512,
+    "entry_time": "2026-11-07 10:00:00",
+    "entry_swrsi": 71.96296597467918
   },
   "XEWT/USDT|1h": {
     "dir": "short",
