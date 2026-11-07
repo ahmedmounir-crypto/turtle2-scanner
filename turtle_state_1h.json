@@ -1482,10 +1482,10 @@
     "entry_swrsi": 78.63169421149723
   },
   "MET/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.3659,
-    "entry_time": "2026-10-14 16:00:00",
-    "entry_swrsi": 23.08053744204296
+    "dir": "short",
+    "entry_price": 0.3213,
+    "entry_time": "2026-11-07 19:00:00",
+    "entry_swrsi": 74.82494484192516
   },
   "OL/USDT|1h": {
     "dir": "short",
