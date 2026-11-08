@@ -744,10 +744,10 @@
     "entry_swrsi": 20.780312759340507
   },
   "SENT/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.02191,
-    "entry_time": "2026-09-30 17:00:00",
-    "entry_swrsi": 69.97188104876231
+    "dir": "long",
+    "entry_price": 0.01727,
+    "entry_time": "2026-11-08 16:00:00",
+    "entry_swrsi": 20.394611415650875
   },
   "USDS/USDT|1h": {
     "dir": "long",
