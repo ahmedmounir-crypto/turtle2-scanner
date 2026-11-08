@@ -612,10 +612,10 @@
     "entry_swrsi": 25.792193875957505
   },
   "TOSHI/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.00011923,
-    "entry_time": "2026-10-21 02:00:00",
-    "entry_swrsi": 70.68372010800603
+    "dir": "long",
+    "entry_price": 9.655e-05,
+    "entry_time": "2026-11-08 11:00:00",
+    "entry_swrsi": 32.444347029334494
   },
   "W/USDT|1h": {
     "dir": "long",
@@ -2406,10 +2406,10 @@
     "entry_swrsi": 37.066188160679644
   },
   "XDP/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.023168,
-    "entry_time": "2026-10-09 16:00:00",
-    "entry_swrsi": 78.04455475440612
+    "dir": "long",
+    "entry_price": 0.015512,
+    "entry_time": "2026-11-08 11:00:00",
+    "entry_swrsi": 21.596005140571922
   },
   "XAEHR/USDT|1h": {
     "dir": "long",
