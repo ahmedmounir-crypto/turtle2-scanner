@@ -1450,5 +1450,17 @@
     "entry_price": 276.25,
     "entry_time": "2026-11-06 00:00:00",
     "entry_swrsi": 23.140491788383947
+  },
+  "XMRVL/USDT|1d": {
+    "dir": "long",
+    "entry_price": 142.1,
+    "entry_time": "2026-11-07 00:00:00",
+    "entry_swrsi": 20.507751429089243
+  },
+  "XXIAOMI/USDT|1d": {
+    "dir": "short",
+    "entry_price": 3.819,
+    "entry_time": "2026-11-07 00:00:00",
+    "entry_swrsi": 79.31638146366937
   }
 }
