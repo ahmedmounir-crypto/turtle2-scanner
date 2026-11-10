@@ -714,10 +714,10 @@
     "entry_swrsi": 76.71660972108033
   },
   "BIGTIME/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.007058,
-    "entry_time": "2026-09-09 00:00:00",
-    "entry_swrsi": 67.41528830808396
+    "dir": "long",
+    "entry_price": 0.005394,
+    "entry_time": "2026-11-09 00:00:00",
+    "entry_swrsi": 20.618210460968886
   },
   "DOGS/USDT|1d": {
     "dir": "short",
@@ -1050,10 +1050,10 @@
     "entry_swrsi": 66.43007605361103
   },
   "XCSCO/USDT|1d": {
-    "dir": "short",
-    "entry_price": 117.3,
-    "entry_time": "2026-10-07 00:00:00",
-    "entry_swrsi": 78.0625225459581
+    "dir": "long",
+    "entry_price": 99.32,
+    "entry_time": "2026-11-09 00:00:00",
+    "entry_swrsi": 32.24507438734945
   },
   "XLITE/USDT|1d": {
     "dir": "short",
@@ -1480,5 +1480,23 @@
     "entry_price": 8.51,
     "entry_time": "2026-11-08 00:00:00",
     "entry_swrsi": 20.8458729135933
+  },
+  "GRAM/USDT|1d": {
+    "dir": "long",
+    "entry_price": 1.04,
+    "entry_time": "2026-11-09 00:00:00",
+    "entry_swrsi": 21.50247825865633
+  },
+  "WAXP/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.003793,
+    "entry_time": "2026-11-09 00:00:00",
+    "entry_swrsi": 22.161018486267043
+  },
+  "XSNXX/USDT|1d": {
+    "dir": "long",
+    "entry_price": 3.757,
+    "entry_time": "2026-11-09 00:00:00",
+    "entry_swrsi": 23.42854331379636
   }
 }
