@@ -60,10 +60,10 @@
     "entry_swrsi": 78.08522268587652
   },
   "XCBRS/USDT|1h": {
-    "dir": "long",
-    "entry_price": 186.74,
-    "entry_time": "2026-09-13 13:00:00",
-    "entry_swrsi": 22.058734089359696
+    "dir": "short",
+    "entry_price": 95.72,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 72.48126275167571
   },
   "XINTC/USDT|1h": {
     "dir": "long",
@@ -360,10 +360,10 @@
     "entry_swrsi": 21.872496753317243
   },
   "XSOXL/USDT|1h": {
-    "dir": "long",
-    "entry_price": 45.6,
-    "entry_time": "2026-11-05 17:00:00",
-    "entry_swrsi": 20.733153397362805
+    "dir": "short",
+    "entry_price": 56.06,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 73.07939110775133
   },
   "ASP/USDT|1h": {
     "dir": "long",
@@ -630,10 +630,10 @@
     "entry_swrsi": 20.61185346686289
   },
   "XQQQ/USDT|1h": {
-    "dir": "long",
-    "entry_price": 713.4,
-    "entry_time": "2026-10-22 09:00:00",
-    "entry_swrsi": 22.375893060495542
+    "dir": "short",
+    "entry_price": 678.54,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 72.10309947771522
   },
   "YFI/USDT|1h": {
     "dir": "short",
@@ -738,10 +738,10 @@
     "entry_swrsi": 21.754430306274617
   },
   "XAVGO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 328.57,
-    "entry_time": "2026-10-22 09:00:00",
-    "entry_swrsi": 20.780312759340507
+    "dir": "short",
+    "entry_price": 319.66,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 72.77481450313878
   },
   "SENT/USDT|1h": {
     "dir": "long",
@@ -1902,10 +1902,10 @@
     "entry_swrsi": 21.584233491244056
   },
   "XGLW/USDT|1h": {
-    "dir": "long",
-    "entry_price": 123.53,
-    "entry_time": "2026-10-22 18:00:00",
-    "entry_swrsi": 20.140914523868066
+    "dir": "short",
+    "entry_price": 115.46,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 74.38689135452134
   },
   "XISRG/USDT|1h": {
     "dir": "short",
@@ -2740,5 +2740,11 @@
     "entry_price": 6.55,
     "entry_time": "2026-11-09 17:00:00",
     "entry_swrsi": 69.12527358731772
+  },
+  "XEWZ/USDT|1h": {
+    "dir": "short",
+    "entry_price": 32.66,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 78.6966152642899
   }
 }
