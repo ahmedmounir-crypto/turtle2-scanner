@@ -1860,10 +1860,10 @@
     "entry_swrsi": 21.45696333874718
   },
   "EDGE/USDT|1h": {
-    "dir": "short",
-    "entry_price": 0.5084,
-    "entry_time": "2026-09-03 09:00:00",
-    "entry_swrsi": 70.78325905453097
+    "dir": "long",
+    "entry_price": 0.3574,
+    "entry_time": "2026-11-11 08:00:00",
+    "entry_swrsi": 25.542637118106654
   },
   "INJ/USDT|1h": {
     "dir": "long",
