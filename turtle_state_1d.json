@@ -408,10 +408,10 @@
     "entry_swrsi": 77.34355323421588
   },
   "TRUMP/USDT|1d": {
-    "dir": "short",
-    "entry_price": 2.395,
-    "entry_time": "2026-08-24 00:00:00",
-    "entry_swrsi": 77.93279988553043
+    "dir": "long",
+    "entry_price": 1.144,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 20.154606101992044
   },
   "USDG/USDT|1d": {
     "dir": "short",
@@ -1498,5 +1498,11 @@
     "entry_price": 3.757,
     "entry_time": "2026-11-09 00:00:00",
     "entry_swrsi": 23.42854331379636
+  },
+  "PI/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.07114,
+    "entry_time": "2026-11-10 00:00:00",
+    "entry_swrsi": 32.05064668459322
   }
 }
