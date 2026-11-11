@@ -2718,10 +2718,10 @@
     "entry_swrsi": 32.70191611842919
   },
   "XACN/USDT|1h": {
-    "dir": "short",
-    "entry_price": 265.51,
-    "entry_time": "2026-11-05 02:00:00",
-    "entry_swrsi": 75.37767670978235
+    "dir": "long",
+    "entry_price": 258.73,
+    "entry_time": "2026-11-11 01:00:00",
+    "entry_swrsi": 64.04620402237096
   },
   "XQNT/USDT|1h": {
     "dir": "short",
