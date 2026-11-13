@@ -672,10 +672,10 @@
     "entry_swrsi": 24.193908161090576
   },
   "NES/USDT|1d": {
-    "dir": "long",
-    "entry_price": 0.121,
-    "entry_time": "2026-09-02 00:00:00",
-    "entry_swrsi": 24.19257240708908
+    "dir": "short",
+    "entry_price": 0.1426,
+    "entry_time": "2026-11-12 00:00:00",
+    "entry_swrsi": 60.01113228425768
   },
   "VELO/USDT|1d": {
     "dir": "short",
@@ -1062,10 +1062,10 @@
     "entry_swrsi": 76.6971395077052
   },
   "XNVDA/USDT|1d": {
-    "dir": "short",
-    "entry_price": 237.8,
-    "entry_time": "2026-10-07 00:00:00",
-    "entry_swrsi": 74.4144494943973
+    "dir": "long",
+    "entry_price": 168.36,
+    "entry_time": "2026-11-12 00:00:00",
+    "entry_swrsi": 24.507604229213616
   },
   "XTSM/USDT|1d": {
     "dir": "short",
@@ -1368,10 +1368,10 @@
     "entry_swrsi": 28.88726108894198
   },
   "XAPP/USDT|1d": {
-    "dir": "long",
-    "entry_price": 230.71,
-    "entry_time": "2026-11-02 00:00:00",
-    "entry_swrsi": 20.462176722064545
+    "dir": "short",
+    "entry_price": 395.19,
+    "entry_time": "2026-11-12 00:00:00",
+    "entry_swrsi": 78.53742024657872
   },
   "XCOIN/USDT|1d": {
     "dir": "long",
@@ -1504,5 +1504,11 @@
     "entry_price": 0.07114,
     "entry_time": "2026-11-10 00:00:00",
     "entry_swrsi": 32.05064668459322
+  },
+  "XTTWO/USDT|1d": {
+    "dir": "short",
+    "entry_price": 227.97,
+    "entry_time": "2026-11-12 00:00:00",
+    "entry_swrsi": 77.67916647226915
   }
 }
