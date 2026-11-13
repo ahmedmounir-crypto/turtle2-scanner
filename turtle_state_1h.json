@@ -2124,10 +2124,10 @@
     "entry_swrsi": 76.22467086678516
   },
   "XROK/USDT|1h": {
-    "dir": "short",
-    "entry_price": 447.64,
-    "entry_time": "2026-10-02 14:00:00",
-    "entry_swrsi": 77.98018252290349
+    "dir": "long",
+    "entry_price": 403.81,
+    "entry_time": "2026-11-13 07:00:00",
+    "entry_swrsi": 27.120053276090044
   },
   "ZEUS/USDT|1h": {
     "dir": "short",
