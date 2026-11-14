@@ -1908,10 +1908,10 @@
     "entry_swrsi": 74.38689135452134
   },
   "XISRG/USDT|1h": {
-    "dir": "short",
-    "entry_price": 452.83,
-    "entry_time": "2026-11-09 07:00:00",
-    "entry_swrsi": 71.38066906225613
+    "dir": "long",
+    "entry_price": 441.57,
+    "entry_time": "2026-11-14 14:00:00",
+    "entry_swrsi": 38.41851600026156
   },
   "XKO/USDT|1h": {
     "dir": "short",
@@ -2746,5 +2746,11 @@
     "entry_price": 32.66,
     "entry_time": "2026-11-10 00:00:00",
     "entry_swrsi": 78.6966152642899
+  },
+  "XBAC/USDT|1h": {
+    "dir": "short",
+    "entry_price": 50.95,
+    "entry_time": "2026-11-14 14:00:00",
+    "entry_swrsi": 61.29276018193902
   }
 }
