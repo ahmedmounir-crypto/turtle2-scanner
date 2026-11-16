@@ -486,10 +486,10 @@
     "entry_swrsi": 79.26726011680698
   },
   "XNFLX/USDT|1h": {
-    "dir": "short",
-    "entry_price": 69.22,
-    "entry_time": "2026-10-07 05:00:00",
-    "entry_swrsi": 79.39422860901479
+    "dir": "long",
+    "entry_price": 60.86,
+    "entry_time": "2026-11-16 20:00:00",
+    "entry_swrsi": 22.92127337008272
   },
   "ALLO/USDT|1h": {
     "dir": "long",
