@@ -1644,10 +1644,10 @@
     "entry_swrsi": 27.322303418665854
   },
   "MENGO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01513,
-    "entry_time": "2026-11-05 17:00:00",
-    "entry_swrsi": 20.389354063706456
+    "dir": "short",
+    "entry_price": 0.01428,
+    "entry_time": "2026-11-16 02:00:00",
+    "entry_swrsi": 69.61355249556775
   },
   "NIGHT/USDT|1h": {
     "dir": "short",
@@ -2412,10 +2412,10 @@
     "entry_swrsi": 21.596005140571922
   },
   "XAEHR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 62.96,
-    "entry_time": "2026-10-29 14:00:00",
-    "entry_swrsi": 45.72118897244612
+    "dir": "short",
+    "entry_price": 55.96,
+    "entry_time": "2026-11-16 02:00:00",
+    "entry_swrsi": 66.1346274285738
   },
   "XIONQ/USDT|1h": {
     "dir": "long",
