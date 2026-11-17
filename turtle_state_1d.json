@@ -276,10 +276,10 @@
     "entry_swrsi": 77.15619447931752
   },
   "PNUT/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.05244,
-    "entry_time": "2026-08-22 00:00:00",
-    "entry_swrsi": 75.24198127771498
+    "dir": "long",
+    "entry_price": 0.0294,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 22.88077481184623
   },
   "SKY/USDT|1d": {
     "dir": "long",
@@ -294,10 +294,10 @@
     "entry_swrsi": 73.41821497012162
   },
   "XPL/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.09363,
-    "entry_time": "2026-08-22 00:00:00",
-    "entry_swrsi": 70.55727729606758
+    "dir": "long",
+    "entry_price": 0.04539,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 22.13885748885108
   },
   "XTZ/USDT|1d": {
     "dir": "short",
@@ -324,10 +324,10 @@
     "entry_swrsi": 20.008561250686206
   },
   "ETH/USDT|1d": {
-    "dir": "short",
-    "entry_price": 2482.2,
-    "entry_time": "2026-08-24 00:00:00",
-    "entry_swrsi": 79.54382812616664
+    "dir": "long",
+    "entry_price": 1820.7,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 20.95111159974663
   },
   "HYPE/USDT|1d": {
     "dir": "long",
@@ -396,10 +396,10 @@
     "entry_swrsi": 69.42189987984813
   },
   "STETH/USDT|1d": {
-    "dir": "short",
-    "entry_price": 2482.03,
-    "entry_time": "2026-08-24 00:00:00",
-    "entry_swrsi": 79.8332576802103
+    "dir": "long",
+    "entry_price": 1820.31,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 20.537554523603426
   },
   "SUSHI/USDT|1d": {
     "dir": "short",
@@ -606,10 +606,10 @@
     "entry_swrsi": 72.87183524963451
   },
   "HUMA/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.02099,
-    "entry_time": "2026-08-28 00:00:00",
-    "entry_swrsi": 55.15028457525208
+    "dir": "long",
+    "entry_price": 0.009853,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 27.322545108335664
   },
   "JITOSOL/USDT|1d": {
     "dir": "long",
@@ -1648,5 +1648,23 @@
     "entry_price": 101.46,
     "entry_time": "2026-11-15 00:00:00",
     "entry_swrsi": 20.5557063256908
+  },
+  "LPT/USDT|1d": {
+    "dir": "long",
+    "entry_price": 1.105,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 21.567147219036304
+  },
+  "ME/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.0378,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 20.5657937430822
+  },
+  "NEIRO/USDT|1d": {
+    "dir": "long",
+    "entry_price": 4.919e-05,
+    "entry_time": "2026-11-16 00:00:00",
+    "entry_swrsi": 21.74370799585187
   }
 }
