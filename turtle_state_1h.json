@@ -402,10 +402,10 @@
     "entry_swrsi": 22.93102437868902
   },
   "TRX/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.32838,
-    "entry_time": "2026-10-22 21:00:00",
-    "entry_swrsi": 24.065780422935006
+    "dir": "short",
+    "entry_price": 0.31276,
+    "entry_time": "2026-11-19 08:00:00",
+    "entry_swrsi": 78.16720092619346
   },
   "VIRTUAL/USDT|1h": {
     "dir": "long",
