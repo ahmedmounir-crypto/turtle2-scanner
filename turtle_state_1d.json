@@ -1702,5 +1702,17 @@
     "entry_price": 0.23324,
     "entry_time": "2026-11-17 00:00:00",
     "entry_swrsi": 24.550450667005503
+  },
+  "OL/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.003782,
+    "entry_time": "2026-11-18 00:00:00",
+    "entry_swrsi": 22.35959224645126
+  },
+  "POR/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.05874,
+    "entry_time": "2026-11-18 00:00:00",
+    "entry_swrsi": 24.231323909763315
   }
 }
