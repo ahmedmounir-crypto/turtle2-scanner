@@ -1350,10 +1350,10 @@
     "entry_swrsi": 26.175941482740438
   },
   "PHA/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.05101,
-    "entry_time": "2026-10-14 16:00:00",
-    "entry_swrsi": 27.516769706618767
+    "dir": "short",
+    "entry_price": 0.03016,
+    "entry_time": "2026-11-22 19:00:00",
+    "entry_swrsi": 77.12392917881526
   },
   "PNUT/USDT|1h": {
     "dir": "long",
@@ -2808,10 +2808,10 @@
     "entry_swrsi": 41.497570718979766
   },
   "AERO/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.393,
-    "entry_time": "2026-11-20 21:00:00",
-    "entry_swrsi": 29.509421804679032
+    "dir": "short",
+    "entry_price": 0.4258,
+    "entry_time": "2026-11-22 19:00:00",
+    "entry_swrsi": 79.21187132491741
   },
   "XHUT/USDT|1h": {
     "dir": "long",
