@@ -1122,10 +1122,10 @@
     "entry_swrsi": 20.453940073863286
   },
   "AR/USDT|1h": {
-    "dir": "long",
-    "entry_price": 3.571,
-    "entry_time": "2026-10-22 21:00:00",
-    "entry_swrsi": 27.73349087620902
+    "dir": "short",
+    "entry_price": 2.361,
+    "entry_time": "2026-11-22 12:00:00",
+    "entry_swrsi": 77.2398209456201
   },
   "ARKM/USDT|1h": {
     "dir": "long",
@@ -2298,10 +2298,10 @@
     "entry_swrsi": 28.47802651682415
   },
   "CP/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.02165,
-    "entry_time": "2026-09-07 03:00:00",
-    "entry_swrsi": 23.989836051175512
+    "dir": "short",
+    "entry_price": 0.0065,
+    "entry_time": "2026-11-22 12:00:00",
+    "entry_swrsi": 71.34976463880636
   },
   "DORA/USDT|1h": {
     "dir": "long",
@@ -2388,10 +2388,10 @@
     "entry_swrsi": 59.50909753088837
   },
   "ZBCN/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.0017416,
-    "entry_time": "2026-11-09 00:00:00",
-    "entry_swrsi": 30.894508641035596
+    "dir": "short",
+    "entry_price": 0.0019401,
+    "entry_time": "2026-11-22 12:00:00",
+    "entry_swrsi": 68.04317092245655
   },
   "PONS/USDT|1h": {
     "dir": "long",
