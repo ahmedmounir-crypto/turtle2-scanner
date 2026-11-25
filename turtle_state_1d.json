@@ -1816,5 +1816,17 @@
     "entry_price": 0.002921,
     "entry_time": "2026-11-23 00:00:00",
     "entry_swrsi": 20.039785423534617
+  },
+  "XCRM/USDT|1d": {
+    "dir": "long",
+    "entry_price": 193.51,
+    "entry_time": "2026-11-24 00:00:00",
+    "entry_swrsi": 31.995542542176455
+  },
+  "ZENT/USDT|1d": {
+    "dir": "long",
+    "entry_price": 0.001433,
+    "entry_time": "2026-11-24 00:00:00",
+    "entry_swrsi": 28.861438076079043
   }
 }
