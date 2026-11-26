@@ -744,10 +744,10 @@
     "entry_swrsi": 72.77481450313878
   },
   "SENT/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.01727,
-    "entry_time": "2026-11-08 16:00:00",
-    "entry_swrsi": 20.394611415650875
+    "dir": "short",
+    "entry_price": 0.02187,
+    "entry_time": "2026-11-26 19:00:00",
+    "entry_swrsi": 78.59897674795796
   },
   "USDS/USDT|1h": {
     "dir": "short",
@@ -1794,10 +1794,10 @@
     "entry_swrsi": 25.294779798911655
   },
   "WIF/USDT|1h": {
-    "dir": "long",
-    "entry_price": 0.2011,
-    "entry_time": "2026-10-22 09:00:00",
-    "entry_swrsi": 24.767148857450888
+    "dir": "short",
+    "entry_price": 0.1394,
+    "entry_time": "2026-11-26 19:00:00",
+    "entry_swrsi": 76.8273665463407
   },
   "XAAOI/USDT|1h": {
     "dir": "long",
