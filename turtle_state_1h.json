@@ -2784,10 +2784,10 @@
     "entry_swrsi": 60.11577649092625
   },
   "XBIDU/USDT|1h": {
-    "dir": "long",
-    "entry_price": 71.4,
-    "entry_time": "2026-11-18 02:00:00",
-    "entry_swrsi": 25.94376172122988
+    "dir": "short",
+    "entry_price": 62.52,
+    "entry_time": "2026-11-27 01:00:00",
+    "entry_swrsi": 40.640721804982476
   },
   "XJPM/USDT|1h": {
     "dir": "long",
