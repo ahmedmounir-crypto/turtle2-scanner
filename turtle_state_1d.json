@@ -390,10 +390,10 @@
     "entry_swrsi": 67.32259905791756
   },
   "SPK/USDT|1d": {
-    "dir": "short",
-    "entry_price": 0.01911,
-    "entry_time": "2026-08-24 00:00:00",
-    "entry_swrsi": 69.42189987984813
+    "dir": "long",
+    "entry_price": 0.01225,
+    "entry_time": "2026-11-26 00:00:00",
+    "entry_swrsi": 28.790723877099936
   },
   "STETH/USDT|1d": {
     "dir": "long",
@@ -1332,10 +1332,10 @@
     "entry_swrsi": 23.02590843336151
   },
   "BLUR/USDT|1d": {
-    "dir": "long",
-    "entry_price": 0.008291,
-    "entry_time": "2026-10-28 00:00:00",
-    "entry_swrsi": 25.202687511688712
+    "dir": "short",
+    "entry_price": 0.009989,
+    "entry_time": "2026-11-26 00:00:00",
+    "entry_swrsi": 72.86668617698231
   },
   "MOVE/USDT|1d": {
     "dir": "long",
